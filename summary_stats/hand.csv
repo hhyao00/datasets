@@ -1,5 +1,5 @@
-,depression_mean,depression_relative,age_mean,age_relative
-0,0.25989,0.02347,0.285,0.02347
-1,0.26264,0.08605,0.27163,0.08605
-2,0.28844,0.88625,0.27318,0.88625
-3,0.38711,0.00424,0.25308,0.00424
+hand,depression_mean,depression_relative,age_mean,age_relative
+both,0.25989,0.02347,0.285,0.02347
+left,0.26264,0.08605,0.27163,0.08605
+right,0.28844,0.88625,0.27318,0.88625
+unspecified,0.38711,0.00424,0.25308,0.00424
