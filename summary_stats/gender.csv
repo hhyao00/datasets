@@ -1,5 +1,5 @@
-gender,depression_mean,depression_relative,age_mean,age_relative
-female,0.43564,0.69133,0.26719,0.69133
-male,0.38185,0.29302,0.28957,0.29302
-other,0.5582,0.01467,0.23089,0.01467
-unspecified,0.34921,0.00098,0.3,0.00098
+gender,depression_mean,age_mean,% participants
+female,0.43564,0.26719,0.69133
+male,0.38185,0.28957,0.29302
+other,0.5582,0.23089,0.01467
+unspecified,0.34921,0.3,0.00098

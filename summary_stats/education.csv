@@ -1,6 +1,6 @@
-education,depression_mean,depression_relative,age_mean,age_relative
-graduate degree,0.36558,0.21252,0.33816,0.21252
-high school,0.46567,0.28977,0.20849,0.28977
-less than high school,0.49853,0.0176,0.18111,0.0176
-university,0.41769,0.4648,0.28605,0.4648
-unspecified,0.39514,0.01532,0.31468,0.01532
+education,depression_mean,age_mean,% participants
+graduate degree,0.36558,0.33816,0.21252
+high school,0.46567,0.20849,0.28977
+less than high school,0.49853,0.18111,0.0176
+university,0.41769,0.28605,0.4648
+unspecified,0.39514,0.31468,0.01532
