@@ -1,51 +1,74 @@
 source,target,value
+arab,asexual,2
+arab,bisexual,2
+arab,heterosexual,9
+arab,homosexual,1
+arab,other,2
+asexual,extremely_severe,13
+asexual,mild,3
+asexual,moderate,5
+asexual,normal,4
+asexual,severe,7
+asian,asexual,10
+asian,bisexual,12
+asian,heterosexual,10
+asian,homosexual,7
+asian,other,9
+bisexual,extremely_severe,15
+bisexual,mild,6
+bisexual,moderate,9
+bisexual,normal,8
+bisexual,severe,8
+black,asexual,2
+black,bisexual,6
+black,heterosexual,11
+black,homosexual,4
+black,other,2
+female,arab,10
+female,asian,24
+female,black,14
+female,indigenous australian,3
+female,native american,7
+female,other,23
+female,white,25
+heterosexual,extremely_severe,15
+heterosexual,mild,10
+heterosexual,moderate,11
+heterosexual,normal,12
+heterosexual,severe,11
+homosexual,extremely_severe,11
+homosexual,mild,5
+homosexual,moderate,6
+homosexual,normal,4
+homosexual,severe,9
+indigenous australian,asexual,1
+indigenous australian,heterosexual,1
+indigenous australian,homosexual,1
+male,arab,6
+male,asian,20
+male,black,9
+male,native american,3
+male,other,15
+male,white,21
+native american,bisexual,4
+native american,heterosexual,6
 native american,other,1
-asexual,normal,1
-male,asian,39
-female,asian,51
-male,arab,2
-asian,bisexual,5
-bisexual,normal,20
-homosexual,moderate,1
-other,asexual,1
-bisexual,moderate,1
-bisexual,mild,3
-other,other,1
-other,other,2
-asian,heterosexual,74
-bisexual,extremely_severe,17
-male,other,1
-other,homosexual,2
-arab,heterosexual,5
-asexual,moderate,3
-heterosexual,severe,5
-asian,other,10
-asian,other,6
-heterosexual,extremely_severe,1
-other,mild,2
-white,homosexual,1
-homosexual,extremely_severe,1
-asian,bisexual,9
-native american,heterosexual,1
-white,heterosexual,149
-male,white,81
-male,white,2
-other,asian,1
+other,asexual,7
+other,asian,4
+other,bisexual,9
 other,black,2
-homosexual,extremely_severe,44
-heterosexual,normal,1
-asexual,extremely_severe,1
-asexual,moderate,2
-homosexual,extremely_severe,2
-white,bisexual,16
-male,other,11
-white,bisexual,2
-other,mild,1
-male,white,11
-asian,other,2
-bisexual,extremely_severe,7
-white,bisexual,25
-female,other,50
-other,asexual,3
-white,asexual,27
-female,white,32
+other,extremely_severe,10
+other,heterosexual,10
+other,homosexual,8
+other,mild,6
+other,moderate,4
+other,native american,1
+other,normal,6
+other,other,18
+other,severe,8
+other,white,12
+white,asexual,10
+white,bisexual,13
+white,heterosexual,12
+white,homosexual,14
+white,other,9
