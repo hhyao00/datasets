@@ -1,73 +1,73 @@
 group,subgroup,age,score,percent
-education,graduate degree,35.538,46.107,0.213
-education,high school,21.531,57.535,0.295
-education,less than high school,19.821,60.346,0.019
-education,university,29.611,52.234,0.473
-urban,rural,28.509,53.789,0.189
-urban,suburban,29.108,51.273,0.38
-urban,urban,27.505,53.355,0.431
-race,arab,25.726,54.129,0.015
-race,asian,23.769,55.36,0.319
-race,black,27.321,50.018,0.027
-race,indigenous australian,32.75,50.5,0.001
-race,native american,31.067,60.233,0.007
-race,other,25.444,52.421,0.103
-race,white,31.678,51.042,0.528
-gender,female,27.746,54.02,0.694
-gender,male,29.72,48.508,0.289
-gender,other,27.0,66.986,0.017
-religion,agnostic,28.631,53.032,0.163
-religion,atheist,28.4,52.287,0.175
-religion,buddhist,32.108,45.538,0.016
-religion,catholic,29.505,50.636,0.11
-religion,hindu,25.977,55.91,0.042
-religion,jewish,32.643,50.857,0.007
-religion,mormon,28.947,47.316,0.005
-religion,muslim,23.531,54.968,0.23
-religion,other,30.628,56.688,0.073
-religion,other christian,30.643,52.161,0.096
-religion,protestant,34.698,45.041,0.081
-religion,sikh,25.933,70.267,0.004
-orientation,asexual,26.2,63.345,0.035
-orientation,bisexual,25.012,60.576,0.142
-orientation,heterosexual,29.248,49.603,0.732
-orientation,homosexual,27.667,58.706,0.048
-orientation,other,25.576,62.641,0.044
-married,currently,39.981,42.941,0.187
-married,never,23.84,55.382,0.747
-married,previously,45.826,49.127,0.066
-major,accounting,27.397,52.809,0.031
-major,architecutre,26.245,56.849,0.013
-major,art,31.642,56.736,0.025
-major,biology,26.07,49.915,0.051
-major,business,30.87,51.022,0.064
-major,chemistry,28.09,53.537,0.016
-major,communication,26.603,49.667,0.015
-major,computer science,25.921,49.833,0.057
-major,economics,29.299,50.391,0.021
-major,education,34.007,51.5,0.034
-major,engineering,26.055,51.05,0.095
-major,english,27.619,57.59,0.089
-major,history,35.021,55.585,0.022
-major,information technology,28.704,63.907,0.013
-major,law,27.538,52.917,0.037
-major,management,27.878,48.714,0.012
-major,mathematics,27.644,52.849,0.017
-major,medicine,27.163,50.115,0.05
-major,music,27.488,57.488,0.021
-major,nursing,31.209,55.395,0.041
-major,physics,27.169,58.592,0.017
-major,political science,33.776,48.983,0.014
-major,psychology,26.842,52.454,0.188
-major,science,29.975,48.95,0.019
-major,sociology,33.006,48.89,0.037
-familysize,0,26.139,54.398,0.026
-familysize,1,27.373,53.261,0.117
-familysize,2,28.431,52.63,0.368
-familysize,3,28.169,53.093,0.238
-familysize,4,28.976,51.189,0.128
-familysize,5,28.661,51.375,0.067
-familysize,6,29.593,54.073,0.029
-familysize,7,29.081,50.0,0.015
-familysize,8,27.613,53.839,0.007
-familysize,9,27.556,62.278,0.004
+education,graduate degree,35.538,46.107,21.304
+education,high school,21.531,57.535,29.544
+education,less than high school,19.821,60.346,1.863
+education,university,29.611,52.234,47.289
+urban,rural,28.509,53.789,18.916
+urban,suburban,29.108,51.273,37.999
+urban,urban,27.505,53.355,43.086
+race,arab,25.726,54.129,1.481
+race,asian,23.769,55.36,31.932
+race,black,27.321,50.018,2.675
+race,indigenous australian,32.75,50.5,0.096
+race,native american,31.067,60.233,0.717
+race,other,25.444,52.421,10.27
+race,white,31.678,51.042,52.83
+gender,female,27.746,54.02,69.381
+gender,male,29.72,48.508,28.923
+gender,other,27.0,66.986,1.696
+religion,agnostic,28.631,53.032,16.312
+religion,atheist,28.4,52.287,17.483
+religion,buddhist,32.108,45.538,1.552
+religion,catholic,29.505,50.636,11.01
+religion,hindu,25.977,55.91,4.227
+religion,jewish,32.643,50.857,0.669
+religion,mormon,28.947,47.316,0.454
+religion,muslim,23.531,54.968,22.976
+religion,other,30.628,56.688,7.261
+religion,other christian,30.643,52.161,9.625
+religion,protestant,34.698,45.041,8.073
+religion,sikh,25.933,70.267,0.358
+orientation,asexual,26.2,63.345,3.463
+orientation,bisexual,25.012,60.576,14.187
+orientation,heterosexual,29.248,49.603,73.155
+orientation,homosexual,27.667,58.706,4.801
+orientation,other,25.576,62.641,4.395
+married,currently,39.981,42.941,18.677
+married,never,23.84,55.382,74.731
+married,previously,45.826,49.127,6.592
+major,accounting,27.397,52.809,3.129
+major,architecutre,26.245,56.849,1.266
+major,art,31.642,56.736,2.532
+major,biology,26.07,49.915,5.087
+major,business,30.87,51.022,6.449
+major,chemistry,28.09,53.537,1.6
+major,communication,26.603,49.667,1.505
+major,computer science,25.921,49.833,5.708
+major,economics,29.299,50.391,2.078
+major,education,34.007,51.5,3.391
+major,engineering,26.055,51.05,9.506
+major,english,27.619,57.59,8.909
+major,history,35.021,55.585,2.245
+major,information technology,28.704,63.907,1.29
+major,law,27.538,52.917,3.726
+major,management,27.878,48.714,1.17
+major,mathematics,27.644,52.849,1.743
+major,medicine,27.163,50.115,4.968
+major,music,27.488,57.488,2.054
+major,nursing,31.209,55.395,4.108
+major,physics,27.169,58.592,1.696
+major,political science,33.776,48.983,1.385
+major,psychology,26.842,52.454,18.844
+major,science,29.975,48.95,1.911
+major,sociology,33.006,48.89,3.702
+familysize,0,26.139,54.398,2.579
+familysize,1,27.373,53.261,11.727
+familysize,2,28.431,52.63,36.828
+familysize,3,28.169,53.093,23.812
+familysize,4,28.976,51.189,12.778
+familysize,5,28.661,51.375,6.687
+familysize,6,29.593,54.073,2.938
+familysize,7,29.081,50.0,1.481
+familysize,8,27.613,53.839,0.74
+familysize,9,27.556,62.278,0.43
