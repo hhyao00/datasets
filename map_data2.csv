@@ -1,1633 +1,250 @@
-country,group,subgroup,age,score,count,id
-United Arab Emirates,education,graduate degree,36.5,73.5,4.0,784
-United Arab Emirates,education,high school,17.75,70.5,4.0,784
-United Arab Emirates,education,university,29.5,28.167,6.0,784
-Argentina,education,high school,18.0,59.0,2.0,32
-Argentina,education,less than high school,17.0,14.0,1.0,32
-Argentina,education,university,30.429,50.57100000000001,7.0,32
-Australia,education,graduate degree,39.093,43.535,43.0,36
-Australia,education,high school,21.435,58.826,23.0,36
-Australia,education,less than high school,16.5,51.5,2.0,36
-Australia,education,university,34.61,47.481,77.0,36
-Brunei Darussalam,education,graduate degree,28.333,33.5,6.0,96
-Brunei Darussalam,education,high school,19.889,63.889,18.0,96
-Brunei Darussalam,education,less than high school,16.0,93.5,2.0,96
-Brunei Darussalam,education,university,24.423,72.423,26.0,96
-Brazil,education,graduate degree,29.333,55.667,12.0,76
-Brazil,education,high school,19.409,58.182,22.0,76
-Brazil,education,university,26.966,61.31,29.0,76
-Canada,education,graduate degree,35.217,42.565,46.0,124
-Canada,education,high school,21.377,56.557,61.0,124
-Canada,education,less than high school,27.0,57.667,3.0,124
-Canada,education,university,32.344,51.576,125.0,124
-Czech Republic,education,graduate degree,24.5,83.5,2.0,203
-Czech Republic,education,high school,22.167,53.167,6.0,203
-Czech Republic,education,university,34.667,48.667,3.0,203
-Germany,education,graduate degree,33.812,36.5,16.0,276
-Germany,education,high school,21.314,60.714,35.0,276
-Germany,education,less than high school,16.5,90.5,2.0,276
-Germany,education,university,28.394,49.212,33.0,276
-Denmark,education,graduate degree,38.0,18.167,6.0,208
-Denmark,education,high school,21.0,44.5,2.0,208
-Denmark,education,university,36.333,22.333,3.0,208
-Egypt,education,graduate degree,37.0,52.0,4.0,818
-Egypt,education,high school,20.75,51.25,8.0,818
-Egypt,education,university,23.364,65.09100000000001,22.0,818
-Spain,education,graduate degree,36.333,30.0,3.0,724
-Spain,education,high school,17.667,84.0,3.0,724
-Spain,education,university,24.111,35.0,9.0,724
-Finland,education,graduate degree,33.0,36.2,5.0,246
-Finland,education,high school,21.0,44.0,1.0,246
-Finland,education,university,26.273000000000003,51.636,11.0,246
-France,education,graduate degree,33.867,47.867,15.0,250
-France,education,high school,19.176,69.235,17.0,250
-France,education,university,25.935,56.581,31.0,250
-United Kingdom of Great Britain and Northern Ireland,education,graduate degree,36.857,48.889,63.0,826
-United Kingdom of Great Britain and Northern Ireland,education,high school,19.553,61.974,38.0,826
-United Kingdom of Great Britain and Northern Ireland,education,less than high school,17.5,30.5,2.0,826
-United Kingdom of Great Britain and Northern Ireland,education,university,32.44,51.107,150.0,826
-Greece,education,graduate degree,39.0,48.333,3.0,300
-Greece,education,high school,19.75,59.75,4.0,300
-Greece,education,university,33.0,37.0,15.0,300
-Hong Kong,education,graduate degree,29.5,76.0,2.0,344
-Hong Kong,education,high school,23.0,45.556,9.0,344
-Hong Kong,education,university,24.429,57.714,7.0,344
-Croatia,education,graduate degree,33.2,19.0,5.0,191
-Croatia,education,high school,22.6,75.2,5.0,191
-Croatia,education,university,33.2,43.0,5.0,191
-Indonesia,education,graduate degree,25.276,54.828,29.0,360
-Indonesia,education,high school,19.6,58.047,85.0,360
-Indonesia,education,less than high school,16.5,46.0,4.0,360
-Indonesia,education,university,24.012,55.523,86.0,360
-Ireland,education,graduate degree,40.625,41.125,8.0,372
-Ireland,education,high school,24.0,71.6,5.0,372
-Ireland,education,university,27.5,57.083,12.0,372
-India,education,graduate degree,28.363000000000003,55.235,102.0,356
-India,education,high school,20.5,51.917,24.0,356
-India,education,less than high school,17.5,90.5,2.0,356
-India,education,university,25.143,53.75,56.0,356
-Italy,education,graduate degree,31.75,44.25,8.0,380
-Italy,education,high school,25.333,63.8,15.0,380
-Italy,education,less than high school,17.5,61.5,2.0,380
-Italy,education,university,25.182,61.636,11.0,380
-Japan,education,graduate degree,25.429,38.714,7.0,392
-Japan,education,high school,20.941,40.059,17.0,392
-Japan,education,university,23.909,49.0,11.0,392
-Mexico,education,graduate degree,27.0,45.0,4.0,484
-Mexico,education,high school,19.636,40.727,11.0,484
-Mexico,education,less than high school,19.0,80.0,1.0,484
-Mexico,education,university,24.6,57.8,20.0,484
-Malaysia,education,graduate degree,27.25,54.5,48.0,458
-Malaysia,education,high school,20.033,52.471,121.0,458
-Malaysia,education,less than high school,16.75,55.0,4.0,458
-Malaysia,education,university,23.29,58.57100000000001,231.0,458
-Netherlands,education,graduate degree,34.444,49.778,9.0,528
-Netherlands,education,high school,18.667,75.667,6.0,528
-Netherlands,education,university,28.0,35.077,13.0,528
-New Zealand,education,graduate degree,37.636,33.591,22.0,554
-New Zealand,education,high school,18.765,58.0,17.0,554
-New Zealand,education,less than high school,16.0,56.0,2.0,554
-New Zealand,education,university,26.0,53.25,32.0,554
-Philippines,education,graduate degree,26.0,46.75,4.0,608
-Philippines,education,high school,19.875,68.25,8.0,608
-Philippines,education,less than high school,16.0,51.5,2.0,608
-Philippines,education,university,23.143,70.429,14.0,608
-Pakistan,education,graduate degree,28.455,66.36399999999999,11.0,586
-Pakistan,education,high school,19.625,54.25,8.0,586
-Pakistan,education,university,27.923,61.692,13.0,586
-Poland,education,graduate degree,34.25,56.0,8.0,616
-Poland,education,high school,22.8,62.2,20.0,616
-Poland,education,less than high school,18.0,76.5,2.0,616
-Poland,education,university,31.0,53.231,13.0,616
-Portugal,education,graduate degree,28.0,43.5,2.0,620
-Portugal,education,high school,21.25,61.625,8.0,620
-Portugal,education,university,38.667,39.333,6.0,620
-Romania,education,graduate degree,35.444,43.556,9.0,642
-Romania,education,high school,22.545,44.545,11.0,642
-Romania,education,university,28.222,53.556,18.0,642
-Serbia,education,graduate degree,43.0,30.0,3.0,688
-Serbia,education,high school,23.25,37.25,8.0,688
-Serbia,education,university,29.143,49.429,7.0,688
-Russian Federation,education,graduate degree,26.5,25.0,2.0,643
-Russian Federation,education,high school,19.417,53.25,12.0,643
-Russian Federation,education,university,24.625,55.875,8.0,643
-Saudi Arabia,education,graduate degree,29.111,43.222,9.0,682
-Saudi Arabia,education,high school,18.5,80.667,6.0,682
-Saudi Arabia,education,university,28.714,48.429,7.0,682
-Sweden,education,graduate degree,54.667,50.0,3.0,752
-Sweden,education,high school,19.5,68.5,2.0,752
-Sweden,education,less than high school,16.0,77.0,1.0,752
-Sweden,education,university,37.077,53.692,13.0,752
-Singapore,education,graduate degree,32.4,42.467,15.0,702
-Singapore,education,high school,21.588,65.706,17.0,702
-Singapore,education,less than high school,25.0,81.0,2.0,702
-Singapore,education,university,27.829,43.17100000000001,35.0,702
-Turkey,education,graduate degree,40.0,71.5,4.0,792
-Turkey,education,high school,19.875,56.25,8.0,792
-Turkey,education,less than high school,17.0,47.0,2.0,792
-Turkey,education,university,22.636,53.727,11.0,792
-United States of America,education,graduate degree,40.147,42.595,346.0,840
-United States of America,education,high school,22.742,57.846,565.0,840
-United States of America,education,less than high school,21.262,59.5,42.0,840
-United States of America,education,university,32.292,49.894,790.0,840
-South Africa,education,graduate degree,42.75,65.0,4.0,710
-South Africa,education,high school,19.4,62.8,5.0,710
-South Africa,education,university,27.357,59.214,14.0,710
-United Arab Emirates,race,arab,23.333,48.0,3.0,784
-United Arab Emirates,race,asian,28.0,57.889,9.0,784
-United Arab Emirates,race,white,36.0,40.0,2.0,784
-Argentina,race,other,25.0,45.6,5.0,32
-Argentina,race,white,28.2,51.6,5.0,32
-Australia,race,arab,26.0,56.5,2.0,36
-Australia,race,asian,26.964,52.857,28.0,36
-Australia,race,black,43.0,64.0,1.0,36
-Australia,race,indigenous australian,45.0,44.0,1.0,36
-Australia,race,other,30.75,31.875,16.0,36
-Australia,race,white,35.92800000000001,49.206,97.0,36
-Brunei Darussalam,race,asian,22.909,67.65899999999999,44.0,96
-Brunei Darussalam,race,other,23.375,55.5,8.0,96
-Brazil,race,asian,17.0,63.0,1.0,76
-Brazil,race,black,21.5,44.5,2.0,76
-Brazil,race,other,26.333,55.467,15.0,76
-Brazil,race,white,24.578000000000007,60.933,45.0,76
-Canada,race,arab,24.333,81.0,3.0,124
-Canada,race,asian,23.24,49.18,50.0,124
-Canada,race,black,26.25,80.75,4.0,124
-Canada,race,native american,36.375,49.625,8.0,124
-Canada,race,other,27.158,54.26300000000001,19.0,124
-Canada,race,white,32.457,50.166,151.0,124
-Czech Republic,race,white,26.0,57.455,11.0,203
-Germany,race,arab,19.5,76.0,2.0,276
-Germany,race,asian,25.167,62.833,18.0,276
-Germany,race,other,23.167,50.5,6.0,276
-Germany,race,white,27.1,48.8,60.0,276
-Denmark,race,asian,19.0,48.0,1.0,208
-Denmark,race,black,21.0,56.0,1.0,208
-Denmark,race,other,21.0,33.0,1.0,208
-Denmark,race,white,39.75,16.0,8.0,208
-Egypt,race,arab,25.5,69.214,14.0,818
-Egypt,race,asian,22.562,52.625,16.0,818
-Egypt,race,other,27.5,59.75,4.0,818
-Spain,race,asian,23.25,42.0,4.0,724
-Spain,race,other,20.0,9.0,1.0,724
-Spain,race,white,26.6,48.0,10.0,724
-Finland,race,arab,24.0,23.0,1.0,246
-Finland,race,other,40.0,44.0,1.0,246
-Finland,race,white,27.4,48.4,15.0,246
-France,race,arab,24.0,64.333,3.0,250
-France,race,asian,25.0,104.0,1.0,250
-France,race,black,21.667,61.0,3.0,250
-France,race,other,23.75,66.375,8.0,250
-France,race,white,26.792,54.958,48.0,250
-United Kingdom of Great Britain and Northern Ireland,race,arab,34.0,29.6,5.0,826
-United Kingdom of Great Britain and Northern Ireland,race,asian,24.048,58.81,42.0,826
-United Kingdom of Great Britain and Northern Ireland,race,black,31.0,29.0,2.0,826
-United Kingdom of Great Britain and Northern Ireland,race,other,28.692,47.769,13.0,826
-United Kingdom of Great Britain and Northern Ireland,race,white,33.251,51.649,191.0,826
-Greece,race,asian,23.0,23.0,1.0,300
-Greece,race,white,31.81,43.619,21.0,300
-Hong Kong,race,asian,23.706,49.941,17.0,344
-Hong Kong,race,white,34.0,117.0,1.0,344
-Croatia,race,white,29.667,45.733,15.0,191
-Indonesia,race,arab,22.0,75.0,1.0,360
-Indonesia,race,asian,22.111,55.931,189.0,360
-Indonesia,race,indigenous australian,23.0,29.0,1.0,360
-Indonesia,race,native american,22.0,45.0,1.0,360
-Indonesia,race,other,24.0,58.182,11.0,360
-Indonesia,race,white,20.0,123.0,1.0,360
-Ireland,race,asian,23.0,46.5,2.0,372
-Ireland,race,white,31.696,55.609,23.0,372
-India,race,arab,20.0,76.0,1.0,356
-India,race,asian,26.837,54.601000000000006,153.0,356
-India,race,black,21.0,50.0,1.0,356
-India,race,native american,23.0,4.0,1.0,356
-India,race,other,23.63,55.37,27.0,356
-India,race,white,20.0,92.0,1.0,356
-Italy,race,asian,28.0,15.0,2.0,380
-Italy,race,other,19.0,63.5,2.0,380
-Italy,race,white,26.625,61.094,32.0,380
-Japan,race,asian,22.531,44.719,32.0,392
-Japan,race,other,25.333,20.0,3.0,392
-Mexico,race,other,22.704,57.148,27.0,484
-Mexico,race,white,24.667,35.667,9.0,484
-Malaysia,race,arab,17.0,44.0,1.0,458
-Malaysia,race,asian,22.682,57.207,358.0,458
-Malaysia,race,black,23.0,99.0,1.0,458
-Malaysia,race,other,23.159,47.545,44.0,458
-Netherlands,race,asian,23.0,91.0,1.0,528
-Netherlands,race,black,33.667,18.333,3.0,528
-Netherlands,race,indigenous australian,19.0,72.0,1.0,528
-Netherlands,race,other,27.0,50.0,1.0,528
-Netherlands,race,white,28.0,49.545,22.0,528
-New Zealand,race,asian,22.791,54.791,43.0,554
-New Zealand,race,other,27.125,50.375,8.0,554
-New Zealand,race,white,37.0,35.545,22.0,554
-Philippines,race,asian,22.107,65.071,28.0,608
-Pakistan,race,asian,26.172,59.034,29.0,586
-Pakistan,race,other,24.667,84.667,3.0,586
-Poland,race,asian,25.0,5.0,1.0,616
-Poland,race,white,27.238000000000003,60.286,42.0,616
-Portugal,race,other,16.0,81.0,1.0,620
-Portugal,race,white,29.467,49.0,15.0,620
-Romania,race,asian,31.0,53.0,1.0,642
-Romania,race,other,21.0,44.5,2.0,642
-Romania,race,white,28.629,48.68600000000001,35.0,642
-Serbia,race,white,28.833,40.778,18.0,688
-Russian Federation,race,asian,21.222,59.222,9.0,643
-Russian Federation,race,other,20.0,47.0,2.0,643
-Russian Federation,race,white,22.909,46.273,11.0,643
-Saudi Arabia,race,arab,27.333,48.6,15.0,682
-Saudi Arabia,race,asian,24.0,54.6,5.0,682
-Saudi Arabia,race,black,22.0,103.0,1.0,682
-Saudi Arabia,race,white,22.0,107.0,1.0,682
-Sweden,race,asian,16.0,77.0,1.0,752
-Sweden,race,other,30.0,32.0,1.0,752
-Sweden,race,white,38.529,56.059,17.0,752
-Singapore,race,asian,27.0,49.966,59.0,702
-Singapore,race,other,25.625,46.875,8.0,702
-Singapore,race,white,39.5,52.0,2.0,702
-Turkey,race,asian,21.571,63.286,7.0,792
-Turkey,race,other,23.5,46.0,2.0,792
-Turkey,race,white,25.25,55.375,16.0,792
-United States of America,race,arab,24.455,40.636,11.0,840
-United States of America,race,asian,24.141,51.745,184.0,840
-United States of America,race,black,27.568,49.148,88.0,840
-United States of America,race,indigenous australian,44.0,57.0,1.0,840
-United States of America,race,native american,29.8,68.05,20.0,840
-United States of America,race,other,26.133000000000006,53.596,188.0,840
-United States of America,race,white,32.337,50.799,1251.0,840
-South Africa,race,asian,20.0,88.0,1.0,710
-South Africa,race,black,25.6,39.4,5.0,710
-South Africa,race,other,24.667,71.0,3.0,710
-South Africa,race,white,30.643,64.643,14.0,710
-United Arab Emirates,gender,female,28.143,53.214,14.0,784
-Argentina,gender,female,28.857,52.429,7.0,32
-Argentina,gender,male,23.5,29.5,2.0,32
-Argentina,gender,other,17.0,60.0,1.0,32
-Australia,gender,female,32.133,50.867,98.0,36
-Australia,gender,male,36.66,42.532,47.0,36
-Brunei Darussalam,gender,female,22.977,68.727,44.0,96
-Brunei Darussalam,gender,male,23.0,49.625,8.0,96
-Brazil,gender,female,27.28,63.48,25.0,76
-Brazil,gender,male,23.132,56.289,38.0,76
-Canada,gender,female,28.737,53.737,156.0,124
-Canada,gender,male,32.68,44.427,75.0,124
-Canada,gender,other,28.5,78.25,4.0,124
-Czech Republic,gender,female,23.333,58.167,6.0,203
-Czech Republic,gender,male,29.2,56.6,5.0,203
-Germany,gender,female,26.128,55.553,47.0,276
-Germany,gender,male,27.114,46.8,35.0,276
-Germany,gender,other,20.0,66.25,4.0,276
-Denmark,gender,female,31.667,28.167,6.0,208
-Denmark,gender,male,37.8,19.2,5.0,208
-Egypt,gender,female,22.923,67.192,26.0,818
-Egypt,gender,male,29.0,37.875,8.0,818
-Spain,gender,female,24.5,37.333,12.0,724
-Spain,gender,male,28.333,69.667,3.0,724
-Finland,gender,female,27.308000000000003,44.462,13.0,246
-Finland,gender,male,30.0,53.75,4.0,246
-France,gender,female,24.424,65.515,33.0,250
-France,gender,male,28.321,47.75,28.0,250
-France,gender,other,19.5,75.0,2.0,250
-United Kingdom of Great Britain and Northern Ireland,gender,female,31.66,51.617,188.0,826
-United Kingdom of Great Britain and Northern Ireland,gender,male,31.557,51.557,61.0,826
-United Kingdom of Great Britain and Northern Ireland,gender,other,22.25,78.25,4.0,826
-Greece,gender,female,31.545,47.455,11.0,300
-Greece,gender,male,32.7,35.1,10.0,300
-Greece,gender,other,17.0,66.0,1.0,300
-Hong Kong,gender,female,23.167,42.167,12.0,344
-Hong Kong,gender,male,26.5,76.667,6.0,344
-Croatia,gender,female,29.273000000000003,43.091,11.0,191
-Croatia,gender,male,30.75,53.0,4.0,191
-Indonesia,gender,female,21.931,58.844,173.0,360
-Indonesia,gender,male,23.867,40.2,30.0,360
-Indonesia,gender,other,20.0,97.0,1.0,360
-Ireland,gender,female,29.214,52.214,14.0,372
-Ireland,gender,male,33.273,58.273,11.0,372
-India,gender,female,24.981,59.808,104.0,356
-India,gender,male,27.975,47.899,79.0,356
-India,gender,other,20.0,67.0,1.0,356
-Italy,gender,female,25.143,64.095,21.0,380
-Italy,gender,male,27.867,51.067,15.0,380
-Japan,gender,female,23.227,41.136,22.0,392
-Japan,gender,male,22.0,45.077,13.0,392
-Mexico,gender,female,25.235,54.235,17.0,484
-Mexico,gender,male,20.588,48.882,17.0,484
-Mexico,gender,other,28.0,55.5,2.0,484
-Malaysia,gender,female,22.605,57.948,329.0,458
-Malaysia,gender,male,23.227,48.667,75.0,458
-Netherlands,gender,female,30.083,58.25,12.0,528
-Netherlands,gender,male,26.562,41.188,16.0,528
-New Zealand,gender,female,27.333,47.587,63.0,554
-New Zealand,gender,male,30.222,47.444,9.0,554
-New Zealand,gender,other,17.0,116.0,1.0,554
-Philippines,gender,female,21.583,62.708,24.0,608
-Philippines,gender,male,25.25,79.25,4.0,608
-Pakistan,gender,female,25.08,65.36,25.0,586
-Pakistan,gender,male,29.429,47.429,7.0,586
-Poland,gender,female,25.545,61.636,22.0,616
-Poland,gender,male,29.947,53.895,19.0,616
-Poland,gender,other,19.0,78.5,2.0,616
-Portugal,gender,female,31.091,49.182,11.0,620
-Portugal,gender,male,23.2,55.0,5.0,620
-Romania,gender,female,27.391,54.609,23.0,642
-Romania,gender,male,30.385,31.462,13.0,642
-Romania,gender,other,25.0,90.5,2.0,642
-Serbia,gender,female,27.846,46.615,13.0,688
-Serbia,gender,male,31.4,25.6,5.0,688
-Russian Federation,gender,female,22.538,48.538,13.0,643
-Russian Federation,gender,male,21.111,56.111,9.0,643
-Saudi Arabia,gender,female,24.438,53.812,16.0,682
-Saudi Arabia,gender,male,30.5,58.5,6.0,682
-Sweden,gender,female,36.5,47.25,8.0,752
-Sweden,gender,male,37.182,62.182,11.0,752
-Singapore,gender,female,27.196,49.765,51.0,702
-Singapore,gender,male,27.222,49.389,18.0,702
-Turkey,gender,female,20.571,60.214,14.0,792
-Turkey,gender,male,28.6,45.5,10.0,792
-Turkey,gender,other,28.0,123.0,1.0,792
-United States of America,gender,female,30.097,51.858,1205.0,840
-United States of America,gender,male,31.585,49.06100000000001,494.0,840
-United States of America,gender,other,28.955,59.341,44.0,840
-South Africa,gender,female,26.5,54.0,16.0,710
-South Africa,gender,male,28.167,68.833,6.0,710
-South Africa,gender,other,58.0,126.0,1.0,710
-United Arab Emirates,religion,catholic,28.25,37.75,4.0,784
-United Arab Emirates,religion,hindu,20.667,91.667,3.0,784
-United Arab Emirates,religion,muslim,24.75,35.25,4.0,784
-United Arab Emirates,religion,other,34.0,13.0,1.0,784
-United Arab Emirates,religion,other christian,43.0,82.5,2.0,784
-Argentina,religion,agnostic,26.2,42.2,5.0,32
-Argentina,religion,catholic,25.667,58.333,3.0,32
-Argentina,religion,other,39.0,42.0,1.0,32
-Argentina,religion,other christian,19.0,58.0,1.0,32
-Australia,religion,agnostic,30.75,48.536,28.0,36
-Australia,religion,atheist,33.0,48.773,44.0,36
-Australia,religion,buddhist,35.125,26.875,8.0,36
-Australia,religion,catholic,35.643,40.214,14.0,36
-Australia,religion,hindu,32.0,50.0,3.0,36
-Australia,religion,muslim,27.111,59.111,18.0,36
-Australia,religion,other,37.0,54.875,8.0,36
-Australia,religion,other christian,35.125,55.125,8.0,36
-Australia,religion,protestant,44.143,43.357,14.0,36
-Brunei Darussalam,religion,atheist,38.0,8.0,1.0,96
-Brunei Darussalam,religion,catholic,16.0,104.0,1.0,96
-Brunei Darussalam,religion,muslim,22.816,66.939,49.0,96
-Brunei Darussalam,religion,protestant,23.0,29.0,1.0,96
-Brazil,religion,agnostic,26.364,60.545,22.0,76
-Brazil,religion,atheist,20.75,58.688,16.0,76
-Brazil,religion,catholic,30.111,46.889,9.0,76
-Brazil,religion,other,23.571,73.286,7.0,76
-Brazil,religion,other christian,26.667,60.667,3.0,76
-Brazil,religion,protestant,22.167,56.333,6.0,76
-Canada,religion,agnostic,28.481,48.481,52.0,124
-Canada,religion,atheist,28.557,53.934,61.0,124
-Canada,religion,buddhist,35.5,70.5,4.0,124
-Canada,religion,catholic,32.433,51.9,30.0,124
-Canada,religion,hindu,24.375,59.938,16.0,124
-Canada,religion,jewish,38.0,9.5,2.0,124
-Canada,religion,muslim,26.667,38.667,9.0,124
-Canada,religion,other,32.654,58.5,26.0,124
-Canada,religion,other christian,29.0,48.57100000000001,14.0,124
-Canada,religion,protestant,36.684,38.421,19.0,124
-Canada,religion,sikh,26.0,60.5,2.0,124
-Czech Republic,religion,agnostic,23.0,55.5,4.0,203
-Czech Republic,religion,atheist,23.333,70.667,3.0,203
-Czech Republic,religion,other,35.0,43.333,3.0,203
-Czech Republic,religion,protestant,19.0,68.0,1.0,203
-Germany,religion,agnostic,26.941,56.765,17.0,276
-Germany,religion,atheist,26.55,50.65,20.0,276
-Germany,religion,buddhist,29.0,34.25,4.0,276
-Germany,religion,catholic,27.214,57.5,14.0,276
-Germany,religion,hindu,31.0,61.0,1.0,276
-Germany,religion,jewish,38.0,87.0,1.0,276
-Germany,religion,muslim,23.875,53.562,16.0,276
-Germany,religion,other,22.714,49.429,7.0,276
-Germany,religion,other christian,26.667,43.667,3.0,276
-Germany,religion,protestant,27.0,37.333,3.0,276
-Denmark,religion,agnostic,39.5,23.5,4.0,208
-Denmark,religion,atheist,29.0,17.0,3.0,208
-Denmark,religion,buddhist,42.0,14.0,1.0,208
-Denmark,religion,muslim,19.0,48.0,1.0,208
-Denmark,religion,other,52.0,2.0,1.0,208
-Denmark,religion,other christian,21.0,56.0,1.0,208
-Egypt,religion,atheist,27.0,69.5,2.0,818
-Egypt,religion,muslim,23.6,58.867,30.0,818
-Egypt,religion,other,22.0,83.0,1.0,818
-Egypt,religion,other christian,44.0,62.0,1.0,818
-Spain,religion,agnostic,19.333,68.333,3.0,724
-Spain,religion,atheist,24.8,35.6,5.0,724
-Spain,religion,catholic,32.0,70.5,2.0,724
-Spain,religion,muslim,22.75,28.25,4.0,724
-Spain,religion,protestant,42.0,20.0,1.0,724
-Finland,religion,agnostic,31.0,66.0,1.0,246
-Finland,religion,atheist,30.625,44.5,8.0,246
-Finland,religion,muslim,24.0,23.0,1.0,246
-Finland,religion,other,25.333,51.667,3.0,246
-Finland,religion,other christian,26.5,40.5,2.0,246
-Finland,religion,protestant,23.0,56.0,2.0,246
-France,religion,agnostic,23.435,64.043,23.0,250
-France,religion,atheist,28.0,55.0,23.0,250
-France,religion,catholic,30.625,38.75,8.0,250
-France,religion,muslim,22.25,72.25,4.0,250
-France,religion,other,26.0,69.5,2.0,250
-France,religion,other christian,30.0,92.0,1.0,250
-France,religion,protestant,19.5,40.5,2.0,250
-United Kingdom of Great Britain and Northern Ireland,religion,agnostic,31.391,47.783,46.0,826
-United Kingdom of Great Britain and Northern Ireland,religion,atheist,31.865,51.966,89.0,826
-United Kingdom of Great Britain and Northern Ireland,religion,buddhist,51.0,28.333,3.0,826
-United Kingdom of Great Britain and Northern Ireland,religion,catholic,30.381,52.762,21.0,826
-United Kingdom of Great Britain and Northern Ireland,religion,hindu,22.0,102.0,1.0,826
-United Kingdom of Great Britain and Northern Ireland,religion,jewish,29.0,58.0,2.0,826
-United Kingdom of Great Britain and Northern Ireland,religion,muslim,25.879,52.242,33.0,826
-United Kingdom of Great Britain and Northern Ireland,religion,other,37.1,56.5,20.0,826
-United Kingdom of Great Britain and Northern Ireland,religion,other christian,28.077,52.231,13.0,826
-United Kingdom of Great Britain and Northern Ireland,religion,protestant,35.048,56.714,21.0,826
-United Kingdom of Great Britain and Northern Ireland,religion,sikh,29.5,51.0,4.0,826
-Greece,religion,agnostic,21.0,57.667,3.0,300
-Greece,religion,atheist,33.333,45.5,6.0,300
-Greece,religion,catholic,50.0,24.0,1.0,300
-Greece,religion,other,25.0,54.5,2.0,300
-Greece,religion,other christian,32.8,36.0,10.0,300
-Hong Kong,religion,agnostic,25.667,79.333,3.0,344
-Hong Kong,religion,atheist,21.4,54.8,5.0,344
-Hong Kong,religion,buddhist,25.0,40.0,2.0,344
-Hong Kong,religion,catholic,30.0,42.0,3.0,344
-Hong Kong,religion,muslim,34.0,46.0,1.0,344
-Hong Kong,religion,other,19.0,90.0,1.0,344
-Hong Kong,religion,protestant,20.0,37.333,3.0,344
-Croatia,religion,agnostic,29.5,31.0,2.0,191
-Croatia,religion,atheist,28.4,60.0,5.0,191
-Croatia,religion,catholic,30.5,40.5,8.0,191
-Indonesia,religion,agnostic,20.375,78.75,8.0,360
-Indonesia,religion,atheist,23.0,59.0,5.0,360
-Indonesia,religion,buddhist,22.0,75.667,3.0,360
-Indonesia,religion,catholic,26.111,50.0,9.0,360
-Indonesia,religion,hindu,19.333,50.833,6.0,360
-Indonesia,religion,muslim,22.136,55.929,154.0,360
-Indonesia,religion,other,21.0,83.0,1.0,360
-Indonesia,religion,protestant,22.5,48.889,18.0,360
-Ireland,religion,agnostic,25.25,46.25,4.0,372
-Ireland,religion,atheist,30.273000000000003,66.90899999999999,11.0,372
-Ireland,religion,buddhist,54.0,42.0,1.0,372
-Ireland,religion,catholic,33.5,45.5,6.0,372
-Ireland,religion,hindu,25.0,19.0,1.0,372
-Ireland,religion,other,19.0,90.0,1.0,372
-Ireland,religion,other christian,42.0,27.0,1.0,372
-India,religion,agnostic,23.4,57.4,5.0,356
-India,religion,atheist,22.75,55.625,16.0,356
-India,religion,buddhist,25.5,46.0,2.0,356
-India,religion,catholic,27.5,50.833,6.0,356
-India,religion,hindu,26.61,54.488,123.0,356
-India,religion,muslim,25.316,49.684,19.0,356
-India,religion,other,20.0,57.0,1.0,356
-India,religion,other christian,23.0,54.5,2.0,356
-India,religion,protestant,37.5,36.5,4.0,356
-India,religion,sikh,26.833,89.833,6.0,356
-Italy,religion,agnostic,33.0,69.625,8.0,380
-Italy,religion,atheist,23.133000000000006,60.667,15.0,380
-Italy,religion,catholic,26.0,50.75,8.0,380
-Italy,religion,hindu,27.0,8.0,1.0,380
-Italy,religion,muslim,26.0,43.5,2.0,380
-Italy,religion,other,24.0,72.0,2.0,380
-Japan,religion,agnostic,26.0,62.667,3.0,392
-Japan,religion,atheist,23.333,53.333,3.0,392
-Japan,religion,catholic,28.0,34.0,1.0,392
-Japan,religion,muslim,22.296,38.296,27.0,392
-Japan,religion,protestant,19.0,75.0,1.0,392
-Mexico,religion,agnostic,26.875,61.0,8.0,484
-Mexico,religion,atheist,23.25,60.5,8.0,484
-Mexico,religion,catholic,21.615,36.231,13.0,484
-Mexico,religion,other,21.857,60.143,7.0,484
-Malaysia,religion,buddhist,19.0,38.0,1.0,458
-Malaysia,religion,catholic,27.0,63.364,11.0,458
-Malaysia,religion,hindu,24.5,50.0,4.0,458
-Malaysia,religion,muslim,22.585,56.199,381.0,458
-Malaysia,religion,other,27.0,67.5,2.0,458
-Malaysia,religion,other christian,22.667,59.667,3.0,458
-Malaysia,religion,protestant,19.0,27.0,2.0,458
-Netherlands,religion,agnostic,24.8,45.6,5.0,528
-Netherlands,religion,atheist,30.583,53.5,12.0,528
-Netherlands,religion,catholic,20.0,71.5,2.0,528
-Netherlands,religion,hindu,27.0,50.0,1.0,528
-Netherlands,religion,muslim,23.0,91.0,1.0,528
-Netherlands,religion,other,25.5,45.5,2.0,528
-Netherlands,religion,other christian,30.0,22.0,1.0,528
-Netherlands,religion,protestant,31.0,22.75,4.0,528
-New Zealand,religion,agnostic,28.625,34.625,8.0,554
-New Zealand,religion,atheist,38.077,38.692,13.0,554
-New Zealand,religion,catholic,29.333,57.0,3.0,554
-New Zealand,religion,muslim,23.093000000000004,55.791,43.0,554
-New Zealand,religion,other,35.0,44.25,4.0,554
-New Zealand,religion,other christian,19.0,8.0,1.0,554
-New Zealand,religion,protestant,47.0,6.0,1.0,554
-Philippines,religion,agnostic,27.0,82.0,2.0,608
-Philippines,religion,atheist,25.0,84.0,1.0,608
-Philippines,religion,catholic,20.947,62.789,19.0,608
-Philippines,religion,muslim,18.0,77.0,1.0,608
-Philippines,religion,other,21.0,102.0,1.0,608
-Philippines,religion,other christian,28.333,33.667,3.0,608
-Philippines,religion,protestant,18.0,101.0,1.0,608
-Pakistan,religion,muslim,26.031,61.438,32.0,586
-Poland,religion,agnostic,24.0,38.5,6.0,616
-Poland,religion,atheist,25.158,69.053,19.0,616
-Poland,religion,catholic,33.692,51.769,13.0,616
-Poland,religion,hindu,25.0,5.0,1.0,616
-Poland,religion,jewish,17.0,79.0,1.0,616
-Poland,religion,other,22.333,79.0,3.0,616
-Portugal,religion,agnostic,26.5,39.5,6.0,620
-Portugal,religion,atheist,34.6,61.2,5.0,620
-Portugal,religion,catholic,25.0,58.0,3.0,620
-Portugal,religion,other christian,25.5,49.5,2.0,620
-Romania,religion,agnostic,20.5,62.333,6.0,642
-Romania,religion,atheist,29.778,44.444,9.0,642
-Romania,religion,catholic,20.0,42.0,1.0,642
-Romania,religion,muslim,27.5,46.5,2.0,642
-Romania,religion,other,28.2,58.4,5.0,642
-Romania,religion,other christian,31.571,39.786,14.0,642
-Romania,religion,protestant,26.0,88.0,1.0,642
-Serbia,religion,agnostic,22.75,56.25,4.0,688
-Serbia,religion,atheist,34.25,32.5,4.0,688
-Serbia,religion,other,23.5,41.5,2.0,688
-Serbia,religion,other christian,30.5,37.0,8.0,688
-Russian Federation,religion,agnostic,22.333,47.0,3.0,643
-Russian Federation,religion,atheist,19.875,47.125,8.0,643
-Russian Federation,religion,catholic,17.0,41.0,1.0,643
-Russian Federation,religion,muslim,23.4,55.8,5.0,643
-Russian Federation,religion,other,23.5,38.5,2.0,643
-Russian Federation,religion,other christian,25.333,73.667,3.0,643
-Saudi Arabia,religion,atheist,17.0,53.0,1.0,682
-Saudi Arabia,religion,catholic,27.5,18.0,2.0,682
-Saudi Arabia,religion,muslim,26.421,59.105,19.0,682
-Sweden,religion,agnostic,30.0,44.5,2.0,752
-Sweden,religion,atheist,31.6,58.8,10.0,752
-Sweden,religion,buddhist,16.0,77.0,1.0,752
-Sweden,religion,other,38.0,20.0,1.0,752
-Sweden,religion,other christian,57.0,100.0,1.0,752
-Sweden,religion,protestant,53.5,47.0,4.0,752
-Singapore,religion,agnostic,28.75,40.5,4.0,702
-Singapore,religion,atheist,23.333,56.0,3.0,702
-Singapore,religion,buddhist,24.286,38.571,7.0,702
-Singapore,religion,catholic,23.714,46.57100000000001,7.0,702
-Singapore,religion,hindu,31.667,76.0,3.0,702
-Singapore,religion,mormon,28.0,18.0,1.0,702
-Singapore,religion,muslim,27.645,51.71,31.0,702
-Singapore,religion,other,24.6,50.8,5.0,702
-Singapore,religion,other christian,26.0,72.5,2.0,702
-Singapore,religion,protestant,33.5,42.167,6.0,702
-Turkey,religion,agnostic,23.0,63.0,7.0,792
-Turkey,religion,atheist,23.667,77.667,3.0,792
-Turkey,religion,muslim,23.091,44.455,11.0,792
-Turkey,religion,other,29.0,64.5,4.0,792
-United States of America,religion,agnostic,29.496,52.971,379.0,840
-United States of America,religion,atheist,27.776,50.624,295.0,840
-United States of America,religion,buddhist,33.107,50.036,28.0,840
-United States of America,religion,catholic,30.183000000000003,50.44300000000001,235.0,840
-United States of America,religion,hindu,23.923,64.0,13.0,840
-United States of America,religion,jewish,32.955,51.045,22.0,840
-United States of America,religion,mormon,29.0,48.944,18.0,840
-United States of America,religion,muslim,26.629,45.355,62.0,840
-United States of America,religion,other,31.141,55.797,177.0,840
-United States of America,religion,other christian,31.137,53.212,292.0,840
-United States of America,religion,protestant,35.982,44.83600000000001,219.0,840
-United States of America,religion,sikh,19.333,63.333,3.0,840
-South Africa,religion,agnostic,39.5,61.0,2.0,710
-South Africa,religion,catholic,45.333,81.333,3.0,710
-South Africa,religion,muslim,19.5,79.0,2.0,710
-South Africa,religion,other,33.0,124.0,1.0,710
-South Africa,religion,other christian,22.909,57.455,11.0,710
-South Africa,religion,protestant,28.0,30.75,4.0,710
-United Arab Emirates,orientation,asexual,44.0,90.0,1.0,784
-United Arab Emirates,orientation,heterosexual,27.909,41.455,11.0,784
-United Arab Emirates,orientation,other,21.5,99.5,2.0,784
-Argentina,orientation,asexual,17.0,60.0,1.0,32
-Argentina,orientation,bisexual,20.0,54.0,2.0,32
-Argentina,orientation,heterosexual,27.0,43.25,4.0,32
-Argentina,orientation,homosexual,39.0,42.0,1.0,32
-Argentina,orientation,other,31.0,51.5,2.0,32
-Australia,orientation,asexual,34.0,55.8,5.0,36
-Australia,orientation,bisexual,25.526,58.57899999999999,19.0,36
-Australia,orientation,heterosexual,35.195,44.442,113.0,36
-Australia,orientation,homosexual,31.0,59.833,6.0,36
-Australia,orientation,other,27.0,105.5,2.0,36
-Brunei Darussalam,orientation,asexual,20.0,108.0,2.0,96
-Brunei Darussalam,orientation,bisexual,22.333,49.667,3.0,96
-Brunei Darussalam,orientation,heterosexual,23.318,64.182,44.0,96
-Brunei Darussalam,orientation,homosexual,21.0,56.0,1.0,96
-Brunei Darussalam,orientation,other,20.5,88.0,2.0,96
-Brazil,orientation,bisexual,27.222,65.556,9.0,76
-Brazil,orientation,heterosexual,24.262,57.357,42.0,76
-Brazil,orientation,homosexual,23.5,63.625,8.0,76
-Brazil,orientation,other,27.25,54.5,4.0,76
-Canada,orientation,asexual,33.0,69.143,7.0,124
-Canada,orientation,bisexual,27.265,68.08800000000001,34.0,124
-Canada,orientation,heterosexual,30.629,46.737,175.0,124
-Canada,orientation,homosexual,28.923,54.231,13.0,124
-Canada,orientation,other,25.667,57.5,6.0,124
-Czech Republic,orientation,asexual,23.0,19.0,1.0,203
-Czech Republic,orientation,bisexual,25.0,54.0,1.0,203
-Czech Republic,orientation,heterosexual,22.143,58.286,7.0,203
-Czech Republic,orientation,other,41.5,75.5,2.0,203
-Germany,orientation,asexual,25.0,88.75,4.0,276
-Germany,orientation,bisexual,24.789,61.474,19.0,276
-Germany,orientation,heterosexual,26.784,45.922,51.0,276
-Germany,orientation,homosexual,28.25,53.5,8.0,276
-Germany,orientation,other,23.5,55.25,4.0,276
-Denmark,orientation,asexual,19.0,48.0,1.0,208
-Denmark,orientation,bisexual,42.0,14.0,1.0,208
-Denmark,orientation,heterosexual,35.625,23.875,8.0,208
-Denmark,orientation,homosexual,33.0,12.0,1.0,208
-Egypt,orientation,asexual,20.5,76.0,2.0,818
-Egypt,orientation,heterosexual,24.633000000000006,59.533,30.0,818
-Egypt,orientation,other,24.0,56.0,2.0,818
-Spain,orientation,bisexual,25.5,54.0,2.0,724
-Spain,orientation,heterosexual,25.5,40.417,12.0,724
-Spain,orientation,homosexual,22.0,64.0,1.0,724
-Finland,orientation,asexual,31.0,66.0,1.0,246
-Finland,orientation,bisexual,29.0,32.0,2.0,246
-Finland,orientation,heterosexual,27.923,45.923,13.0,246
-Finland,orientation,homosexual,23.0,66.0,1.0,246
-France,orientation,asexual,27.0,57.0,4.0,250
-France,orientation,bisexual,22.143,65.643,14.0,250
-France,orientation,heterosexual,27.923,52.82100000000001,39.0,250
-France,orientation,homosexual,21.5,57.75,4.0,250
-France,orientation,other,22.5,105.5,2.0,250
-United Kingdom of Great Britain and Northern Ireland,orientation,asexual,24.333,53.5,6.0,826
-United Kingdom of Great Britain and Northern Ireland,orientation,bisexual,25.784,55.243,37.0,826
-United Kingdom of Great Britain and Northern Ireland,orientation,heterosexual,33.177,50.478,186.0,826
-United Kingdom of Great Britain and Northern Ireland,orientation,homosexual,30.154,56.308,13.0,826
-United Kingdom of Great Britain and Northern Ireland,orientation,other,27.545,61.455,11.0,826
-Greece,orientation,asexual,24.0,53.0,1.0,300
-Greece,orientation,bisexual,28.5,53.75,4.0,300
-Greece,orientation,heterosexual,32.529,39.471,17.0,300
-Hong Kong,orientation,asexual,20.0,45.0,1.0,344
-Hong Kong,orientation,bisexual,24.667,69.667,3.0,344
-Hong Kong,orientation,heterosexual,23.833,41.583,12.0,344
-Hong Kong,orientation,homosexual,28.5,106.5,2.0,344
-Croatia,orientation,bisexual,28.5,68.75,4.0,191
-Croatia,orientation,heterosexual,30.091,37.364,11.0,191
-Indonesia,orientation,asexual,20.0,63.8,5.0,360
-Indonesia,orientation,bisexual,21.409,62.909,22.0,360
-Indonesia,orientation,heterosexual,22.503,54.215,163.0,360
-Indonesia,orientation,homosexual,21.429,61.429,7.0,360
-Indonesia,orientation,other,20.143,73.286,7.0,360
-Ireland,orientation,asexual,27.333,50.667,3.0,372
-Ireland,orientation,bisexual,27.0,46.5,4.0,372
-Ireland,orientation,heterosexual,32.5,57.444,18.0,372
-India,orientation,asexual,28.167,75.833,6.0,356
-India,orientation,bisexual,29.222,50.722,18.0,356
-India,orientation,heterosexual,25.799,54.027,149.0,356
-India,orientation,homosexual,22.0,49.6,5.0,356
-India,orientation,other,29.833,67.5,6.0,356
-Italy,orientation,bisexual,24.875,65.25,8.0,380
-Italy,orientation,heterosexual,26.609,54.348,23.0,380
-Italy,orientation,homosexual,28.5,79.75,4.0,380
-Italy,orientation,other,21.0,21.0,1.0,380
-Japan,orientation,asexual,25.0,51.75,4.0,392
-Japan,orientation,bisexual,27.0,51.0,1.0,392
-Japan,orientation,heterosexual,22.185,42.111,27.0,392
-Japan,orientation,homosexual,23.5,35.5,2.0,392
-Japan,orientation,other,24.0,25.0,1.0,392
-Mexico,orientation,bisexual,23.1,60.6,10.0,484
-Mexico,orientation,heterosexual,22.739,47.39100000000001,23.0,484
-Mexico,orientation,homosexual,30.0,60.0,2.0,484
-Mexico,orientation,other,21.0,48.0,1.0,484
-Malaysia,orientation,asexual,21.182,63.273,22.0,458
-Malaysia,orientation,bisexual,23.0,69.936,47.0,458
-Malaysia,orientation,heterosexual,22.448,53.25899999999999,270.0,458
-Malaysia,orientation,homosexual,27.909,55.364,11.0,458
-Malaysia,orientation,other,23.407,56.426,54.0,458
-Netherlands,orientation,asexual,20.0,107.0,1.0,528
-Netherlands,orientation,bisexual,20.333,48.0,3.0,528
-Netherlands,orientation,heterosexual,29.091,44.364,22.0,528
-Netherlands,orientation,homosexual,44.0,60.0,1.0,528
-Netherlands,orientation,other,21.0,71.0,1.0,528
-New Zealand,orientation,asexual,20.0,80.0,2.0,554
-New Zealand,orientation,bisexual,26.273000000000003,43.091,11.0,554
-New Zealand,orientation,heterosexual,28.615,46.5,52.0,554
-New Zealand,orientation,homosexual,23.0,66.333,6.0,554
-New Zealand,orientation,other,28.0,45.5,2.0,554
-Philippines,orientation,asexual,26.0,78.333,3.0,608
-Philippines,orientation,bisexual,23.333,85.0,3.0,608
-Philippines,orientation,heterosexual,21.6,56.45,20.0,608
-Philippines,orientation,homosexual,21.0,102.0,1.0,608
-Philippines,orientation,other,18.0,101.0,1.0,608
-Pakistan,orientation,asexual,22.0,90.0,1.0,586
-Pakistan,orientation,bisexual,29.0,49.0,4.0,586
-Pakistan,orientation,heterosexual,25.167,63.917,24.0,586
-Pakistan,orientation,homosexual,20.0,27.0,1.0,586
-Pakistan,orientation,other,35.5,59.5,2.0,586
-Poland,orientation,bisexual,22.7,59.8,10.0,616
-Poland,orientation,heterosexual,29.133000000000006,58.167,30.0,616
-Poland,orientation,homosexual,22.0,69.5,2.0,616
-Poland,orientation,other,24.0,55.0,1.0,616
-Portugal,orientation,bisexual,24.0,74.0,1.0,620
-Portugal,orientation,heterosexual,28.933000000000003,49.467,15.0,620
-Romania,orientation,asexual,19.0,50.0,1.0,642
-Romania,orientation,bisexual,25.0,90.5,2.0,642
-Romania,orientation,heterosexual,28.485,46.636,33.0,642
-Romania,orientation,homosexual,33.0,38.0,2.0,642
-Serbia,orientation,bisexual,26.0,59.5,2.0,688
-Serbia,orientation,heterosexual,29.333,37.867,15.0,688
-Serbia,orientation,homosexual,27.0,47.0,1.0,688
-Russian Federation,orientation,bisexual,22.25,59.25,4.0,643
-Russian Federation,orientation,heterosexual,21.941,48.706,17.0,643
-Russian Federation,orientation,homosexual,21.0,71.0,1.0,643
-Saudi Arabia,orientation,asexual,20.0,98.5,2.0,682
-Saudi Arabia,orientation,bisexual,24.333,82.0,3.0,682
-Saudi Arabia,orientation,heterosexual,27.438,41.375,16.0,682
-Saudi Arabia,orientation,other,22.0,107.0,1.0,682
-Sweden,orientation,bisexual,37.5,41.0,2.0,752
-Sweden,orientation,heterosexual,38.533,54.933,15.0,752
-Sweden,orientation,homosexual,24.0,78.0,2.0,752
-Singapore,orientation,asexual,29.0,25.0,1.0,702
-Singapore,orientation,bisexual,24.778,50.0,9.0,702
-Singapore,orientation,heterosexual,28.812,46.521,48.0,702
-Singapore,orientation,homosexual,21.5,55.75,4.0,702
-Singapore,orientation,other,22.286,70.857,7.0,702
-Turkey,orientation,asexual,21.0,30.0,1.0,792
-Turkey,orientation,bisexual,20.667,66.333,3.0,792
-Turkey,orientation,heterosexual,25.222,51.056,18.0,792
-Turkey,orientation,other,21.667,91.0,3.0,792
-United States of America,orientation,asexual,28.018,58.618,55.0,840
-United States of America,orientation,bisexual,25.004,60.194,273.0,840
-United States of America,orientation,heterosexual,31.997,48.021,1269.0,840
-United States of America,orientation,homosexual,29.056,58.528,89.0,840
-United States of America,orientation,other,27.842,61.947,57.0,840
-South Africa,orientation,asexual,58.0,126.0,1.0,710
-South Africa,orientation,heterosexual,27.143,57.095,21.0,710
-South Africa,orientation,homosexual,23.0,78.0,1.0,710
-United Arab Emirates,married,currently,33.0,52.25,4.0,784
-United Arab Emirates,married,never,24.222,49.556,9.0,784
-United Arab Emirates,married,previously,44.0,90.0,1.0,784
-Argentina,married,currently,30.0,45.0,1.0,32
-Argentina,married,never,26.222,49.0,9.0,32
-Australia,married,currently,44.944,34.917,36.0,36
-Australia,married,never,26.667,52.613,93.0,36
-Australia,married,previously,48.375,52.125,16.0,36
-Brunei Darussalam,married,currently,32.5,76.5,4.0,96
-Brunei Darussalam,married,never,22.043000000000006,64.191,47.0,96
-Brunei Darussalam,married,previously,29.0,98.0,1.0,96
-Brazil,married,currently,38.0,48.0,7.0,76
-Brazil,married,never,22.909,59.927,55.0,76
-Brazil,married,previously,35.0,94.0,1.0,76
-Canada,married,currently,41.72,45.3,50.0,124
-Canada,married,never,24.545,53.455,167.0,124
-Canada,married,previously,47.944,46.444,18.0,124
-Czech Republic,married,never,26.0,57.455,11.0,203
-Germany,married,currently,36.6,38.867,15.0,276
-Germany,married,never,23.886,55.629,70.0,276
-Germany,married,previously,36.0,37.0,1.0,276
-Denmark,married,currently,47.0,18.333,3.0,208
-Denmark,married,never,26.571,29.714,7.0,208
-Denmark,married,previously,52.0,2.0,1.0,208
-Egypt,married,currently,55.5,46.0,2.0,818
-Egypt,married,never,22.406,61.188,32.0,818
-Spain,married,currently,45.0,34.5,2.0,724
-Spain,married,never,22.583,40.917,12.0,724
-Spain,married,previously,18.0,97.0,1.0,724
-Finland,married,currently,39.0,32.0,2.0,246
-Finland,married,never,26.467,48.6,15.0,246
-France,married,currently,47.857,35.286,7.0,250
-France,married,never,23.185,60.315,54.0,250
-France,married,previously,25.5,72.5,2.0,250
-United Kingdom of Great Britain and Northern Ireland,married,currently,40.311,50.044,45.0,826
-United Kingdom of Great Britain and Northern Ireland,married,never,26.519,51.869,183.0,826
-United Kingdom of Great Britain and Northern Ireland,married,previously,51.96,56.72,25.0,826
-Greece,married,currently,48.75,24.0,4.0,300
-Greece,married,never,25.812,45.375,16.0,300
-Greece,married,previously,41.5,58.5,2.0,300
-Hong Kong,married,currently,36.0,57.0,1.0,344
-Hong Kong,married,never,22.938,53.938,16.0,344
-Hong Kong,married,previously,34.0,46.0,1.0,344
-Croatia,married,currently,40.5,14.0,2.0,191
-Croatia,married,never,28.0,50.615,13.0,191
-Indonesia,married,currently,29.643,51.286,14.0,360
-Indonesia,married,never,21.622,56.426,188.0,360
-Indonesia,married,previously,25.0,78.5,2.0,360
-Ireland,married,currently,46.333,53.667,3.0,372
-Ireland,married,never,28.909,55.045,22.0,372
-India,married,currently,37.812,43.90600000000001,32.0,356
-India,married,never,23.159,57.234,145.0,356
-India,married,previously,37.143,52.429,7.0,356
-Italy,married,currently,35.75,42.5,4.0,380
-Italy,married,never,25.094,60.688,32.0,380
-Japan,married,currently,27.5,34.5,4.0,392
-Japan,married,never,22.161,43.645,31.0,392
-Mexico,married,never,22.794,53.118,34.0,484
-Mexico,married,previously,30.0,29.0,2.0,484
-Malaysia,married,currently,31.326,46.767,43.0,458
-Malaysia,married,never,21.709,57.16,357.0,458
-Malaysia,married,previously,20.5,74.5,4.0,458
-Netherlands,married,currently,42.75,54.0,4.0,528
-Netherlands,married,never,24.957,49.087,23.0,528
-Netherlands,married,previously,41.0,13.0,1.0,528
-New Zealand,married,currently,37.25,38.938,16.0,554
-New Zealand,married,never,23.519,53.093,54.0,554
-New Zealand,married,previously,48.333,17.0,3.0,554
-Philippines,married,currently,37.5,54.5,2.0,608
-Philippines,married,never,20.923,65.885,26.0,608
-Pakistan,married,currently,36.2,41.2,5.0,586
-Pakistan,married,never,22.348000000000006,66.73899999999999,23.0,586
-Pakistan,married,previously,34.5,56.25,4.0,586
-Poland,married,currently,39.167,47.0,6.0,616
-Poland,married,never,25.111,61.222,36.0,616
-Poland,married,previously,30.0,51.0,1.0,616
-Portugal,married,currently,42.25,52.25,4.0,620
-Portugal,married,never,22.182,48.545,11.0,620
-Portugal,married,previously,45.0,73.0,1.0,620
-Romania,married,currently,48.25,24.25,4.0,642
-Romania,married,never,25.788,51.93899999999999,33.0,642
-Romania,married,previously,31.0,35.0,1.0,642
-Serbia,married,currently,51.0,26.0,2.0,688
-Serbia,married,never,26.062,42.625,16.0,688
-Russian Federation,married,currently,26.0,45.0,2.0,643
-Russian Federation,married,never,20.895,51.316,19.0,643
-Russian Federation,married,previously,34.0,71.0,1.0,643
-Saudi Arabia,married,currently,40.667,37.333,3.0,682
-Saudi Arabia,married,never,23.889,58.722,18.0,682
-Saudi Arabia,married,previously,22.0,43.0,1.0,682
-Sweden,married,currently,50.5,55.5,2.0,752
-Sweden,married,never,27.917,55.25,12.0,752
-Sweden,married,previously,53.0,57.6,5.0,752
-Singapore,married,currently,36.688,35.562,16.0,702
-Singapore,married,never,23.673,56.143,49.0,702
-Singapore,married,previously,32.5,26.75,4.0,702
-Turkey,married,currently,54.0,20.0,1.0,792
-Turkey,married,never,21.739,59.043,23.0,792
-Turkey,married,previously,48.0,43.0,1.0,792
-United States of America,married,currently,40.844,42.44600000000001,424.0,840
-United States of America,married,never,24.22,55.147,1151.0,840
-United States of America,married,previously,47.315,46.815,168.0,840
-South Africa,married,currently,42.167,53.833,6.0,710
-South Africa,married,never,23.412,63.529,17.0,710
-United Arab Emirates,major,business,24.333,71.0,3.0,784
-United Arab Emirates,major,computer science,26.5,48.0,2.0,784
-United Arab Emirates,major,economics,34.0,13.0,1.0,784
-United Arab Emirates,major,medicine,33.0,5.0,1.0,784
-United Arab Emirates,major,nursing,32.0,57.0,1.0,784
-United Arab Emirates,major,psychology,25.0,54.2,5.0,784
-United Arab Emirates,major,science,44.0,90.0,1.0,784
-Argentina,major,art,29.0,18.0,1.0,32
-Argentina,major,communication,38.0,74.0,1.0,32
-Argentina,major,computer science,30.0,45.0,1.0,32
-Argentina,major,engineering,18.0,36.0,2.0,32
-Argentina,major,english,21.0,50.0,1.0,32
-Argentina,major,medicine,17.0,60.0,1.0,32
-Argentina,major,music,36.0,63.5,2.0,32
-Argentina,major,sociology,23.0,40.0,1.0,32
-Australia,major,accounting,35.75,44.75,4.0,36
-Australia,major,art,33.6,39.8,5.0,36
-Australia,major,biology,40.5,15.5,2.0,36
-Australia,major,business,31.625,35.625,8.0,36
-Australia,major,communication,29.0,41.5,4.0,36
-Australia,major,computer science,29.0,30.333,3.0,36
-Australia,major,economics,39.333,65.333,3.0,36
-Australia,major,education,34.455,66.727,11.0,36
-Australia,major,engineering,34.667,47.333,12.0,36
-Australia,major,english,35.143,47.57100000000001,7.0,36
-Australia,major,history,21.5,96.0,2.0,36
-Australia,major,law,26.143,50.57100000000001,7.0,36
-Australia,major,mathematics,19.0,84.5,2.0,36
-Australia,major,medicine,30.625,55.25,8.0,36
-Australia,major,music,33.5,38.75,4.0,36
-Australia,major,nursing,34.0,45.429,7.0,36
-Australia,major,political science,26.0,86.0,1.0,36
-Australia,major,psychology,32.114000000000004,47.914,35.0,36
-Australia,major,science,38.733,47.6,15.0,36
-Australia,major,sociology,50.6,19.0,5.0,36
-Brunei Darussalam,major,accounting,30.0,20.5,2.0,96
-Brunei Darussalam,major,art,20.0,103.0,1.0,96
-Brunei Darussalam,major,biology,21.167,48.667,6.0,96
-Brunei Darussalam,major,business,25.4,73.2,5.0,96
-Brunei Darussalam,major,chemistry,29.0,98.0,1.0,96
-Brunei Darussalam,major,computer science,24.8,72.2,5.0,96
-Brunei Darussalam,major,economics,20.0,83.0,1.0,96
-Brunei Darussalam,major,education,36.0,95.0,1.0,96
-Brunei Darussalam,major,engineering,22.8,45.6,5.0,96
-Brunei Darussalam,major,english,19.5,79.0,2.0,96
-Brunei Darussalam,major,history,20.0,38.0,1.0,96
-Brunei Darussalam,major,information technology,27.0,98.5,2.0,96
-Brunei Darussalam,major,law,21.0,60.0,1.0,96
-Brunei Darussalam,major,mathematics,25.0,67.5,2.0,96
-Brunei Darussalam,major,medicine,16.667,74.0,3.0,96
-Brunei Darussalam,major,nursing,22.2,64.8,5.0,96
-Brunei Darussalam,major,psychology,19.714,75.286,7.0,96
-Brunei Darussalam,major,science,27.5,46.5,2.0,96
-Brazil,major,architecutre,27.5,34.0,2.0,76
-Brazil,major,art,31.0,46.0,1.0,76
-Brazil,major,biology,31.333,75.833,6.0,76
-Brazil,major,business,32.5,83.5,2.0,76
-Brazil,major,chemistry,43.0,108.0,1.0,76
-Brazil,major,computer science,20.5,68.25,4.0,76
-Brazil,major,engineering,21.75,72.25,8.0,76
-Brazil,major,english,26.667,94.0,3.0,76
-Brazil,major,history,23.5,55.0,2.0,76
-Brazil,major,information technology,29.2,49.4,5.0,76
-Brazil,major,law,24.857,39.857,7.0,76
-Brazil,major,management,26.0,42.0,1.0,76
-Brazil,major,mathematics,30.5,41.0,2.0,76
-Brazil,major,medicine,19.75,54.125,8.0,76
-Brazil,major,music,24.5,16.0,2.0,76
-Brazil,major,physics,20.0,100.0,1.0,76
-Brazil,major,psychology,19.571,47.429,7.0,76
-Brazil,major,sociology,25.0,92.0,1.0,76
-Canada,major,accounting,28.0,49.857,7.0,124
-Canada,major,architecutre,27.333,62.333,3.0,124
-Canada,major,art,34.625,41.625,8.0,124
-Canada,major,biology,23.643,67.786,14.0,124
-Canada,major,business,25.692,40.462,13.0,124
-Canada,major,chemistry,36.75,38.25,4.0,124
-Canada,major,communication,19.5,76.0,2.0,124
-Canada,major,computer science,32.562,42.75,16.0,124
-Canada,major,economics,31.25,43.25,4.0,124
-Canada,major,education,31.5,39.0,2.0,124
-Canada,major,engineering,35.25,52.65,20.0,124
-Canada,major,english,27.5,56.545,22.0,124
-Canada,major,history,36.143,52.143,7.0,124
-Canada,major,information technology,71.0,18.0,1.0,124
-Canada,major,law,31.0,59.222,9.0,124
-Canada,major,management,32.0,76.0,1.0,124
-Canada,major,mathematics,27.75,77.5,4.0,124
-Canada,major,medicine,40.143,52.429,7.0,124
-Canada,major,music,34.333,56.0,3.0,124
-Canada,major,nursing,32.889,55.778,9.0,124
-Canada,major,physics,28.333,55.333,3.0,124
-Canada,major,political science,28.222,38.0,9.0,124
-Canada,major,psychology,27.481,50.833,54.0,124
-Canada,major,science,24.0,34.4,5.0,124
-Canada,major,sociology,31.75,47.875,8.0,124
-Czech Republic,major,computer science,21.0,31.0,1.0,203
-Czech Republic,major,engineering,23.667,48.667,3.0,203
-Czech Republic,major,information technology,22.2,60.8,5.0,203
-Czech Republic,major,law,25.0,81.0,1.0,203
-Czech Republic,major,mathematics,58.0,70.0,1.0,203
-Germany,major,accounting,26.0,35.0,1.0,276
-Germany,major,architecutre,28.667,61.667,3.0,276
-Germany,major,art,28.0,63.0,5.0,276
-Germany,major,biology,36.0,37.0,1.0,276
-Germany,major,business,33.5,42.0,2.0,276
-Germany,major,chemistry,29.5,80.25,4.0,276
-Germany,major,computer science,22.111,59.667,9.0,276
-Germany,major,economics,32.5,45.0,2.0,276
-Germany,major,education,37.0,61.0,1.0,276
-Germany,major,engineering,23.643,55.857,14.0,276
-Germany,major,english,24.2,72.8,5.0,276
-Germany,major,history,32.0,72.0,1.0,276
-Germany,major,law,26.333,38.667,6.0,276
-Germany,major,management,36.0,32.0,1.0,276
-Germany,major,mathematics,25.0,49.0,1.0,276
-Germany,major,medicine,29.4,31.2,5.0,276
-Germany,major,music,25.8,44.6,5.0,276
-Germany,major,physics,25.667,51.0,3.0,276
-Germany,major,political science,28.0,36.0,2.0,276
-Germany,major,psychology,24.083,52.917,12.0,276
-Germany,major,science,25.0,32.0,1.0,276
-Germany,major,sociology,28.5,23.5,2.0,276
-Denmark,major,biology,39.0,13.0,1.0,208
-Denmark,major,engineering,23.5,48.5,2.0,208
-Denmark,major,english,19.0,48.0,1.0,208
-Denmark,major,history,48.0,5.0,1.0,208
-Denmark,major,medicine,27.0,22.5,2.0,208
-Denmark,major,music,51.0,36.0,1.0,208
-Denmark,major,psychology,40.333,7.0,3.0,208
-Egypt,major,business,21.667,62.0,3.0,818
-Egypt,major,economics,35.5,50.5,2.0,818
-Egypt,major,engineering,19.0,41.0,1.0,818
-Egypt,major,english,20.167,97.833,6.0,818
-Egypt,major,medicine,25.3,50.7,20.0,818
-Egypt,major,psychology,24.0,41.0,1.0,818
-Egypt,major,sociology,22.0,80.0,1.0,818
-Spain,major,architecutre,22.0,36.0,1.0,724
-Spain,major,biology,26.0,25.0,1.0,724
-Spain,major,computer science,19.8,61.2,5.0,724
-Spain,major,economics,48.0,49.0,1.0,724
-Spain,major,engineering,23.667,34.667,3.0,724
-Spain,major,law,42.0,20.0,1.0,724
-Spain,major,music,16.0,92.0,1.0,724
-Spain,major,physics,35.0,16.0,1.0,724
-Spain,major,sociology,20.0,9.0,1.0,724
-Finland,major,architecutre,24.0,23.0,1.0,246
-Finland,major,biology,25.0,53.6,5.0,246
-Finland,major,business,40.0,44.0,1.0,246
-Finland,major,chemistry,29.0,53.0,1.0,246
-Finland,major,communication,27.0,14.0,1.0,246
-Finland,major,economics,35.0,69.0,1.0,246
-Finland,major,education,30.0,39.0,2.0,246
-Finland,major,engineering,30.0,19.0,1.0,246
-Finland,major,english,29.0,27.0,1.0,246
-Finland,major,medicine,27.0,66.0,2.0,246
-Finland,major,psychology,22.0,66.0,1.0,246
-France,major,accounting,20.0,51.0,1.0,250
-France,major,architecutre,30.0,84.0,1.0,250
-France,major,art,26.2,60.2,5.0,250
-France,major,biology,26.4,47.0,5.0,250
-France,major,chemistry,25.0,43.0,1.0,250
-France,major,computer science,30.667,39.667,6.0,250
-France,major,economics,21.0,53.0,2.0,250
-France,major,engineering,22.0,87.5,4.0,250
-France,major,english,18.5,79.25,4.0,250
-France,major,history,33.25,49.25,4.0,250
-France,major,information technology,37.5,58.5,2.0,250
-France,major,law,24.0,30.0,5.0,250
-France,major,mathematics,22.75,63.5,4.0,250
-France,major,medicine,34.0,61.0,3.0,250
-France,major,music,20.0,82.0,1.0,250
-France,major,physics,29.8,47.0,5.0,250
-France,major,psychology,20.286,70.0,7.0,250
-France,major,sociology,26.667,72.0,3.0,250
-United Kingdom of Great Britain and Northern Ireland,major,accounting,20.75,56.0,4.0,826
-United Kingdom of Great Britain and Northern Ireland,major,architecutre,21.667,72.333,3.0,826
-United Kingdom of Great Britain and Northern Ireland,major,art,40.143,54.286,7.0,826
-United Kingdom of Great Britain and Northern Ireland,major,biology,23.273000000000003,42.182,11.0,826
-United Kingdom of Great Britain and Northern Ireland,major,business,33.625,59.75,8.0,826
-United Kingdom of Great Britain and Northern Ireland,major,chemistry,30.667,60.5,6.0,826
-United Kingdom of Great Britain and Northern Ireland,major,computer science,23.429,26.429,7.0,826
-United Kingdom of Great Britain and Northern Ireland,major,economics,39.75,65.625,8.0,826
-United Kingdom of Great Britain and Northern Ireland,major,education,44.545,36.81800000000001,11.0,826
-United Kingdom of Great Britain and Northern Ireland,major,engineering,29.308000000000003,62.154,13.0,826
-United Kingdom of Great Britain and Northern Ireland,major,english,34.607,49.143,28.0,826
-United Kingdom of Great Britain and Northern Ireland,major,history,41.0,59.462,13.0,826
-United Kingdom of Great Britain and Northern Ireland,major,information technology,31.333,86.667,3.0,826
-United Kingdom of Great Britain and Northern Ireland,major,law,26.333,39.333,9.0,826
-United Kingdom of Great Britain and Northern Ireland,major,management,30.0,114.0,1.0,826
-United Kingdom of Great Britain and Northern Ireland,major,mathematics,23.6,43.9,10.0,826
-United Kingdom of Great Britain and Northern Ireland,major,medicine,37.5,35.0,10.0,826
-United Kingdom of Great Britain and Northern Ireland,major,music,31.091,56.364,11.0,826
-United Kingdom of Great Britain and Northern Ireland,major,nursing,39.214,48.286,14.0,826
-United Kingdom of Great Britain and Northern Ireland,major,physics,22.167,72.0,6.0,826
-United Kingdom of Great Britain and Northern Ireland,major,psychology,26.786,51.75,56.0,826
-United Kingdom of Great Britain and Northern Ireland,major,science,36.5,77.5,2.0,826
-United Kingdom of Great Britain and Northern Ireland,major,sociology,33.667,55.5,12.0,826
-Greece,major,art,32.0,8.0,1.0,300
-Greece,major,biology,40.0,40.0,1.0,300
-Greece,major,business,23.0,30.0,1.0,300
-Greece,major,chemistry,22.333,50.667,3.0,300
-Greece,major,economics,24.0,44.0,2.0,300
-Greece,major,engineering,37.5,24.5,4.0,300
-Greece,major,law,46.0,18.0,1.0,300
-Greece,major,mathematics,24.0,53.0,1.0,300
-Greece,major,medicine,35.0,54.5,2.0,300
-Greece,major,nursing,27.0,86.0,1.0,300
-Greece,major,political science,50.0,24.0,1.0,300
-Greece,major,psychology,30.333,54.333,3.0,300
-Greece,major,sociology,23.0,70.0,1.0,300
-Hong Kong,major,accounting,24.333,55.0,3.0,344
-Hong Kong,major,biology,25.0,12.0,1.0,344
-Hong Kong,major,business,21.0,40.0,2.0,344
-Hong Kong,major,communication,20.0,45.0,1.0,344
-Hong Kong,major,computer science,20.0,60.0,1.0,344
-Hong Kong,major,engineering,23.0,65.0,2.0,344
-Hong Kong,major,english,29.5,40.5,2.0,344
-Hong Kong,major,information technology,18.0,86.0,1.0,344
-Hong Kong,major,mathematics,34.0,117.0,1.0,344
-Hong Kong,major,medicine,21.0,28.0,1.0,344
-Hong Kong,major,psychology,26.333,54.0,3.0,344
-Croatia,major,chemistry,32.0,75.333,3.0,191
-Croatia,major,computer science,42.0,39.0,1.0,191
-Croatia,major,engineering,31.0,47.0,1.0,191
-Croatia,major,law,21.333,53.667,3.0,191
-Croatia,major,medicine,40.0,3.0,1.0,191
-Croatia,major,physics,30.0,56.0,1.0,191
-Croatia,major,psychology,28.4,30.8,5.0,191
-Indonesia,major,accounting,22.714,52.286,7.0,360
-Indonesia,major,architecutre,24.4,64.8,5.0,360
-Indonesia,major,art,20.667,53.0,3.0,360
-Indonesia,major,biology,22.286,49.714,7.0,360
-Indonesia,major,business,21.75,63.375,8.0,360
-Indonesia,major,communication,21.25,62.75,8.0,360
-Indonesia,major,computer science,21.5,47.625,8.0,360
-Indonesia,major,economics,22.0,39.0,7.0,360
-Indonesia,major,education,24.333,79.333,3.0,360
-Indonesia,major,engineering,24.211,53.316,19.0,360
-Indonesia,major,english,21.977,57.698,43.0,360
-Indonesia,major,history,18.0,83.0,1.0,360
-Indonesia,major,information technology,22.5,77.0,2.0,360
-Indonesia,major,law,21.278,57.389,18.0,360
-Indonesia,major,management,21.667,47.0,9.0,360
-Indonesia,major,mathematics,20.0,78.0,1.0,360
-Indonesia,major,medicine,23.947,44.21100000000001,19.0,360
-Indonesia,major,nursing,20.5,68.5,2.0,360
-Indonesia,major,physics,25.0,89.0,1.0,360
-Indonesia,major,political science,24.5,25.5,2.0,360
-Indonesia,major,psychology,20.759,64.828,29.0,360
-Indonesia,major,science,25.0,61.5,2.0,360
-Ireland,major,chemistry,31.0,19.0,1.0,372
-Ireland,major,computer science,23.333,42.333,3.0,372
-Ireland,major,economics,20.0,31.0,1.0,372
-Ireland,major,engineering,32.0,44.5,2.0,372
-Ireland,major,english,20.0,76.0,1.0,372
-Ireland,major,history,27.667,88.0,3.0,372
-Ireland,major,law,40.5,65.5,4.0,372
-Ireland,major,management,42.0,27.0,1.0,372
-Ireland,major,mathematics,21.0,74.0,1.0,372
-Ireland,major,medicine,23.0,82.0,1.0,372
-Ireland,major,nursing,47.0,62.0,1.0,372
-Ireland,major,physics,42.0,50.5,2.0,372
-Ireland,major,psychology,27.0,39.5,4.0,372
-India,major,accounting,27.333,44.0,3.0,356
-India,major,architecutre,29.5,73.0,2.0,356
-India,major,biology,22.5,29.5,2.0,356
-India,major,business,27.5,61.375,8.0,356
-India,major,chemistry,24.333,72.333,3.0,356
-India,major,computer science,26.053,48.737,19.0,356
-India,major,economics,29.857,52.143,7.0,356
-India,major,education,35.5,45.0,2.0,356
-India,major,engineering,25.592,54.408,49.0,356
-India,major,english,24.81,58.0,21.0,356
-India,major,law,21.875,59.625,8.0,356
-India,major,management,41.5,49.75,4.0,356
-India,major,mathematics,28.333,32.667,3.0,356
-India,major,medicine,25.538,47.077,13.0,356
-India,major,physics,26.833,52.833,6.0,356
-India,major,political science,30.0,78.4,5.0,356
-India,major,psychology,24.48,59.28,25.0,356
-India,major,science,29.5,46.0,4.0,356
-Italy,major,art,32.333,83.667,3.0,380
-Italy,major,biology,21.5,67.0,2.0,380
-Italy,major,communication,23.0,65.0,1.0,380
-Italy,major,computer science,25.0,53.0,1.0,380
-Italy,major,engineering,24.5,49.0,2.0,380
-Italy,major,english,23.0,50.0,1.0,380
-Italy,major,history,32.0,77.0,1.0,380
-Italy,major,information technology,22.0,58.0,3.0,380
-Italy,major,law,30.333,50.667,3.0,380
-Italy,major,mathematics,29.5,26.5,2.0,380
-Italy,major,medicine,26.0,35.5,2.0,380
-Italy,major,nursing,19.0,121.0,1.0,380
-Italy,major,physics,28.667,33.667,3.0,380
-Italy,major,psychology,23.4,65.4,10.0,380
-Italy,major,sociology,47.0,58.0,1.0,380
-Japan,major,accounting,28.0,34.0,1.0,392
-Japan,major,biology,27.0,51.0,1.0,392
-Japan,major,chemistry,18.0,55.0,1.0,392
-Japan,major,computer science,22.0,57.333,3.0,392
-Japan,major,economics,22.0,48.0,1.0,392
-Japan,major,education,21.0,61.0,1.0,392
-Japan,major,engineering,22.083,36.625,24.0,392
-Japan,major,physics,30.0,66.5,2.0,392
-Japan,major,sociology,25.0,58.0,1.0,392
-Mexico,major,accounting,23.0,14.0,1.0,484
-Mexico,major,art,27.0,74.333,3.0,484
-Mexico,major,business,21.0,51.0,1.0,484
-Mexico,major,communication,22.0,63.0,2.0,484
-Mexico,major,computer science,22.0,44.0,2.0,484
-Mexico,major,education,36.0,54.0,1.0,484
-Mexico,major,engineering,21.5,34.5,6.0,484
-Mexico,major,english,27.0,64.5,2.0,484
-Mexico,major,history,34.5,40.0,2.0,484
-Mexico,major,law,19.0,20.0,1.0,484
-Mexico,major,management,21.0,66.0,1.0,484
-Mexico,major,medicine,20.667,33.667,3.0,484
-Mexico,major,music,25.0,74.0,1.0,484
-Mexico,major,physics,20.0,63.5,2.0,484
-Mexico,major,political science,22.0,86.0,1.0,484
-Mexico,major,psychology,20.714,59.714,7.0,484
-Malaysia,major,accounting,21.8,60.543,35.0,458
-Malaysia,major,architecutre,23.125,62.0,8.0,458
-Malaysia,major,art,24.0,49.5,4.0,458
-Malaysia,major,biology,21.0,48.75,8.0,458
-Malaysia,major,business,21.7,59.2,40.0,458
-Malaysia,major,chemistry,21.0,44.429,7.0,458
-Malaysia,major,communication,23.9,45.6,10.0,458
-Malaysia,major,computer science,23.214,57.107,28.0,458
-Malaysia,major,economics,29.25,59.25,4.0,458
-Malaysia,major,education,25.529,52.706,17.0,458
-Malaysia,major,engineering,23.139,55.819,72.0,458
-Malaysia,major,english,20.909,61.273,33.0,458
-Malaysia,major,history,23.667,54.0,3.0,458
-Malaysia,major,information technology,29.143,60.429,7.0,458
-Malaysia,major,law,22.722,66.056,18.0,458
-Malaysia,major,management,23.0,53.556,9.0,458
-Malaysia,major,mathematics,23.0,51.667,3.0,458
-Malaysia,major,medicine,22.387,55.129,31.0,458
-Malaysia,major,music,26.5,62.5,2.0,458
-Malaysia,major,nursing,23.6,48.4,10.0,458
-Malaysia,major,physics,24.0,63.333,3.0,458
-Malaysia,major,psychology,22.312,51.969,32.0,458
-Malaysia,major,science,20.429,46.429,14.0,458
-Malaysia,major,sociology,23.5,62.0,6.0,458
-Netherlands,major,accounting,27.0,50.0,1.0,528
-Netherlands,major,art,25.0,33.0,1.0,528
-Netherlands,major,biology,16.0,23.0,1.0,528
-Netherlands,major,chemistry,31.0,72.5,2.0,528
-Netherlands,major,computer science,20.0,107.0,1.0,528
-Netherlands,major,engineering,21.0,61.0,3.0,528
-Netherlands,major,english,24.5,52.5,2.0,528
-Netherlands,major,history,37.0,30.0,1.0,528
-Netherlands,major,law,21.0,71.0,3.0,528
-Netherlands,major,management,25.0,38.0,1.0,528
-Netherlands,major,mathematics,33.0,47.0,1.0,528
-Netherlands,major,medicine,55.0,76.0,1.0,528
-Netherlands,major,music,28.0,45.0,1.0,528
-Netherlands,major,physics,26.0,11.5,2.0,528
-Netherlands,major,psychology,30.2,38.8,5.0,528
-Netherlands,major,science,41.0,13.0,1.0,528
-Netherlands,major,sociology,39.0,33.0,1.0,528
-New Zealand,major,accounting,20.25,47.0,8.0,554
-New Zealand,major,architecutre,20.0,51.0,1.0,554
-New Zealand,major,art,37.5,50.0,2.0,554
-New Zealand,major,biology,43.0,34.0,3.0,554
-New Zealand,major,business,21.375,54.625,8.0,554
-New Zealand,major,chemistry,25.0,38.0,1.0,554
-New Zealand,major,communication,27.0,48.5,2.0,554
-New Zealand,major,computer science,20.667,53.0,3.0,554
-New Zealand,major,education,27.0,12.0,1.0,554
-New Zealand,major,engineering,26.167,52.0,6.0,554
-New Zealand,major,english,24.8,54.4,5.0,554
-New Zealand,major,history,23.5,68.5,2.0,554
-New Zealand,major,information technology,50.0,3.0,1.0,554
-New Zealand,major,law,19.5,62.0,4.0,554
-New Zealand,major,management,35.0,36.333,3.0,554
-New Zealand,major,medicine,44.5,29.0,2.0,554
-New Zealand,major,music,17.5,80.0,2.0,554
-New Zealand,major,physics,62.0,30.0,1.0,554
-New Zealand,major,psychology,31.455,39.0,11.0,554
-New Zealand,major,science,27.571,58.714,7.0,554
-Philippines,major,accounting,30.0,92.0,1.0,608
-Philippines,major,architecutre,18.0,99.5,2.0,608
-Philippines,major,biology,23.0,66.5,2.0,608
-Philippines,major,chemistry,25.0,45.0,1.0,608
-Philippines,major,communication,18.0,56.0,1.0,608
-Philippines,major,computer science,23.0,93.0,2.0,608
-Philippines,major,economics,20.0,21.0,1.0,608
-Philippines,major,education,26.0,92.5,2.0,608
-Philippines,major,english,26.667,44.667,3.0,608
-Philippines,major,information technology,21.0,58.5,2.0,608
-Philippines,major,nursing,22.333,65.667,3.0,608
-Philippines,major,psychology,19.143,56.429,7.0,608
-Philippines,major,sociology,23.0,62.0,1.0,608
-Pakistan,major,biology,21.0,102.0,1.0,586
-Pakistan,major,chemistry,28.5,62.0,2.0,586
-Pakistan,major,communication,23.0,98.0,1.0,586
-Pakistan,major,economics,19.0,73.0,1.0,586
-Pakistan,major,education,21.0,37.0,1.0,586
-Pakistan,major,engineering,30.0,84.0,1.0,586
-Pakistan,major,english,30.5,63.667,6.0,586
-Pakistan,major,law,35.0,83.0,1.0,586
-Pakistan,major,management,38.0,21.0,1.0,586
-Pakistan,major,mathematics,24.0,56.0,1.0,586
-Pakistan,major,medicine,27.5,46.333,6.0,586
-Pakistan,major,psychology,20.75,54.5,8.0,586
-Pakistan,major,sociology,25.5,96.0,2.0,586
-Poland,major,architecutre,20.0,54.0,1.0,616
-Poland,major,biology,20.0,77.0,2.0,616
-Poland,major,communication,28.0,107.0,1.0,616
-Poland,major,computer science,31.0,40.667,3.0,616
-Poland,major,economics,25.8,47.2,5.0,616
-Poland,major,engineering,44.333,34.667,3.0,616
-Poland,major,english,25.5,61.0,6.0,616
-Poland,major,information technology,27.4,85.8,5.0,616
-Poland,major,law,27.0,67.0,1.0,616
-Poland,major,management,26.333,61.667,3.0,616
-Poland,major,mathematics,23.0,21.0,1.0,616
-Poland,major,medicine,21.5,75.5,2.0,616
-Poland,major,physics,42.0,58.0,1.0,616
-Poland,major,psychology,21.5,59.833,6.0,616
-Poland,major,sociology,31.0,41.333,3.0,616
-Portugal,major,accounting,19.0,87.0,1.0,620
-Portugal,major,architecutre,26.0,21.5,2.0,620
-Portugal,major,computer science,19.0,50.0,1.0,620
-Portugal,major,engineering,22.0,39.0,2.0,620
-Portugal,major,history,35.0,18.0,1.0,620
-Portugal,major,information technology,35.0,108.0,1.0,620
-Portugal,major,law,45.0,73.0,1.0,620
-Portugal,major,mathematics,51.0,44.0,2.0,620
-Portugal,major,psychology,21.4,54.2,5.0,620
-Romania,major,biology,19.0,86.0,1.0,642
-Romania,major,business,37.4,46.8,5.0,642
-Romania,major,computer science,28.25,44.25,4.0,642
-Romania,major,economics,28.833,58.0,6.0,642
-Romania,major,engineering,35.667,36.0,3.0,642
-Romania,major,english,25.0,42.667,3.0,642
-Romania,major,information technology,22.0,31.0,1.0,642
-Romania,major,law,25.0,72.0,3.0,642
-Romania,major,mathematics,22.0,21.0,1.0,642
-Romania,major,medicine,27.667,40.333,3.0,642
-Romania,major,psychology,23.5,31.5,6.0,642
-Romania,major,sociology,29.0,93.5,2.0,642
-Serbia,major,architecutre,39.5,27.5,2.0,688
-Serbia,major,computer science,39.0,26.0,1.0,688
-Serbia,major,economics,20.0,60.0,1.0,688
-Serbia,major,english,27.0,47.667,3.0,688
-Serbia,major,history,22.0,68.0,1.0,688
-Serbia,major,information technology,36.0,74.0,1.0,688
-Serbia,major,law,36.0,22.0,2.0,688
-Serbia,major,mathematics,19.5,39.5,2.0,688
-Serbia,major,physics,27.0,47.0,1.0,688
-Serbia,major,psychology,27.333,43.333,3.0,688
-Serbia,major,science,22.0,8.0,1.0,688
-Russian Federation,major,biology,22.0,48.0,1.0,643
-Russian Federation,major,business,24.0,90.0,1.0,643
-Russian Federation,major,computer science,20.0,40.25,4.0,643
-Russian Federation,major,engineering,18.5,74.5,2.0,643
-Russian Federation,major,english,18.0,89.0,1.0,643
-Russian Federation,major,mathematics,26.0,43.0,1.0,643
-Russian Federation,major,medicine,22.667,52.667,6.0,643
-Russian Federation,major,music,26.0,19.0,1.0,643
-Russian Federation,major,physics,17.0,59.0,1.0,643
-Russian Federation,major,psychology,24.25,40.5,4.0,643
-Saudi Arabia,major,architecutre,22.0,107.0,1.0,682
-Saudi Arabia,major,chemistry,25.0,62.0,1.0,682
-Saudi Arabia,major,computer science,34.0,30.0,1.0,682
-Saudi Arabia,major,economics,32.0,61.0,1.0,682
-Saudi Arabia,major,engineering,17.0,67.0,1.0,682
-Saudi Arabia,major,english,32.8,54.6,5.0,682
-Saudi Arabia,major,medicine,21.5,78.833,6.0,682
-Saudi Arabia,major,nursing,27.5,18.0,2.0,682
-Saudi Arabia,major,psychology,24.0,25.75,4.0,682
-Sweden,major,art,42.0,65.0,1.0,752
-Sweden,major,biology,59.0,46.0,1.0,752
-Sweden,major,computer science,57.0,100.0,1.0,752
-Sweden,major,economics,46.0,51.0,1.0,752
-Sweden,major,english,38.0,53.0,1.0,752
-Sweden,major,information technology,20.0,77.0,1.0,752
-Sweden,major,mathematics,53.0,46.0,1.0,752
-Sweden,major,medicine,22.5,51.0,2.0,752
-Sweden,major,music,19.0,60.0,1.0,752
-Sweden,major,political science,44.0,64.0,1.0,752
-Sweden,major,psychology,34.8,51.8,5.0,752
-Sweden,major,sociology,34.667,46.333,3.0,752
-Singapore,major,accounting,22.4,49.6,5.0,702
-Singapore,major,architecutre,20.5,30.0,2.0,702
-Singapore,major,art,21.0,89.0,1.0,702
-Singapore,major,biology,24.5,36.5,2.0,702
-Singapore,major,business,26.0,49.5,8.0,702
-Singapore,major,chemistry,25.0,20.0,2.0,702
-Singapore,major,computer science,23.0,30.333,3.0,702
-Singapore,major,economics,45.0,5.0,1.0,702
-Singapore,major,education,42.0,60.0,1.0,702
-Singapore,major,engineering,28.0,53.167,6.0,702
-Singapore,major,english,33.667,45.444,9.0,702
-Singapore,major,history,25.0,86.0,2.0,702
-Singapore,major,information technology,30.0,71.0,2.0,702
-Singapore,major,law,33.5,39.75,4.0,702
-Singapore,major,management,28.0,18.0,1.0,702
-Singapore,major,mathematics,26.5,49.0,2.0,702
-Singapore,major,medicine,34.5,25.5,2.0,702
-Singapore,major,music,23.5,83.5,2.0,702
-Singapore,major,nursing,23.0,32.0,2.0,702
-Singapore,major,psychology,22.5,67.75,8.0,702
-Singapore,major,science,26.333,72.667,3.0,702
-Singapore,major,sociology,23.0,6.0,1.0,702
-Turkey,major,accounting,17.0,37.0,1.0,792
-Turkey,major,biology,26.5,67.0,2.0,792
-Turkey,major,business,32.333,38.333,3.0,792
-Turkey,major,computer science,28.0,50.0,2.0,792
-Turkey,major,economics,23.0,54.0,1.0,792
-Turkey,major,engineering,25.0,87.0,2.0,792
-Turkey,major,english,18.333,42.0,3.0,792
-Turkey,major,history,16.0,92.0,1.0,792
-Turkey,major,medicine,22.0,78.667,3.0,792
-Turkey,major,music,48.0,43.0,1.0,792
-Turkey,major,physics,19.0,66.0,1.0,792
-Turkey,major,psychology,20.4,48.8,5.0,792
-United States of America,major,accounting,35.209,51.744,43.0,840
-United States of America,major,architecutre,30.833,51.0,12.0,840
-United States of America,major,art,32.333,59.13,54.0,840
-United States of America,major,biology,26.455,48.195,123.0,840
-United States of America,major,business,35.783,47.159,138.0,840
-United States of America,major,chemistry,28.682,46.091,22.0,840
-United States of America,major,communication,29.893,41.82100000000001,28.0,840
-United States of America,major,computer science,26.713,48.897,87.0,840
-United States of America,major,economics,27.091,46.727,22.0,840
-United States of America,major,education,35.398,49.349,83.0,840
-United States of America,major,engineering,27.091,46.14100000000001,99.0,840
-United States of America,major,english,30.345,57.324,142.0,840
-United States of America,major,history,37.844,50.889,45.0,840
-United States of America,major,information technology,30.714,56.714,7.0,840
-United States of America,major,law,33.879,49.758,33.0,840
-United States of America,major,management,28.364,44.81800000000001,11.0,840
-United States of America,major,mathematics,28.739,53.174,23.0,840
-United States of America,major,medicine,31.219,49.938,32.0,840
-United States of America,major,music,25.933000000000003,60.356,45.0,840
-United States of America,major,nursing,31.735,56.929,113.0,840
-United States of America,major,physics,26.25,65.958,24.0,840
-United States of America,major,political science,36.333,47.889,36.0,840
-United States of America,major,psychology,28.11,51.908,401.0,840
-United States of America,major,science,32.524,49.333,21.0,840
-United States of America,major,sociology,33.848,46.96,99.0,840
-South Africa,major,accounting,26.0,47.0,2.0,710
-South Africa,major,architecutre,21.0,66.0,1.0,710
-South Africa,major,business,34.5,60.0,2.0,710
-South Africa,major,computer science,35.0,55.0,1.0,710
-South Africa,major,education,24.5,66.5,2.0,710
-South Africa,major,engineering,20.0,80.0,1.0,710
-South Africa,major,english,34.0,18.0,1.0,710
-South Africa,major,information technology,24.5,46.5,2.0,710
-South Africa,major,law,30.5,67.5,2.0,710
-South Africa,major,management,24.0,62.0,1.0,710
-South Africa,major,nursing,18.0,31.0,1.0,710
-South Africa,major,physics,23.0,78.0,1.0,710
-South Africa,major,psychology,33.6,84.2,5.0,710
-South Africa,major,science,28.0,17.0,1.0,710
-Afghanistan,,,,,0.0,4
-Aland Islands,,,,,0.0,248
-Albania,,,,,0.0,8
-Algeria,,,,,0.0,12
-American Samoa,,,,,0.0,16
-Andorra,,,,,0.0,20
-Angola,,,,,0.0,24
-Anguilla,,,,,0.0,660
-Antarctica,,,,,0.0,10
-Antigua and Barbuda,,,,,0.0,28
-Armenia,,,,,0.0,51
-Aruba,,,,,0.0,533
-Austria,,,,,0.0,40
-Azerbaijan,,,,,0.0,31
-Bahamas,,,,,0.0,44
-Bahrain,,,,,0.0,48
-Bangladesh,,,,,0.0,50
-Barbados,,,,,0.0,52
-Belarus,,,,,0.0,112
-Belgium,,,,,0.0,56
-Belize,,,,,0.0,84
-Benin,,,,,0.0,204
-Bermuda,,,,,0.0,60
-Bhutan,,,,,0.0,64
-Bolivia (Plurinational State of),,,,,0.0,68
-"Bonaire, Sint Eustatius and Saba",,,,,0.0,535
-Bosnia and Herzegovina,,,,,0.0,70
-Botswana,,,,,0.0,72
-Bouvet Island,,,,,0.0,74
-British Indian Ocean Territory,,,,,0.0,86
-Bulgaria,,,,,0.0,100
-Burkina Faso,,,,,0.0,854
-Burundi,,,,,0.0,108
-Cambodia,,,,,0.0,116
-Cameroon,,,,,0.0,120
-Cabo Verde,,,,,0.0,132
-Cayman Islands,,,,,0.0,136
-Central African Republic,,,,,0.0,140
-Chad,,,,,0.0,148
-Chile,,,,,0.0,152
-China,,,,,0.0,156
-Christmas Island,,,,,0.0,162
-Cocos (Keeling) Islands,,,,,0.0,166
-Colombia,,,,,0.0,170
-Comoros,,,,,0.0,174
-Congo,,,,,0.0,178
-Congo (Democratic Republic of the),,,,,0.0,180
-Cook Islands,,,,,0.0,184
-Costa Rica,,,,,0.0,188
-Ivory Coast,,,,,0.0,384
-Cuba,,,,,0.0,192
-Curacao,,,,,0.0,531
-Cyprus,,,,,0.0,196
-Djibouti,,,,,0.0,262
-Dominica,,,,,0.0,212
-Dominican Republic,,,,,0.0,214
-Ecuador,,,,,0.0,218
-El Salvador,,,,,0.0,222
-Equatorial Guinea,,,,,0.0,226
-Eritrea,,,,,0.0,232
-Estonia,,,,,0.0,233
-Ethiopia,,,,,0.0,231
-Falkland Islands (Malvinas),,,,,0.0,238
-Faroe Islands,,,,,0.0,234
-Fiji,,,,,0.0,242
-French Guiana,,,,,0.0,254
-French Polynesia,,,,,0.0,258
-French Southern Territories,,,,,0.0,260
-Gabon,,,,,0.0,266
-Gambia,,,,,0.0,270
-Georgia,,,,,0.0,268
-Ghana,,,,,0.0,288
-Gibraltar,,,,,0.0,292
-Greenland,,,,,0.0,304
-Grenada,,,,,0.0,308
-Guadeloupe,,,,,0.0,312
-Guam,,,,,0.0,316
-Guatemala,,,,,0.0,320
-Guernsey,,,,,0.0,831
-Guinea,,,,,0.0,324
-Guinea-Bissau,,,,,0.0,624
-Guyana,,,,,0.0,328
-Haiti,,,,,0.0,332
-Heard Island and McDonald Islands,,,,,0.0,334
-Holy See,,,,,0.0,336
-Honduras,,,,,0.0,340
-Hungary,,,,,0.0,348
-Iceland,,,,,0.0,352
-Iran (Islamic Republic of),,,,,0.0,364
-Iraq,,,,,0.0,368
-Isle of Man,,,,,0.0,833
-Israel,,,,,0.0,376
-Jamaica,,,,,0.0,388
-Jersey,,,,,0.0,832
-Jordan,,,,,0.0,400
-Kazakhstan,,,,,0.0,398
-Kenya,,,,,0.0,404
-Kiribati,,,,,0.0,296
-Korea (Democratic People's Republic of),,,,,0.0,408
-Korea (Republic of),,,,,0.0,410
-Kuwait,,,,,0.0,414
-Kyrgyzstan,,,,,0.0,417
-Lao People's Democratic Republic,,,,,0.0,418
-Latvia,,,,,0.0,428
-Lebanon,,,,,0.0,422
-Lesotho,,,,,0.0,426
-Liberia,,,,,0.0,430
-Libya,,,,,0.0,434
-Liechtenstein,,,,,0.0,438
-Lithuania,,,,,0.0,440
-Luxembourg,,,,,0.0,442
-Macao,,,,,0.0,446
-Macedonia (the former Yugoslav Republic of),,,,,0.0,807
-Madagascar,,,,,0.0,450
-Malawi,,,,,0.0,454
-Maldives,,,,,0.0,462
-Mali,,,,,0.0,466
-Malta,,,,,0.0,470
-Marshall Islands,,,,,0.0,584
-Martinique,,,,,0.0,474
-Mauritania,,,,,0.0,478
-Mauritius,,,,,0.0,480
-Mayotte,,,,,0.0,175
-Micronesia (Federated States of),,,,,0.0,583
-Moldova (Republic of),,,,,0.0,498
-Monaco,,,,,0.0,492
-Mongolia,,,,,0.0,496
-Montenegro,,,,,0.0,499
-Montserrat,,,,,0.0,500
-Morocco,,,,,0.0,504
-Mozambique,,,,,0.0,508
-Myanmar,,,,,0.0,104
-Namibia,,,,,0.0,516
-Nauru,,,,,0.0,520
-Nepal,,,,,0.0,524
-New Caledonia,,,,,0.0,540
-Nicaragua,,,,,0.0,558
-Niger,,,,,0.0,562
-Nigeria,,,,,0.0,566
-Niue,,,,,0.0,570
-Norfolk Island,,,,,0.0,574
-Northern Mariana Islands,,,,,0.0,580
-Norway,,,,,0.0,578
-Oman,,,,,0.0,512
-Palau,,,,,0.0,585
-"Palestine, State of",,,,,0.0,275
-Panama,,,,,0.0,591
-Papua New Guinea,,,,,0.0,598
-Paraguay,,,,,0.0,600
-Peru,,,,,0.0,604
-Pitcairn,,,,,0.0,612
-Puerto Rico,,,,,0.0,630
-Qatar,,,,,0.0,634
-Reunion,,,,,0.0,638
-Rwanda,,,,,0.0,646
-Saint Barthelemy,,,,,0.0,652
-"Saint Helena, Ascension and Tristan da Cunha",,,,,0.0,654
-Saint Kitts and Nevis,,,,,0.0,659
-Saint Lucia,,,,,0.0,662
-Saint Martin (French part),,,,,0.0,663
-Saint Pierre and Miquelon,,,,,0.0,666
-Saint Vincent and the Grenadines,,,,,0.0,670
-Samoa,,,,,0.0,882
-San Marino,,,,,0.0,674
-Sao Tome and Principe,,,,,0.0,678
-Senegal,,,,,0.0,686
-Seychelles,,,,,0.0,690
-Sierra Leone,,,,,0.0,694
-Sint Maarten (Dutch part),,,,,0.0,534
-Slovakia,,,,,0.0,703
-Slovenia,,,,,0.0,705
-Solomon Islands,,,,,0.0,90
-Somalia,,,,,0.0,706
-South Georgia and the South Sandwich Islands,,,,,0.0,239
-South Sudan,,,,,0.0,728
-Sri Lanka,,,,,0.0,144
-Sudan,,,,,0.0,729
-Suriname,,,,,0.0,740
-Svalbard and Jan Mayen,,,,,0.0,744
-Swaziland,,,,,0.0,748
-Switzerland,,,,,0.0,756
-Syrian Arab Republic,,,,,0.0,760
-"Taiwan, Province of China",,,,,0.0,158
-Tajikistan,,,,,0.0,762
-"Tanzania, United Republic of",,,,,0.0,834
-Thailand,,,,,0.0,764
-Timor-Leste,,,,,0.0,626
-Togo,,,,,0.0,768
-Tokelau,,,,,0.0,772
-Tonga,,,,,0.0,776
-Trinidad and Tobago,,,,,0.0,780
-Tunisia,,,,,0.0,788
-Turkmenistan,,,,,0.0,795
-Turks and Caicos Islands,,,,,0.0,796
-Tuvalu,,,,,0.0,798
-Uganda,,,,,0.0,800
-Ukraine,,,,,0.0,804
-United States Minor Outlying Islands,,,,,0.0,581
-Uruguay,,,,,0.0,858
-Uzbekistan,,,,,0.0,860
-Vanuatu,,,,,0.0,548
-Venezuela (Bolivarian Republic of),,,,,0.0,862
-Viet Nam,,,,,0.0,704
-Virgin Islands (British),,,,,0.0,92
-Virgin Islands (U.S.),,,,,0.0,850
-Wallis and Futuna,,,,,0.0,876
-Western Sahara,,,,,0.0,732
-Yemen,,,,,0.0,887
-Zambia,,,,,0.0,894
-Zimbabwe,,,,,0.0,716
+name,code,alpha-3,id,iso_3166-2,region,sub-region,region-code,sub-region-code,count,mean,25_percentile,75_percentile
+Afghanistan,AF,AFG,4,ISO 3166-2:AF,Asia,Southern Asia,142.0,34.0,0.0,0.0,0.0,0.0
+Aland Islands,AX,ALA,248,ISO 3166-2:AX,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+Albania,AL,ALB,8,ISO 3166-2:AL,Europe,Southern Europe,150.0,39.0,0.0,0.0,0.0,0.0
+Algeria,DZ,DZA,12,ISO 3166-2:DZ,Africa,Northern Africa,2.0,15.0,0.0,0.0,0.0,0.0
+American Samoa,AS,ASM,16,ISO 3166-2:AS,Oceania,Polynesia,9.0,61.0,0.0,0.0,0.0,0.0
+Andorra,AD,AND,20,ISO 3166-2:AD,Europe,Southern Europe,150.0,39.0,0.0,0.0,0.0,0.0
+Angola,AO,AGO,24,ISO 3166-2:AO,Africa,Middle Africa,2.0,17.0,0.0,0.0,0.0,0.0
+Anguilla,AI,AIA,660,ISO 3166-2:AI,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Antarctica,AQ,ATA,10,ISO 3166-2:AQ,,,,,0.0,0.0,0.0,0.0
+Antigua and Barbuda,AG,ATG,28,ISO 3166-2:AG,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Argentina,AR,ARG,32,ISO 3166-2:AR,Americas,South America,19.0,5.0,10.0,48.6,40.5,59.5
+Armenia,AM,ARM,51,ISO 3166-2:AM,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Aruba,AW,ABW,533,ISO 3166-2:AW,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Australia,AU,AUS,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,9.0,53.0,145.0,48.166,25.0,66.0
+Austria,AT,AUT,40,ISO 3166-2:AT,Europe,Western Europe,150.0,155.0,0.0,0.0,0.0,0.0
+Azerbaijan,AZ,AZE,31,ISO 3166-2:AZ,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Bahamas,BS,BHS,44,ISO 3166-2:BS,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Bahrain,BH,BHR,48,ISO 3166-2:BH,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Bangladesh,BD,BGD,50,ISO 3166-2:BD,Asia,Southern Asia,142.0,34.0,0.0,0.0,0.0,0.0
+Barbados,BB,BRB,52,ISO 3166-2:BB,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Belarus,BY,BLR,112,ISO 3166-2:BY,Europe,Eastern Europe,150.0,151.0,0.0,0.0,0.0,0.0
+Belgium,BE,BEL,56,ISO 3166-2:BE,Europe,Western Europe,150.0,155.0,0.0,0.0,0.0,0.0
+Belize,BZ,BLZ,84,ISO 3166-2:BZ,Americas,Central America,19.0,13.0,0.0,0.0,0.0,0.0
+Benin,BJ,BEN,204,ISO 3166-2:BJ,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Bermuda,BM,BMU,60,ISO 3166-2:BM,Americas,Northern America,19.0,21.0,0.0,0.0,0.0,0.0
+Bhutan,BT,BTN,64,ISO 3166-2:BT,Asia,Southern Asia,142.0,34.0,0.0,0.0,0.0,0.0
+Bolivia (Plurinational State of),BO,BOL,68,ISO 3166-2:BO,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+"Bonaire, Sint Eustatius and Saba",BQ,BES,535,ISO 3166-2:BQ,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Bosnia and Herzegovina,BA,BIH,70,ISO 3166-2:BA,Europe,Southern Europe,150.0,39.0,0.0,0.0,0.0,0.0
+Botswana,BW,BWA,72,ISO 3166-2:BW,Africa,Southern Africa,2.0,18.0,0.0,0.0,0.0,0.0
+Bouvet Island,BV,BVT,74,ISO 3166-2:BV,,,,,0.0,0.0,0.0,0.0
+Brazil,BR,BRA,76,ISO 3166-2:BR,Americas,South America,19.0,5.0,63.0,59.143,35.0,86.5
+British Indian Ocean Territory,IO,IOT,86,ISO 3166-2:IO,,,,,0.0,0.0,0.0,0.0
+Brunei Darussalam,BN,BRN,96,ISO 3166-2:BN,Asia,South-Eastern Asia,142.0,35.0,52.0,65.788,40.25,91.25
+Bulgaria,BG,BGR,100,ISO 3166-2:BG,Europe,Eastern Europe,150.0,151.0,0.0,0.0,0.0,0.0
+Burkina Faso,BF,BFA,854,ISO 3166-2:BF,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Burundi,BI,BDI,108,ISO 3166-2:BI,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Cambodia,KH,KHM,116,ISO 3166-2:KH,Asia,South-Eastern Asia,142.0,35.0,0.0,0.0,0.0,0.0
+Cameroon,CM,CMR,120,ISO 3166-2:CM,Africa,Middle Africa,2.0,17.0,0.0,0.0,0.0,0.0
+Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,19.0,21.0,235.0,51.183,26.5,71.0
+Cabo Verde,CV,CPV,132,ISO 3166-2:CV,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Cayman Islands,KY,CYM,136,ISO 3166-2:KY,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Central African Republic,CF,CAF,140,ISO 3166-2:CF,Africa,Middle Africa,2.0,17.0,0.0,0.0,0.0,0.0
+Chad,TD,TCD,148,ISO 3166-2:TD,Africa,Middle Africa,2.0,17.0,0.0,0.0,0.0,0.0
+Chile,CL,CHL,152,ISO 3166-2:CL,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,142.0,30.0,0.0,0.0,0.0,0.0
+Christmas Island,CX,CXR,162,ISO 3166-2:CX,,,,,0.0,0.0,0.0,0.0
+Cocos (Keeling) Islands,CC,CCK,166,ISO 3166-2:CC,,,,,0.0,0.0,0.0,0.0
+Colombia,CO,COL,170,ISO 3166-2:CO,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+Comoros,KM,COM,174,ISO 3166-2:KM,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Congo,CG,COG,178,ISO 3166-2:CG,Africa,Middle Africa,2.0,17.0,0.0,0.0,0.0,0.0
+Congo (Democratic Republic of the),CD,COD,180,ISO 3166-2:CD,Africa,Middle Africa,2.0,17.0,0.0,0.0,0.0,0.0
+Cook Islands,CK,COK,184,ISO 3166-2:CK,Oceania,Polynesia,9.0,61.0,0.0,0.0,0.0,0.0
+Costa Rica,CR,CRI,188,ISO 3166-2:CR,Americas,Central America,19.0,13.0,0.0,0.0,0.0,0.0
+Ivory Coast,CI,CIV,384,ISO 3166-2:CI,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Croatia,HR,HRV,191,ISO 3166-2:HR,Europe,Southern Europe,150.0,39.0,15.0,45.733,23.5,66.5
+Cuba,CU,CUB,192,ISO 3166-2:CU,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Curacao,CW,CUW,531,ISO 3166-2:CW,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Cyprus,CY,CYP,196,ISO 3166-2:CY,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Czech Republic,CZ,CZE,203,ISO 3166-2:CZ,Europe,Eastern Europe,150.0,151.0,11.0,57.455,38.0,73.5
+Denmark,DK,DNK,208,ISO 3166-2:DK,Europe,Northern Europe,150.0,154.0,11.0,24.091,8.5,38.5
+Djibouti,DJ,DJI,262,ISO 3166-2:DJ,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Dominica,DM,DMA,212,ISO 3166-2:DM,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Dominican Republic,DO,DOM,214,ISO 3166-2:DO,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Ecuador,EC,ECU,218,ISO 3166-2:EC,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+Egypt,EG,EGY,818,ISO 3166-2:EG,Africa,Northern Africa,2.0,15.0,34.0,60.294,33.75,84.5
+El Salvador,SV,SLV,222,ISO 3166-2:SV,Americas,Central America,19.0,13.0,0.0,0.0,0.0,0.0
+Equatorial Guinea,GQ,GNQ,226,ISO 3166-2:GQ,Africa,Middle Africa,2.0,17.0,0.0,0.0,0.0,0.0
+Eritrea,ER,ERI,232,ISO 3166-2:ER,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Estonia,EE,EST,233,ISO 3166-2:EE,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+Ethiopia,ET,ETH,231,ISO 3166-2:ET,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Falkland Islands (Malvinas),FK,FLK,238,ISO 3166-2:FK,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+Faroe Islands,FO,FRO,234,ISO 3166-2:FO,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+Fiji,FJ,FJI,242,ISO 3166-2:FJ,Oceania,Melanesia,9.0,54.0,0.0,0.0,0.0,0.0
+Finland,FI,FIN,246,ISO 3166-2:FI,Europe,Northern Europe,150.0,154.0,17.0,46.647,27.0,66.0
+France,FR,FRA,250,ISO 3166-2:FR,Europe,Western Europe,150.0,155.0,63.0,57.921,34.5,83.0
+French Guiana,GF,GUF,254,ISO 3166-2:GF,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+French Polynesia,PF,PYF,258,ISO 3166-2:PF,Oceania,Polynesia,9.0,61.0,0.0,0.0,0.0,0.0
+French Southern Territories,TF,ATF,260,ISO 3166-2:TF,,,,,0.0,0.0,0.0,0.0
+Gabon,GA,GAB,266,ISO 3166-2:GA,Africa,Middle Africa,2.0,17.0,0.0,0.0,0.0,0.0
+Gambia,GM,GMB,270,ISO 3166-2:GM,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Georgia,GE,GEO,268,ISO 3166-2:GE,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Germany,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,150.0,155.0,86.0,52.488,32.0,72.75
+Ghana,GH,GHA,288,ISO 3166-2:GH,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Gibraltar,GI,GIB,292,ISO 3166-2:GI,Europe,Southern Europe,150.0,39.0,0.0,0.0,0.0,0.0
+Greece,GR,GRC,300,ISO 3166-2:GR,Europe,Southern Europe,150.0,39.0,22.0,42.682,23.25,56.0
+Greenland,GL,GRL,304,ISO 3166-2:GL,Americas,Northern America,19.0,21.0,0.0,0.0,0.0,0.0
+Grenada,GD,GRD,308,ISO 3166-2:GD,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Guadeloupe,GP,GLP,312,ISO 3166-2:GP,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Guam,GU,GUM,316,ISO 3166-2:GU,Oceania,Micronesia,9.0,57.0,0.0,0.0,0.0,0.0
+Guatemala,GT,GTM,320,ISO 3166-2:GT,Americas,Central America,19.0,13.0,0.0,0.0,0.0,0.0
+Guernsey,GG,GGY,831,ISO 3166-2:GG,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+Guinea,GN,GIN,324,ISO 3166-2:GN,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Guinea-Bissau,GW,GNB,624,ISO 3166-2:GW,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Guyana,GY,GUY,328,ISO 3166-2:GY,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+Haiti,HT,HTI,332,ISO 3166-2:HT,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Heard Island and McDonald Islands,HM,HMD,334,ISO 3166-2:HM,,,,,0.0,0.0,0.0,0.0
+Holy See,VA,VAT,336,ISO 3166-2:VA,Europe,Southern Europe,150.0,39.0,0.0,0.0,0.0,0.0
+Honduras,HN,HND,340,ISO 3166-2:HN,Americas,Central America,19.0,13.0,0.0,0.0,0.0,0.0
+Hong Kong,HK,HKG,344,ISO 3166-2:HK,Asia,Eastern Asia,142.0,30.0,18.0,53.667,39.25,68.25
+Hungary,HU,HUN,348,ISO 3166-2:HU,Europe,Eastern Europe,150.0,151.0,0.0,0.0,0.0,0.0
+Iceland,IS,ISL,352,ISO 3166-2:IS,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+India,IN,IND,356,ISO 3166-2:IN,Asia,Southern Asia,142.0,34.0,184.0,54.734,26.0,80.0
+Indonesia,ID,IDN,360,ISO 3166-2:ID,Asia,South-Eastern Asia,142.0,35.0,204.0,56.289,32.75,78.0
+Iran (Islamic Republic of),IR,IRN,364,ISO 3166-2:IR,Asia,Southern Asia,142.0,34.0,0.0,0.0,0.0,0.0
+Iraq,IQ,IRQ,368,ISO 3166-2:IQ,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Ireland,IE,IRL,372,ISO 3166-2:IE,Europe,Northern Europe,150.0,154.0,25.0,54.88,31.0,76.0
+Isle of Man,IM,IMN,833,ISO 3166-2:IM,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+Israel,IL,ISR,376,ISO 3166-2:IL,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Italy,IT,ITA,380,ISO 3166-2:IT,Europe,Southern Europe,150.0,39.0,36.0,58.667,45.5,75.25
+Jamaica,JM,JAM,388,ISO 3166-2:JM,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Japan,JP,JPN,392,ISO 3166-2:JP,Asia,Eastern Asia,142.0,30.0,35.0,42.6,27.5,53.0
+Jersey,JE,JEY,832,ISO 3166-2:JE,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+Jordan,JO,JOR,400,ISO 3166-2:JO,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Kazakhstan,KZ,KAZ,398,ISO 3166-2:KZ,Asia,Central Asia,142.0,143.0,0.0,0.0,0.0,0.0
+Kenya,KE,KEN,404,ISO 3166-2:KE,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Kiribati,KI,KIR,296,ISO 3166-2:KI,Oceania,Micronesia,9.0,57.0,0.0,0.0,0.0,0.0
+Korea (Democratic People's Republic of),KP,PRK,408,ISO 3166-2:KP,Asia,Eastern Asia,142.0,30.0,0.0,0.0,0.0,0.0
+Korea (Republic of),KR,KOR,410,ISO 3166-2:KR,Asia,Eastern Asia,142.0,30.0,0.0,0.0,0.0,0.0
+Kuwait,KW,KWT,414,ISO 3166-2:KW,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Kyrgyzstan,KG,KGZ,417,ISO 3166-2:KG,Asia,Central Asia,142.0,143.0,0.0,0.0,0.0,0.0
+Lao People's Democratic Republic,LA,LAO,418,ISO 3166-2:LA,Asia,South-Eastern Asia,142.0,35.0,0.0,0.0,0.0,0.0
+Latvia,LV,LVA,428,ISO 3166-2:LV,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+Lebanon,LB,LBN,422,ISO 3166-2:LB,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Lesotho,LS,LSO,426,ISO 3166-2:LS,Africa,Southern Africa,2.0,18.0,0.0,0.0,0.0,0.0
+Liberia,LR,LBR,430,ISO 3166-2:LR,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Libya,LY,LBY,434,ISO 3166-2:LY,Africa,Northern Africa,2.0,15.0,0.0,0.0,0.0,0.0
+Liechtenstein,LI,LIE,438,ISO 3166-2:LI,Europe,Western Europe,150.0,155.0,0.0,0.0,0.0,0.0
+Lithuania,LT,LTU,440,ISO 3166-2:LT,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+Luxembourg,LU,LUX,442,ISO 3166-2:LU,Europe,Western Europe,150.0,155.0,0.0,0.0,0.0,0.0
+Macao,MO,MAC,446,ISO 3166-2:MO,Asia,Eastern Asia,142.0,30.0,0.0,0.0,0.0,0.0
+Macedonia (the former Yugoslav Republic of),MK,MKD,807,ISO 3166-2:MK,Europe,Southern Europe,150.0,39.0,0.0,0.0,0.0,0.0
+Madagascar,MG,MDG,450,ISO 3166-2:MG,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Malawi,MW,MWI,454,ISO 3166-2:MW,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Malaysia,MY,MYS,458,ISO 3166-2:MY,Asia,South-Eastern Asia,142.0,35.0,404.0,56.225,34.0,79.25
+Maldives,MV,MDV,462,ISO 3166-2:MV,Asia,Southern Asia,142.0,34.0,0.0,0.0,0.0,0.0
+Mali,ML,MLI,466,ISO 3166-2:ML,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Malta,MT,MLT,470,ISO 3166-2:MT,Europe,Southern Europe,150.0,39.0,0.0,0.0,0.0,0.0
+Marshall Islands,MH,MHL,584,ISO 3166-2:MH,Oceania,Micronesia,9.0,57.0,0.0,0.0,0.0,0.0
+Martinique,MQ,MTQ,474,ISO 3166-2:MQ,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Mauritania,MR,MRT,478,ISO 3166-2:MR,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Mauritius,MU,MUS,480,ISO 3166-2:MU,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Mayotte,YT,MYT,175,ISO 3166-2:YT,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Mexico,MX,MEX,484,ISO 3166-2:MX,Americas,Central America,19.0,13.0,36.0,51.778,37.0,66.75
+Micronesia (Federated States of),FM,FSM,583,ISO 3166-2:FM,Oceania,Micronesia,9.0,57.0,0.0,0.0,0.0,0.0
+Moldova (Republic of),MD,MDA,498,ISO 3166-2:MD,Europe,Eastern Europe,150.0,151.0,0.0,0.0,0.0,0.0
+Monaco,MC,MCO,492,ISO 3166-2:MC,Europe,Western Europe,150.0,155.0,0.0,0.0,0.0,0.0
+Mongolia,MN,MNG,496,ISO 3166-2:MN,Asia,Eastern Asia,142.0,30.0,0.0,0.0,0.0,0.0
+Montenegro,ME,MNE,499,ISO 3166-2:ME,Europe,Southern Europe,150.0,39.0,0.0,0.0,0.0,0.0
+Montserrat,MS,MSR,500,ISO 3166-2:MS,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Morocco,MA,MAR,504,ISO 3166-2:MA,Africa,Northern Africa,2.0,15.0,0.0,0.0,0.0,0.0
+Mozambique,MZ,MOZ,508,ISO 3166-2:MZ,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Myanmar,MM,MMR,104,ISO 3166-2:MM,Asia,South-Eastern Asia,142.0,35.0,0.0,0.0,0.0,0.0
+Namibia,,NAM,516,ISO 3166-2:NA,Africa,Southern Africa,2.0,18.0,0.0,0.0,0.0,0.0
+Nauru,NR,NRU,520,ISO 3166-2:NR,Oceania,Micronesia,9.0,57.0,0.0,0.0,0.0,0.0
+Nepal,NP,NPL,524,ISO 3166-2:NP,Asia,Southern Asia,142.0,34.0,0.0,0.0,0.0,0.0
+Netherlands,NL,NLD,528,ISO 3166-2:NL,Europe,Western Europe,150.0,155.0,28.0,48.5,28.25,68.0
+New Caledonia,NC,NCL,540,ISO 3166-2:NC,Oceania,Melanesia,9.0,54.0,0.0,0.0,0.0,0.0
+New Zealand,NZ,NZL,554,ISO 3166-2:NZ,Oceania,Australia and New Zealand,9.0,53.0,73.0,48.507,30.0,69.0
+Nicaragua,NI,NIC,558,ISO 3166-2:NI,Americas,Central America,19.0,13.0,0.0,0.0,0.0,0.0
+Niger,NE,NER,562,ISO 3166-2:NE,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Nigeria,NG,NGA,566,ISO 3166-2:NG,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Niue,NU,NIU,570,ISO 3166-2:NU,Oceania,Polynesia,9.0,61.0,0.0,0.0,0.0,0.0
+Norfolk Island,NF,NFK,574,ISO 3166-2:NF,Oceania,Australia and New Zealand,9.0,53.0,0.0,0.0,0.0,0.0
+Northern Mariana Islands,MP,MNP,580,ISO 3166-2:MP,Oceania,Micronesia,9.0,57.0,0.0,0.0,0.0,0.0
+Norway,NO,NOR,578,ISO 3166-2:NO,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+Oman,OM,OMN,512,ISO 3166-2:OM,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Pakistan,PK,PAK,586,ISO 3166-2:PK,Asia,Southern Asia,142.0,34.0,32.0,61.438,26.25,90.75
+Palau,PW,PLW,585,ISO 3166-2:PW,Oceania,Micronesia,9.0,57.0,0.0,0.0,0.0,0.0
+"Palestine, State of",PS,PSE,275,ISO 3166-2:PS,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Panama,PA,PAN,591,ISO 3166-2:PA,Americas,Central America,19.0,13.0,0.0,0.0,0.0,0.0
+Papua New Guinea,PG,PNG,598,ISO 3166-2:PG,Oceania,Melanesia,9.0,54.0,0.0,0.0,0.0,0.0
+Paraguay,PY,PRY,600,ISO 3166-2:PY,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+Peru,PE,PER,604,ISO 3166-2:PE,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+Philippines,PH,PHL,608,ISO 3166-2:PH,Asia,South-Eastern Asia,142.0,35.0,28.0,65.071,45.0,91.25
+Pitcairn,PN,PCN,612,ISO 3166-2:PN,Oceania,Polynesia,9.0,61.0,0.0,0.0,0.0,0.0
+Poland,PL,POL,616,ISO 3166-2:PL,Europe,Eastern Europe,150.0,151.0,43.0,59.0,35.5,78.5
+Portugal,PT,PRT,620,ISO 3166-2:PT,Europe,Southern Europe,150.0,39.0,16.0,51.0,28.75,73.25
+Puerto Rico,PR,PRI,630,ISO 3166-2:PR,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Qatar,QA,QAT,634,ISO 3166-2:QA,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Reunion,RE,REU,638,ISO 3166-2:RE,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Romania,RO,ROU,642,ISO 3166-2:RO,Europe,Eastern Europe,150.0,151.0,38.0,48.579,29.5,68.5
+Russian Federation,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,150.0,151.0,22.0,51.636,33.5,69.0
+Rwanda,RW,RWA,646,ISO 3166-2:RW,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Saint Barthelemy,BL,BLM,652,ISO 3166-2:BL,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654,ISO 3166-2:SH,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Saint Kitts and Nevis,KN,KNA,659,ISO 3166-2:KN,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Saint Lucia,LC,LCA,662,ISO 3166-2:LC,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Saint Martin (French part),MF,MAF,663,ISO 3166-2:MF,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Saint Pierre and Miquelon,PM,SPM,666,ISO 3166-2:PM,Americas,Northern America,19.0,21.0,0.0,0.0,0.0,0.0
+Saint Vincent and the Grenadines,VC,VCT,670,ISO 3166-2:VC,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Samoa,WS,WSM,882,ISO 3166-2:WS,Oceania,Polynesia,9.0,61.0,0.0,0.0,0.0,0.0
+San Marino,SM,SMR,674,ISO 3166-2:SM,Europe,Southern Europe,150.0,39.0,0.0,0.0,0.0,0.0
+Sao Tome and Principe,ST,STP,678,ISO 3166-2:ST,Africa,Middle Africa,2.0,17.0,0.0,0.0,0.0,0.0
+Saudi Arabia,SA,SAU,682,ISO 3166-2:SA,Asia,Western Asia,142.0,145.0,22.0,55.091,24.75,75.25
+Senegal,SN,SEN,686,ISO 3166-2:SN,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Serbia,RS,SRB,688,ISO 3166-2:RS,Europe,Southern Europe,150.0,39.0,18.0,40.778,24.5,56.75
+Seychelles,SC,SYC,690,ISO 3166-2:SC,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Sierra Leone,SL,SLE,694,ISO 3166-2:SL,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Singapore,SG,SGP,702,ISO 3166-2:SG,Asia,South-Eastern Asia,142.0,35.0,69.0,49.667,22.0,73.0
+Sint Maarten (Dutch part),SX,SXM,534,ISO 3166-2:SX,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Slovakia,SK,SVK,703,ISO 3166-2:SK,Europe,Eastern Europe,150.0,151.0,0.0,0.0,0.0,0.0
+Slovenia,SI,SVN,705,ISO 3166-2:SI,Europe,Southern Europe,150.0,39.0,0.0,0.0,0.0,0.0
+Solomon Islands,SB,SLB,90,ISO 3166-2:SB,Oceania,Melanesia,9.0,54.0,0.0,0.0,0.0,0.0
+Somalia,SO,SOM,706,ISO 3166-2:SO,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+South Africa,ZA,ZAF,710,ISO 3166-2:ZA,Africa,Southern Africa,2.0,18.0,23.0,61.0,36.5,78.0
+South Georgia and the South Sandwich Islands,GS,SGS,239,ISO 3166-2:GS,,,,,0.0,0.0,0.0,0.0
+South Sudan,SS,SSD,728,ISO 3166-2:SS,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Spain,ES,ESP,724,ISO 3166-2:ES,Europe,Southern Europe,150.0,39.0,15.0,43.8,22.5,62.5
+Sri Lanka,LK,LKA,144,ISO 3166-2:LK,Asia,Southern Asia,142.0,34.0,0.0,0.0,0.0,0.0
+Sudan,SD,SDN,729,ISO 3166-2:SD,Africa,Northern Africa,2.0,15.0,0.0,0.0,0.0,0.0
+Suriname,SR,SUR,740,ISO 3166-2:SR,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+Svalbard and Jan Mayen,SJ,SJM,744,ISO 3166-2:SJ,Europe,Northern Europe,150.0,154.0,0.0,0.0,0.0,0.0
+Swaziland,SZ,SWZ,748,ISO 3166-2:SZ,Africa,Southern Africa,2.0,18.0,0.0,0.0,0.0,0.0
+Sweden,SE,SWE,752,ISO 3166-2:SE,Europe,Northern Europe,150.0,154.0,19.0,55.895,42.0,67.5
+Switzerland,CH,CHE,756,ISO 3166-2:CH,Europe,Western Europe,150.0,155.0,0.0,0.0,0.0,0.0
+Syrian Arab Republic,SY,SYR,760,ISO 3166-2:SY,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+"Taiwan, Province of China",TW,TWN,158,ISO 3166-2:TW,Asia,Eastern Asia,142.0,30.0,0.0,0.0,0.0,0.0
+Tajikistan,TJ,TJK,762,ISO 3166-2:TJ,Asia,Central Asia,142.0,143.0,0.0,0.0,0.0,0.0
+"Tanzania, United Republic of",TZ,TZA,834,ISO 3166-2:TZ,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Thailand,TH,THA,764,ISO 3166-2:TH,Asia,South-Eastern Asia,142.0,35.0,0.0,0.0,0.0,0.0
+Timor-Leste,TL,TLS,626,ISO 3166-2:TL,Asia,South-Eastern Asia,142.0,35.0,0.0,0.0,0.0,0.0
+Togo,TG,TGO,768,ISO 3166-2:TG,Africa,Western Africa,2.0,11.0,0.0,0.0,0.0,0.0
+Tokelau,TK,TKL,772,ISO 3166-2:TK,Oceania,Polynesia,9.0,61.0,0.0,0.0,0.0,0.0
+Tonga,TO,TON,776,ISO 3166-2:TO,Oceania,Polynesia,9.0,61.0,0.0,0.0,0.0,0.0
+Trinidad and Tobago,TT,TTO,780,ISO 3166-2:TT,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Tunisia,TN,TUN,788,ISO 3166-2:TN,Africa,Northern Africa,2.0,15.0,0.0,0.0,0.0,0.0
+Turkey,TR,TUR,792,ISO 3166-2:TR,Asia,Western Asia,142.0,145.0,25.0,56.84,37.0,72.0
+Turkmenistan,TM,TKM,795,ISO 3166-2:TM,Asia,Central Asia,142.0,143.0,0.0,0.0,0.0,0.0
+Turks and Caicos Islands,TC,TCA,796,ISO 3166-2:TC,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Tuvalu,TV,TUV,798,ISO 3166-2:TV,Oceania,Polynesia,9.0,61.0,0.0,0.0,0.0,0.0
+Uganda,UG,UGA,800,ISO 3166-2:UG,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Ukraine,UA,UKR,804,ISO 3166-2:UA,Europe,Eastern Europe,150.0,151.0,0.0,0.0,0.0,0.0
+United Arab Emirates,AE,ARE,784,ISO 3166-2:AE,Asia,Western Asia,142.0,145.0,14.0,53.214,14.25,75.75
+United Kingdom of Great Britain and Northern Ireland,GB,GBR,826,ISO 3166-2:GB,Europe,Northern Europe,150.0,154.0,253.0,52.024,28.0,76.0
+United States of America,US,USA,840,ISO 3166-2:US,Americas,Northern America,19.0,21.0,1743.0,51.254,29.0,71.0
+United States Minor Outlying Islands,UM,UMI,581,ISO 3166-2:UM,,,,,0.0,0.0,0.0,0.0
+Uruguay,UY,URY,858,ISO 3166-2:UY,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+Uzbekistan,UZ,UZB,860,ISO 3166-2:UZ,Asia,Central Asia,142.0,143.0,0.0,0.0,0.0,0.0
+Vanuatu,VU,VUT,548,ISO 3166-2:VU,Oceania,Melanesia,9.0,54.0,0.0,0.0,0.0,0.0
+Venezuela (Bolivarian Republic of),VE,VEN,862,ISO 3166-2:VE,Americas,South America,19.0,5.0,0.0,0.0,0.0,0.0
+Viet Nam,VN,VNM,704,ISO 3166-2:VN,Asia,South-Eastern Asia,142.0,35.0,0.0,0.0,0.0,0.0
+Virgin Islands (British),VG,VGB,92,ISO 3166-2:VG,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Virgin Islands (U.S.),VI,VIR,850,ISO 3166-2:VI,Americas,Caribbean,19.0,29.0,0.0,0.0,0.0,0.0
+Wallis and Futuna,WF,WLF,876,ISO 3166-2:WF,Oceania,Polynesia,9.0,61.0,0.0,0.0,0.0,0.0
+Western Sahara,EH,ESH,732,ISO 3166-2:EH,Africa,Northern Africa,2.0,15.0,0.0,0.0,0.0,0.0
+Yemen,YE,YEM,887,ISO 3166-2:YE,Asia,Western Asia,142.0,145.0,0.0,0.0,0.0,0.0
+Zambia,ZM,ZMB,894,ISO 3166-2:ZM,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
+Zimbabwe,ZW,ZWE,716,ISO 3166-2:ZW,Africa,Eastern Africa,2.0,14.0,0.0,0.0,0.0,0.0
