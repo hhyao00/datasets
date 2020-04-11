@@ -1421,213 +1421,213 @@ South Africa,major,nursing,18.0,31.0,1.0,710
 South Africa,major,physics,23.0,78.0,1.0,710
 South Africa,major,psychology,33.6,84.2,5.0,710
 South Africa,major,science,28.0,17.0,1.0,710
-Afghanistan,,,,,,4
-Aland Islands,,,,,,248
-Albania,,,,,,8
-Algeria,,,,,,12
-American Samoa,,,,,,16
-Andorra,,,,,,20
-Angola,,,,,,24
-Anguilla,,,,,,660
-Antarctica,,,,,,10
-Antigua and Barbuda,,,,,,28
-Armenia,,,,,,51
-Aruba,,,,,,533
-Austria,,,,,,40
-Azerbaijan,,,,,,31
-Bahamas,,,,,,44
-Bahrain,,,,,,48
-Bangladesh,,,,,,50
-Barbados,,,,,,52
-Belarus,,,,,,112
-Belgium,,,,,,56
-Belize,,,,,,84
-Benin,,,,,,204
-Bermuda,,,,,,60
-Bhutan,,,,,,64
-Bolivia (Plurinational State of),,,,,,68
-"Bonaire, Sint Eustatius and Saba",,,,,,535
-Bosnia and Herzegovina,,,,,,70
-Botswana,,,,,,72
-Bouvet Island,,,,,,74
-British Indian Ocean Territory,,,,,,86
-Bulgaria,,,,,,100
-Burkina Faso,,,,,,854
-Burundi,,,,,,108
-Cambodia,,,,,,116
-Cameroon,,,,,,120
-Cabo Verde,,,,,,132
-Cayman Islands,,,,,,136
-Central African Republic,,,,,,140
-Chad,,,,,,148
-Chile,,,,,,152
-China,,,,,,156
-Christmas Island,,,,,,162
-Cocos (Keeling) Islands,,,,,,166
-Colombia,,,,,,170
-Comoros,,,,,,174
-Congo,,,,,,178
-Congo (Democratic Republic of the),,,,,,180
-Cook Islands,,,,,,184
-Costa Rica,,,,,,188
-Ivory Coast,,,,,,384
-Cuba,,,,,,192
-Curacao,,,,,,531
-Cyprus,,,,,,196
-Djibouti,,,,,,262
-Dominica,,,,,,212
-Dominican Republic,,,,,,214
-Ecuador,,,,,,218
-El Salvador,,,,,,222
-Equatorial Guinea,,,,,,226
-Eritrea,,,,,,232
-Estonia,,,,,,233
-Ethiopia,,,,,,231
-Falkland Islands (Malvinas),,,,,,238
-Faroe Islands,,,,,,234
-Fiji,,,,,,242
-French Guiana,,,,,,254
-French Polynesia,,,,,,258
-French Southern Territories,,,,,,260
-Gabon,,,,,,266
-Gambia,,,,,,270
-Georgia,,,,,,268
-Ghana,,,,,,288
-Gibraltar,,,,,,292
-Greenland,,,,,,304
-Grenada,,,,,,308
-Guadeloupe,,,,,,312
-Guam,,,,,,316
-Guatemala,,,,,,320
-Guernsey,,,,,,831
-Guinea,,,,,,324
-Guinea-Bissau,,,,,,624
-Guyana,,,,,,328
-Haiti,,,,,,332
-Heard Island and McDonald Islands,,,,,,334
-Holy See,,,,,,336
-Honduras,,,,,,340
-Hungary,,,,,,348
-Iceland,,,,,,352
-Iran (Islamic Republic of),,,,,,364
-Iraq,,,,,,368
-Isle of Man,,,,,,833
-Israel,,,,,,376
-Jamaica,,,,,,388
-Jersey,,,,,,832
-Jordan,,,,,,400
-Kazakhstan,,,,,,398
-Kenya,,,,,,404
-Kiribati,,,,,,296
-Korea (Democratic People's Republic of),,,,,,408
-Korea (Republic of),,,,,,410
-Kuwait,,,,,,414
-Kyrgyzstan,,,,,,417
-Lao People's Democratic Republic,,,,,,418
-Latvia,,,,,,428
-Lebanon,,,,,,422
-Lesotho,,,,,,426
-Liberia,,,,,,430
-Libya,,,,,,434
-Liechtenstein,,,,,,438
-Lithuania,,,,,,440
-Luxembourg,,,,,,442
-Macao,,,,,,446
-Macedonia (the former Yugoslav Republic of),,,,,,807
-Madagascar,,,,,,450
-Malawi,,,,,,454
-Maldives,,,,,,462
-Mali,,,,,,466
-Malta,,,,,,470
-Marshall Islands,,,,,,584
-Martinique,,,,,,474
-Mauritania,,,,,,478
-Mauritius,,,,,,480
-Mayotte,,,,,,175
-Micronesia (Federated States of),,,,,,583
-Moldova (Republic of),,,,,,498
-Monaco,,,,,,492
-Mongolia,,,,,,496
-Montenegro,,,,,,499
-Montserrat,,,,,,500
-Morocco,,,,,,504
-Mozambique,,,,,,508
-Myanmar,,,,,,104
-Namibia,,,,,,516
-Nauru,,,,,,520
-Nepal,,,,,,524
-New Caledonia,,,,,,540
-Nicaragua,,,,,,558
-Niger,,,,,,562
-Nigeria,,,,,,566
-Niue,,,,,,570
-Norfolk Island,,,,,,574
-Northern Mariana Islands,,,,,,580
-Norway,,,,,,578
-Oman,,,,,,512
-Palau,,,,,,585
-"Palestine, State of",,,,,,275
-Panama,,,,,,591
-Papua New Guinea,,,,,,598
-Paraguay,,,,,,600
-Peru,,,,,,604
-Pitcairn,,,,,,612
-Puerto Rico,,,,,,630
-Qatar,,,,,,634
-Reunion,,,,,,638
-Rwanda,,,,,,646
-Saint Barthelemy,,,,,,652
-"Saint Helena, Ascension and Tristan da Cunha",,,,,,654
-Saint Kitts and Nevis,,,,,,659
-Saint Lucia,,,,,,662
-Saint Martin (French part),,,,,,663
-Saint Pierre and Miquelon,,,,,,666
-Saint Vincent and the Grenadines,,,,,,670
-Samoa,,,,,,882
-San Marino,,,,,,674
-Sao Tome and Principe,,,,,,678
-Senegal,,,,,,686
-Seychelles,,,,,,690
-Sierra Leone,,,,,,694
-Sint Maarten (Dutch part),,,,,,534
-Slovakia,,,,,,703
-Slovenia,,,,,,705
-Solomon Islands,,,,,,90
-Somalia,,,,,,706
-South Georgia and the South Sandwich Islands,,,,,,239
-South Sudan,,,,,,728
-Sri Lanka,,,,,,144
-Sudan,,,,,,729
-Suriname,,,,,,740
-Svalbard and Jan Mayen,,,,,,744
-Swaziland,,,,,,748
-Switzerland,,,,,,756
-Syrian Arab Republic,,,,,,760
-"Taiwan, Province of China",,,,,,158
-Tajikistan,,,,,,762
-"Tanzania, United Republic of",,,,,,834
-Thailand,,,,,,764
-Timor-Leste,,,,,,626
-Togo,,,,,,768
-Tokelau,,,,,,772
-Tonga,,,,,,776
-Trinidad and Tobago,,,,,,780
-Tunisia,,,,,,788
-Turkmenistan,,,,,,795
-Turks and Caicos Islands,,,,,,796
-Tuvalu,,,,,,798
-Uganda,,,,,,800
-Ukraine,,,,,,804
-United States Minor Outlying Islands,,,,,,581
-Uruguay,,,,,,858
-Uzbekistan,,,,,,860
-Vanuatu,,,,,,548
-Venezuela (Bolivarian Republic of),,,,,,862
-Viet Nam,,,,,,704
-Virgin Islands (British),,,,,,92
-Virgin Islands (U.S.),,,,,,850
-Wallis and Futuna,,,,,,876
-Western Sahara,,,,,,732
-Yemen,,,,,,887
-Zambia,,,,,,894
-Zimbabwe,,,,,,716
+Afghanistan,,,,,0.0,4
+Aland Islands,,,,,0.0,248
+Albania,,,,,0.0,8
+Algeria,,,,,0.0,12
+American Samoa,,,,,0.0,16
+Andorra,,,,,0.0,20
+Angola,,,,,0.0,24
+Anguilla,,,,,0.0,660
+Antarctica,,,,,0.0,10
+Antigua and Barbuda,,,,,0.0,28
+Armenia,,,,,0.0,51
+Aruba,,,,,0.0,533
+Austria,,,,,0.0,40
+Azerbaijan,,,,,0.0,31
+Bahamas,,,,,0.0,44
+Bahrain,,,,,0.0,48
+Bangladesh,,,,,0.0,50
+Barbados,,,,,0.0,52
+Belarus,,,,,0.0,112
+Belgium,,,,,0.0,56
+Belize,,,,,0.0,84
+Benin,,,,,0.0,204
+Bermuda,,,,,0.0,60
+Bhutan,,,,,0.0,64
+Bolivia (Plurinational State of),,,,,0.0,68
+"Bonaire, Sint Eustatius and Saba",,,,,0.0,535
+Bosnia and Herzegovina,,,,,0.0,70
+Botswana,,,,,0.0,72
+Bouvet Island,,,,,0.0,74
+British Indian Ocean Territory,,,,,0.0,86
+Bulgaria,,,,,0.0,100
+Burkina Faso,,,,,0.0,854
+Burundi,,,,,0.0,108
+Cambodia,,,,,0.0,116
+Cameroon,,,,,0.0,120
+Cabo Verde,,,,,0.0,132
+Cayman Islands,,,,,0.0,136
+Central African Republic,,,,,0.0,140
+Chad,,,,,0.0,148
+Chile,,,,,0.0,152
+China,,,,,0.0,156
+Christmas Island,,,,,0.0,162
+Cocos (Keeling) Islands,,,,,0.0,166
+Colombia,,,,,0.0,170
+Comoros,,,,,0.0,174
+Congo,,,,,0.0,178
+Congo (Democratic Republic of the),,,,,0.0,180
+Cook Islands,,,,,0.0,184
+Costa Rica,,,,,0.0,188
+Ivory Coast,,,,,0.0,384
+Cuba,,,,,0.0,192
+Curacao,,,,,0.0,531
+Cyprus,,,,,0.0,196
+Djibouti,,,,,0.0,262
+Dominica,,,,,0.0,212
+Dominican Republic,,,,,0.0,214
+Ecuador,,,,,0.0,218
+El Salvador,,,,,0.0,222
+Equatorial Guinea,,,,,0.0,226
+Eritrea,,,,,0.0,232
+Estonia,,,,,0.0,233
+Ethiopia,,,,,0.0,231
+Falkland Islands (Malvinas),,,,,0.0,238
+Faroe Islands,,,,,0.0,234
+Fiji,,,,,0.0,242
+French Guiana,,,,,0.0,254
+French Polynesia,,,,,0.0,258
+French Southern Territories,,,,,0.0,260
+Gabon,,,,,0.0,266
+Gambia,,,,,0.0,270
+Georgia,,,,,0.0,268
+Ghana,,,,,0.0,288
+Gibraltar,,,,,0.0,292
+Greenland,,,,,0.0,304
+Grenada,,,,,0.0,308
+Guadeloupe,,,,,0.0,312
+Guam,,,,,0.0,316
+Guatemala,,,,,0.0,320
+Guernsey,,,,,0.0,831
+Guinea,,,,,0.0,324
+Guinea-Bissau,,,,,0.0,624
+Guyana,,,,,0.0,328
+Haiti,,,,,0.0,332
+Heard Island and McDonald Islands,,,,,0.0,334
+Holy See,,,,,0.0,336
+Honduras,,,,,0.0,340
+Hungary,,,,,0.0,348
+Iceland,,,,,0.0,352
+Iran (Islamic Republic of),,,,,0.0,364
+Iraq,,,,,0.0,368
+Isle of Man,,,,,0.0,833
+Israel,,,,,0.0,376
+Jamaica,,,,,0.0,388
+Jersey,,,,,0.0,832
+Jordan,,,,,0.0,400
+Kazakhstan,,,,,0.0,398
+Kenya,,,,,0.0,404
+Kiribati,,,,,0.0,296
+Korea (Democratic People's Republic of),,,,,0.0,408
+Korea (Republic of),,,,,0.0,410
+Kuwait,,,,,0.0,414
+Kyrgyzstan,,,,,0.0,417
+Lao People's Democratic Republic,,,,,0.0,418
+Latvia,,,,,0.0,428
+Lebanon,,,,,0.0,422
+Lesotho,,,,,0.0,426
+Liberia,,,,,0.0,430
+Libya,,,,,0.0,434
+Liechtenstein,,,,,0.0,438
+Lithuania,,,,,0.0,440
+Luxembourg,,,,,0.0,442
+Macao,,,,,0.0,446
+Macedonia (the former Yugoslav Republic of),,,,,0.0,807
+Madagascar,,,,,0.0,450
+Malawi,,,,,0.0,454
+Maldives,,,,,0.0,462
+Mali,,,,,0.0,466
+Malta,,,,,0.0,470
+Marshall Islands,,,,,0.0,584
+Martinique,,,,,0.0,474
+Mauritania,,,,,0.0,478
+Mauritius,,,,,0.0,480
+Mayotte,,,,,0.0,175
+Micronesia (Federated States of),,,,,0.0,583
+Moldova (Republic of),,,,,0.0,498
+Monaco,,,,,0.0,492
+Mongolia,,,,,0.0,496
+Montenegro,,,,,0.0,499
+Montserrat,,,,,0.0,500
+Morocco,,,,,0.0,504
+Mozambique,,,,,0.0,508
+Myanmar,,,,,0.0,104
+Namibia,,,,,0.0,516
+Nauru,,,,,0.0,520
+Nepal,,,,,0.0,524
+New Caledonia,,,,,0.0,540
+Nicaragua,,,,,0.0,558
+Niger,,,,,0.0,562
+Nigeria,,,,,0.0,566
+Niue,,,,,0.0,570
+Norfolk Island,,,,,0.0,574
+Northern Mariana Islands,,,,,0.0,580
+Norway,,,,,0.0,578
+Oman,,,,,0.0,512
+Palau,,,,,0.0,585
+"Palestine, State of",,,,,0.0,275
+Panama,,,,,0.0,591
+Papua New Guinea,,,,,0.0,598
+Paraguay,,,,,0.0,600
+Peru,,,,,0.0,604
+Pitcairn,,,,,0.0,612
+Puerto Rico,,,,,0.0,630
+Qatar,,,,,0.0,634
+Reunion,,,,,0.0,638
+Rwanda,,,,,0.0,646
+Saint Barthelemy,,,,,0.0,652
+"Saint Helena, Ascension and Tristan da Cunha",,,,,0.0,654
+Saint Kitts and Nevis,,,,,0.0,659
+Saint Lucia,,,,,0.0,662
+Saint Martin (French part),,,,,0.0,663
+Saint Pierre and Miquelon,,,,,0.0,666
+Saint Vincent and the Grenadines,,,,,0.0,670
+Samoa,,,,,0.0,882
+San Marino,,,,,0.0,674
+Sao Tome and Principe,,,,,0.0,678
+Senegal,,,,,0.0,686
+Seychelles,,,,,0.0,690
+Sierra Leone,,,,,0.0,694
+Sint Maarten (Dutch part),,,,,0.0,534
+Slovakia,,,,,0.0,703
+Slovenia,,,,,0.0,705
+Solomon Islands,,,,,0.0,90
+Somalia,,,,,0.0,706
+South Georgia and the South Sandwich Islands,,,,,0.0,239
+South Sudan,,,,,0.0,728
+Sri Lanka,,,,,0.0,144
+Sudan,,,,,0.0,729
+Suriname,,,,,0.0,740
+Svalbard and Jan Mayen,,,,,0.0,744
+Swaziland,,,,,0.0,748
+Switzerland,,,,,0.0,756
+Syrian Arab Republic,,,,,0.0,760
+"Taiwan, Province of China",,,,,0.0,158
+Tajikistan,,,,,0.0,762
+"Tanzania, United Republic of",,,,,0.0,834
+Thailand,,,,,0.0,764
+Timor-Leste,,,,,0.0,626
+Togo,,,,,0.0,768
+Tokelau,,,,,0.0,772
+Tonga,,,,,0.0,776
+Trinidad and Tobago,,,,,0.0,780
+Tunisia,,,,,0.0,788
+Turkmenistan,,,,,0.0,795
+Turks and Caicos Islands,,,,,0.0,796
+Tuvalu,,,,,0.0,798
+Uganda,,,,,0.0,800
+Ukraine,,,,,0.0,804
+United States Minor Outlying Islands,,,,,0.0,581
+Uruguay,,,,,0.0,858
+Uzbekistan,,,,,0.0,860
+Vanuatu,,,,,0.0,548
+Venezuela (Bolivarian Republic of),,,,,0.0,862
+Viet Nam,,,,,0.0,704
+Virgin Islands (British),,,,,0.0,92
+Virgin Islands (U.S.),,,,,0.0,850
+Wallis and Futuna,,,,,0.0,876
+Western Sahara,,,,,0.0,732
+Yemen,,,,,0.0,887
+Zambia,,,,,0.0,894
+Zimbabwe,,,,,0.0,716
