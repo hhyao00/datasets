@@ -1,0 +1,2662 @@
+country,group,subgroup,age,score,count
+AE,education,graduate degree,36.8,75.4,5.0
+AE,education,high school,17.75,70.5,4.0
+AE,education,university,29.5,28.167,6.0
+AL,education,graduate degree,25.0,66.0,1.0
+AL,education,high school,19.0,62.0,1.0
+AL,education,university,25.333,57.667,9.0
+AO,education,graduate degree,30.5,35.5,2.0
+AR,education,high school,21.4,55.4,5.0
+AR,education,less than high school,17.0,14.0,1.0
+AR,education,university,30.429,50.571,7.0
+AT,education,graduate degree,24.0,33.0,1.0
+AT,education,high school,19.2,69.0,5.0
+AT,education,university,26.0,62.667,6.0
+AU,education,graduate degree,38.826,44.0,46.0
+AU,education,high school,21.24,56.96,25.0
+AU,education,less than high school,16.5,51.5,2.0
+AU,education,university,34.966,45.775,89.0
+AZ,education,less than high school,16.0,102.0,1.0
+AZ,education,university,25.0,79.0,1.0
+BA,education,high school,21.333,48.333,3.0
+BA,education,university,34.0,48.0,2.0
+BB,education,graduate degree,37.0,101.0,1.0
+BD,education,high school,21.0,110.0,1.0
+BE,education,graduate degree,34.5,34.0,2.0
+BE,education,high school,19.667,42.0,3.0
+BE,education,university,39.333,57.0,6.0
+BG,education,graduate degree,32.667,42.333,3.0
+BG,education,high school,21.0,64.0,3.0
+BG,education,university,23.5,40.75,4.0
+BN,education,graduate degree,28.333,33.5,6.0
+BN,education,high school,19.889,63.889,18.0
+BN,education,less than high school,16.0,93.5,2.0
+BN,education,university,24.448,67.586,29.0
+BO,education,high school,19.0,33.0,1.0
+BR,education,graduate degree,29.333,53.733,15.0
+BR,education,high school,19.458,59.458,24.0
+BR,education,university,26.406,60.812,32.0
+BS,education,high school,17.5,23.5,2.0
+BS,education,university,39.0,64.0,1.0
+BW,education,graduate degree,45.0,60.0,1.0
+BZ,education,graduate degree,43.0,1.0,1.0
+BZ,education,high school,23.0,44.0,1.0
+CA,education,graduate degree,34.25,42.981,52.0
+CA,education,high school,21.75,59.319,72.0
+CA,education,less than high school,27.0,57.667,3.0
+CA,education,university,32.351,51.515,134.0
+CH,education,graduate degree,31.857,42.286,7.0
+CH,education,high school,23.25,48.0,4.0
+CH,education,university,25.833,34.5,6.0
+CL,education,graduate degree,36.0,47.0,1.0
+CL,education,high school,20.5,63.5,2.0
+CL,education,university,30.5,46.75,4.0
+CN,education,high school,19.5,72.5,2.0
+CO,education,graduate degree,45.0,11.0,1.0
+CO,education,high school,20.0,41.5,2.0
+CO,education,university,24.0,51.0,1.0
+CR,education,high school,19.0,91.0,1.0
+CR,education,less than high school,16.0,83.0,1.0
+CR,education,university,22.0,62.5,2.0
+CZ,education,graduate degree,24.5,83.5,2.0
+CZ,education,high school,22.571,58.429,7.0
+CZ,education,university,34.667,48.667,3.0
+DE,education,graduate degree,33.294,37.824,17.0
+DE,education,high school,21.263,58.763,38.0
+DE,education,less than high school,16.5,90.5,2.0
+DE,education,university,28.27,49.541,37.0
+DK,education,graduate degree,38.0,18.167,6.0
+DK,education,high school,21.0,44.5,2.0
+DK,education,university,36.0,32.0,4.0
+DO,education,high school,26.0,94.0,1.0
+DO,education,university,25.5,62.0,4.0
+DZ,education,high school,19.0,71.0,1.0
+DZ,education,university,21.0,60.0,1.0
+EC,education,high school,20.333,60.333,3.0
+EC,education,university,22.0,68.0,2.0
+EE,education,graduate degree,31.0,45.0,1.0
+EE,education,university,28.0,44.0,1.0
+EG,education,graduate degree,37.2,52.4,5.0
+EG,education,high school,20.75,51.25,8.0
+EG,education,university,23.348,65.957,23.0
+ES,education,graduate degree,30.333,41.333,6.0
+ES,education,high school,17.667,84.0,3.0
+ES,education,university,26.0,39.75,12.0
+ET,education,graduate degree,26.5,46.0,2.0
+ET,education,university,20.0,84.0,1.0
+FI,education,graduate degree,33.0,36.2,5.0
+FI,education,high school,22.0,45.0,2.0
+FI,education,university,26.273,51.636,11.0
+FR,education,graduate degree,34.294,46.647,17.0
+FR,education,high school,20.474,64.158,19.0
+FR,education,university,25.921,54.421,38.0
+GB,education,graduate degree,37.116,48.522,69.0
+GB,education,high school,21.4,62.089,45.0
+GB,education,less than high school,17.333,24.333,3.0
+GB,education,university,32.111,51.148,162.0
+GE,education,high school,19.0,69.0,2.0
+GE,education,university,19.0,28.0,1.0
+GG,education,university,20.0,73.0,1.0
+GH,education,university,19.0,60.0,1.0
+GR,education,graduate degree,39.0,48.333,3.0
+GR,education,high school,19.75,59.75,4.0
+GR,education,university,32.353,38.176,17.0
+GT,education,graduate degree,40.0,73.0,1.0
+GT,education,university,27.0,39.5,2.0
+GU,education,university,46.0,34.0,1.0
+HK,education,graduate degree,29.5,76.0,2.0
+HK,education,high school,23.0,45.556,9.0
+HK,education,university,24.429,57.714,7.0
+HN,education,university,33.0,8.0,1.0
+HR,education,graduate degree,33.2,19.0,5.0
+HR,education,high school,22.6,75.2,5.0
+HR,education,university,34.333,48.833,6.0
+HU,education,graduate degree,30.667,49.167,6.0
+HU,education,high school,20.4,40.4,5.0
+HU,education,university,36.333,47.0,3.0
+ID,education,graduate degree,24.837,53.633,49.0
+ID,education,high school,19.649,58.981,154.0
+ID,education,less than high school,16.444,56.111,9.0
+ID,education,university,23.829,53.954,152.0
+IE,education,graduate degree,40.667,38.556,9.0
+IE,education,high school,25.667,65.0,6.0
+IE,education,university,26.875,49.5,16.0
+IL,education,graduate degree,33.0,52.0,1.0
+IL,education,high school,20.0,67.0,1.0
+IL,education,university,33.75,54.25,4.0
+IN,education,graduate degree,28.405,51.913,126.0
+IN,education,high school,20.52,50.04,25.0
+IN,education,less than high school,17.5,90.5,2.0
+IN,education,university,25.803,51.773,66.0
+IR,education,graduate degree,42.0,38.5,2.0
+IR,education,university,40.0,52.0,1.0
+IS,education,graduate degree,33.5,52.833,6.0
+IS,education,high school,18.0,0.0,1.0
+IS,education,university,25.0,30.5,2.0
+IT,education,graduate degree,30.8,40.5,10.0
+IT,education,high school,24.938,65.5,16.0
+IT,education,less than high school,17.5,61.5,2.0
+IT,education,university,25.071,60.714,14.0
+JM,education,graduate degree,35.0,3.0,1.0
+JM,education,high school,20.545,64.636,11.0
+JM,education,less than high school,16.0,71.0,1.0
+JM,education,university,29.6,45.3,10.0
+JO,education,graduate degree,35.5,36.0,2.0
+JO,education,high school,20.5,41.0,2.0
+JO,education,university,22.333,44.5,6.0
+JP,education,graduate degree,25.429,38.714,7.0
+JP,education,high school,20.889,41.333,18.0
+JP,education,university,23.833,45.5,12.0
+KH,education,university,23.0,60.0,1.0
+KR,education,graduate degree,22.0,94.0,1.0
+KR,education,high school,23.143,54.143,7.0
+KR,education,university,27.333,53.0,3.0
+KW,education,university,26.333,81.333,3.0
+KZ,education,graduate degree,23.0,78.0,1.0
+LB,education,graduate degree,36.0,28.0,1.0
+LB,education,high school,21.0,90.0,1.0
+LB,education,university,25.667,56.667,3.0
+LK,education,graduate degree,43.0,40.0,2.0
+LK,education,high school,18.0,95.0,1.0
+LK,education,university,24.0,77.333,3.0
+LT,education,high school,22.667,37.333,3.0
+LT,education,university,24.25,45.0,4.0
+LV,education,high school,18.667,48.0,3.0
+LV,education,university,30.0,5.0,1.0
+MA,education,graduate degree,24.667,75.0,3.0
+MA,education,high school,16.0,96.0,1.0
+MA,education,university,21.125,43.375,8.0
+MD,education,graduate degree,30.0,41.0,1.0
+MK,education,high school,18.0,100.667,3.0
+MK,education,university,21.0,25.0,1.0
+MN,education,university,21.0,49.0,1.0
+MO,education,high school,16.0,62.0,1.0
+MU,education,university,22.5,89.5,2.0
+MV,education,high school,17.0,69.0,1.0
+MV,education,university,23.5,43.5,2.0
+MX,education,graduate degree,32.2,36.6,5.0
+MX,education,high school,19.385,40.308,13.0
+MX,education,less than high school,19.0,80.0,1.0
+MX,education,university,24.739,57.348,23.0
+MY,education,graduate degree,26.981,52.887,53.0
+MY,education,high school,19.949,53.601,138.0
+MY,education,less than high school,16.75,55.0,4.0
+MY,education,university,23.332,57.625,259.0
+MZ,education,university,30.0,28.0,1.0
+NG,education,graduate degree,39.5,7.5,4.0
+NG,education,high school,19.0,59.5,2.0
+NG,education,university,28.75,14.75,4.0
+NL,education,graduate degree,34.444,49.778,9.0
+NL,education,high school,18.667,75.667,6.0
+NL,education,university,27.6,36.267,15.0
+NO,education,graduate degree,37.0,9.0,1.0
+NO,education,high school,20.667,54.833,6.0
+NO,education,university,28.667,46.667,6.0
+NP,education,graduate degree,30.0,19.0,1.0
+NP,education,high school,19.0,70.5,2.0
+NP,education,university,40.0,9.0,1.0
+NZ,education,graduate degree,37.043,34.304,23.0
+NZ,education,high school,18.75,59.45,20.0
+NZ,education,less than high school,16.0,56.0,2.0
+NZ,education,university,25.757,55.486,37.0
+OM,education,graduate degree,38.5,44.5,2.0
+OM,education,university,45.0,63.0,1.0
+PA,education,graduate degree,31.0,65.0,1.0
+PE,education,graduate degree,30.0,12.0,1.0
+PE,education,high school,20.0,55.25,4.0
+PE,education,university,24.0,25.5,2.0
+PH,education,graduate degree,27.35,54.275,40.0
+PH,education,high school,20.029,66.824,68.0
+PH,education,less than high school,16.0,47.25,4.0
+PH,education,university,22.977,62.989,175.0
+PK,education,graduate degree,28.455,66.364,11.0
+PK,education,high school,19.625,54.25,8.0
+PK,education,university,27.786,59.714,14.0
+PL,education,graduate degree,35.333,60.0,9.0
+PL,education,high school,23.136,60.5,22.0
+PL,education,less than high school,17.333,79.667,3.0
+PL,education,university,30.133,51.267,15.0
+PR,education,graduate degree,54.0,0.0,1.0
+PR,education,university,30.0,36.0,1.0
+PS,education,graduate degree,69.0,12.0,1.0
+PS,education,high school,20.0,25.0,1.0
+PS,education,university,23.0,76.0,1.0
+PT,education,graduate degree,28.0,43.5,2.0
+PT,education,high school,20.889,66.222,9.0
+PT,education,university,35.857,38.714,7.0
+PY,education,university,31.0,7.0,1.0
+QA,education,graduate degree,29.5,47.5,2.0
+QA,education,university,22.0,51.0,1.0
+RO,education,graduate degree,33.636,36.727,11.0
+RO,education,high school,21.846,52.0,13.0
+RO,education,university,28.0,52.182,22.0
+RS,education,graduate degree,43.0,30.0,3.0
+RS,education,high school,23.222,34.333,9.0
+RS,education,university,28.333,51.667,9.0
+RU,education,graduate degree,26.5,25.0,2.0
+RU,education,high school,19.417,53.25,12.0
+RU,education,university,24.625,55.875,8.0
+SA,education,graduate degree,29.0,37.786,14.0
+SA,education,high school,18.75,85.75,8.0
+SA,education,university,27.182,49.455,11.0
+SD,education,high school,23.0,41.0,1.0
+SE,education,graduate degree,54.667,50.0,3.0
+SE,education,high school,19.0,85.333,3.0
+SE,education,less than high school,16.0,95.0,2.0
+SE,education,university,36.2,52.933,15.0
+SG,education,graduate degree,32.4,42.467,15.0
+SG,education,high school,21.696,60.522,23.0
+SG,education,less than high school,26.333,74.667,3.0
+SG,education,university,27.674,46.791,43.0
+SI,education,graduate degree,36.0,65.0,1.0
+SI,education,high school,18.5,57.5,2.0
+SI,education,university,36.5,37.5,2.0
+SK,education,high school,20.0,61.0,5.0
+SK,education,university,24.5,72.0,2.0
+SV,education,high school,18.5,64.0,2.0
+SY,education,graduate degree,30.0,29.0,1.0
+SY,education,university,19.0,45.0,1.0
+TH,education,graduate degree,31.6,29.8,5.0
+TH,education,high school,21.0,76.0,1.0
+TH,education,university,26.167,62.75,12.0
+TR,education,graduate degree,40.0,71.5,4.0
+TR,education,high school,19.667,59.667,9.0
+TR,education,less than high school,17.0,47.0,2.0
+TR,education,university,22.833,53.917,12.0
+TT,education,high school,18.0,69.0,1.0
+TT,education,university,24.0,75.0,2.0
+TW,education,graduate degree,29.75,53.5,4.0
+TW,education,high school,20.0,34.0,1.0
+TW,education,university,35.0,68.0,1.0
+TZ,education,high school,23.0,42.0,1.0
+UA,education,graduate degree,33.0,28.0,1.0
+UA,education,high school,19.5,33.75,4.0
+UA,education,university,26.0,66.0,4.0
+US,education,graduate degree,40.19,42.317,378.0
+US,education,high school,22.613,57.561,618.0
+US,education,less than high school,20.56,59.9,50.0
+US,education,university,32.285,49.972,864.0
+UY,education,university,20.0,38.0,1.0
+UZ,education,high school,18.0,79.0,1.0
+VE,education,graduate degree,23.0,30.0,1.0
+VE,education,high school,18.0,58.5,2.0
+VE,education,university,25.0,56.0,1.0
+VN,education,graduate degree,23.667,89.0,3.0
+VN,education,high school,18.0,81.0,2.0
+VN,education,university,23.091,48.727,11.0
+XK,education,high school,19.0,63.0,1.0
+ZA,education,graduate degree,42.75,65.0,4.0
+ZA,education,high school,19.667,54.0,6.0
+ZA,education,university,27.133,61.0,15.0
+ZW,education,university,37.0,23.0,1.0
+AE,race,arab,27.0,56.75,4.0
+AE,race,asian,28.0,57.889,9.0
+AE,race,white,36.0,40.0,2.0
+AL,race,white,24.727,58.818,11.0
+AO,race,black,26.0,51.0,1.0
+AO,race,white,35.0,20.0,1.0
+AR,race,other,24.667,55.5,6.0
+AR,race,white,27.0,44.571,7.0
+AT,race,white,23.0,62.833,12.0
+AU,race,arab,33.0,47.0,3.0
+AU,race,asian,27.529,46.588,34.0
+AU,race,black,43.0,64.0,1.0
+AU,race,indigenous australian,45.0,44.0,1.0
+AU,race,other,30.765,36.118,17.0
+AU,race,white,36.0,48.849,106.0
+AZ,race,other,20.5,90.5,2.0
+BA,race,white,26.4,48.2,5.0
+BB,race,black,37.0,101.0,1.0
+BD,race,asian,21.0,110.0,1.0
+BE,race,asian,21.0,48.0,1.0
+BE,race,white,34.3,48.8,10.0
+BG,race,white,25.5,48.2,10.0
+BN,race,asian,23.021,64.979,47.0
+BN,race,other,23.375,55.5,8.0
+BO,race,other,19.0,33.0,1.0
+BR,race,asian,17.0,63.0,1.0
+BR,race,black,21.5,44.5,2.0
+BR,race,other,26.0,57.75,16.0
+BR,race,white,24.538,59.673,52.0
+BS,race,black,17.0,38.0,1.0
+BS,race,other,18.0,9.0,1.0
+BS,race,white,39.0,64.0,1.0
+BW,race,black,45.0,60.0,1.0
+BZ,race,black,43.0,1.0,1.0
+BZ,race,other,23.0,44.0,1.0
+CA,race,arab,24.333,81.0,3.0
+CA,race,asian,23.491,50.07,57.0
+CA,race,black,25.4,70.4,5.0
+CA,race,native american,36.375,49.625,8.0
+CA,race,other,27.125,53.792,24.0
+CA,race,white,32.207,51.494,164.0
+CH,race,asian,30.0,58.0,1.0
+CH,race,other,24.0,72.0,1.0
+CH,race,white,27.8,37.667,15.0
+CL,race,other,28.4,53.4,5.0
+CL,race,white,28.5,47.0,2.0
+CN,race,asian,19.5,72.5,2.0
+CO,race,other,28.333,31.333,3.0
+CO,race,white,24.0,51.0,1.0
+CR,race,other,20.0,69.333,3.0
+CR,race,white,19.0,91.0,1.0
+CZ,race,white,25.917,60.167,12.0
+DE,race,arab,19.5,76.0,2.0
+DE,race,asian,25.0,63.316,19.0
+DE,race,other,23.167,50.5,6.0
+DE,race,white,26.866,48.239,67.0
+DK,race,asian,19.0,48.0,1.0
+DK,race,black,21.0,56.0,1.0
+DK,race,other,21.0,33.0,1.0
+DK,race,white,39.222,21.0,9.0
+DO,race,black,27.0,85.0,1.0
+DO,race,other,25.667,75.667,3.0
+DO,race,white,24.0,30.0,1.0
+DZ,race,arab,20.0,65.5,2.0
+EC,race,other,21.0,63.4,5.0
+EE,race,asian,28.0,44.0,1.0
+EE,race,white,31.0,45.0,1.0
+EG,race,arab,26.333,68.2,15.0
+EG,race,asian,22.588,54.529,17.0
+EG,race,other,27.5,59.75,4.0
+ES,race,asian,23.0,41.2,5.0
+ES,race,other,25.0,21.0,2.0
+ES,race,white,27.286,52.071,14.0
+ET,race,black,24.333,58.667,3.0
+FI,race,arab,24.0,23.0,1.0
+FI,race,other,40.0,44.0,1.0
+FI,race,white,27.125,48.25,16.0
+FR,race,arab,23.25,49.0,4.0
+FR,race,asian,25.0,104.0,1.0
+FR,race,black,21.667,61.0,3.0
+FR,race,other,25.889,60.778,9.0
+FR,race,white,27.035,53.509,57.0
+GB,race,arab,34.0,29.6,5.0
+GB,race,asian,24.5,57.6,50.0
+GB,race,black,31.0,29.0,2.0
+GB,race,other,27.333,50.467,15.0
+GB,race,white,33.386,51.488,207.0
+GE,race,asian,20.0,63.0,1.0
+GE,race,white,18.5,51.5,2.0
+GG,race,white,20.0,73.0,1.0
+GH,race,black,19.0,60.0,1.0
+GR,race,asian,21.5,53.5,2.0
+GR,race,white,31.955,42.091,22.0
+GT,race,other,30.0,59.0,2.0
+GT,race,white,34.0,34.0,1.0
+GU,race,other,46.0,34.0,1.0
+HK,race,asian,23.706,49.941,17.0
+HK,race,white,34.0,117.0,1.0
+HN,race,other,33.0,8.0,1.0
+HR,race,white,30.312,47.75,16.0
+HU,race,asian,21.5,54.5,2.0
+HU,race,black,21.0,51.0,1.0
+HU,race,other,20.5,58.5,2.0
+HU,race,white,32.222,40.111,9.0
+ID,race,arab,19.0,62.5,2.0
+ID,race,asian,21.985,55.813,343.0
+ID,race,indigenous australian,23.0,29.0,1.0
+ID,race,native american,22.0,45.0,1.0
+ID,race,other,23.062,59.438,16.0
+ID,race,white,20.0,123.0,1.0
+IE,race,asian,23.0,46.5,2.0
+IE,race,white,31.172,49.517,29.0
+IL,race,arab,22.0,67.0,1.0
+IL,race,white,33.2,53.8,5.0
+IN,race,arab,20.0,76.0,1.0
+IN,race,asian,27.242,52.082,182.0
+IN,race,black,21.0,50.0,1.0
+IN,race,native american,23.0,4.0,1.0
+IN,race,other,23.938,50.75,32.0
+IN,race,white,21.0,78.5,2.0
+IR,race,arab,40.0,52.0,1.0
+IR,race,asian,52.0,24.0,1.0
+IR,race,other,32.0,53.0,1.0
+IS,race,white,29.889,42.0,9.0
+IT,race,asian,27.333,40.0,3.0
+IT,race,other,19.0,63.5,2.0
+IT,race,white,26.297,58.892,37.0
+JM,race,black,24.455,56.136,22.0
+JM,race,other,35.0,3.0,1.0
+JO,race,arab,22.5,21.0,2.0
+JO,race,asian,21.667,51.167,6.0
+JO,race,white,35.5,36.0,2.0
+JP,race,asian,22.471,44.147,34.0
+JP,race,other,25.333,20.0,3.0
+KH,race,white,23.0,60.0,1.0
+KR,race,asian,24.3,56.1,10.0
+KR,race,other,23.0,71.0,1.0
+KW,race,arab,18.0,76.0,1.0
+KW,race,asian,30.5,84.0,2.0
+KZ,race,asian,23.0,78.0,1.0
+LB,race,arab,24.5,65.0,4.0
+LB,race,other,36.0,28.0,1.0
+LK,race,asian,33.75,52.0,4.0
+LK,race,black,23.0,104.0,1.0
+LK,race,other,18.0,95.0,1.0
+LT,race,white,23.571,41.714,7.0
+LV,race,other,30.0,5.0,1.0
+LV,race,white,18.667,48.0,3.0
+MA,race,arab,20.7,52.8,10.0
+MA,race,other,22.0,100.0,1.0
+MA,race,white,30.0,40.0,1.0
+MD,race,white,30.0,41.0,1.0
+MK,race,white,18.75,81.75,4.0
+MN,race,asian,21.0,49.0,1.0
+MO,race,asian,16.0,62.0,1.0
+MU,race,asian,22.0,110.0,1.0
+MU,race,other,23.0,69.0,1.0
+MV,race,asian,21.333,52.0,3.0
+MX,race,other,23.5,54.875,32.0
+MX,race,white,24.9,35.0,10.0
+MY,race,arab,17.0,44.0,1.0
+MY,race,asian,22.589,56.764,399.0
+MY,race,black,23.0,99.0,1.0
+MY,race,other,23.442,47.673,52.0
+MY,race,white,21.0,74.0,1.0
+MZ,race,white,30.0,28.0,1.0
+NG,race,black,31.1,20.8,10.0
+NL,race,asian,26.5,54.0,2.0
+NL,race,black,33.667,18.333,3.0
+NL,race,indigenous australian,19.0,72.0,1.0
+NL,race,other,27.0,50.0,1.0
+NL,race,white,27.652,50.478,23.0
+NO,race,asian,23.0,54.0,1.0
+NO,race,other,26.0,55.0,1.0
+NO,race,white,25.818,46.273,11.0
+NP,race,asian,27.0,42.25,4.0
+NZ,race,asian,22.62,56.58,50.0
+NZ,race,other,27.125,50.375,8.0
+NZ,race,white,36.0,37.958,24.0
+OM,race,arab,45.0,63.0,1.0
+OM,race,asian,27.0,71.0,1.0
+OM,race,other,50.0,18.0,1.0
+PA,race,white,31.0,65.0,1.0
+PE,race,asian,21.0,88.0,1.0
+PE,race,other,22.833,32.667,6.0
+PH,race,asian,22.851,62.416,269.0
+PH,race,native american,21.0,25.0,1.0
+PH,race,other,21.941,65.412,17.0
+PK,race,asian,26.167,58.2,30.0
+PK,race,other,24.667,84.667,3.0
+PL,race,asian,25.0,5.0,1.0
+PL,race,white,27.208,59.875,48.0
+PR,race,other,30.0,36.0,1.0
+PR,race,white,54.0,0.0,1.0
+PS,race,arab,21.5,50.5,2.0
+PS,race,white,69.0,12.0,1.0
+PT,race,other,16.0,81.0,1.0
+PT,race,white,28.176,51.353,17.0
+PY,race,other,31.0,7.0,1.0
+QA,race,arab,31.0,10.0,1.0
+QA,race,asian,25.0,68.0,2.0
+RO,race,asian,31.0,53.0,1.0
+RO,race,other,21.0,44.5,2.0
+RO,race,white,27.837,48.512,43.0
+RS,race,white,28.238,41.143,21.0
+RU,race,asian,21.222,59.222,9.0
+RU,race,other,20.0,47.0,2.0
+RU,race,white,22.909,46.273,11.0
+SA,race,arab,26.556,54.278,18.0
+SA,race,asian,26.0,45.167,12.0
+SA,race,black,22.0,103.0,1.0
+SA,race,other,21.0,30.0,1.0
+SA,race,white,22.0,107.0,1.0
+SD,race,arab,23.0,41.0,1.0
+SE,race,asian,16.0,77.0,1.0
+SE,race,other,30.0,32.0,1.0
+SE,race,white,35.714,61.0,21.0
+SG,race,asian,26.722,50.333,72.0
+SG,race,black,29.0,62.0,1.0
+SG,race,other,24.667,52.778,9.0
+SG,race,white,39.5,52.0,2.0
+SI,race,white,29.2,51.0,5.0
+SK,race,white,21.286,64.143,7.0
+SV,race,native american,19.0,54.0,1.0
+SV,race,other,18.0,74.0,1.0
+SY,race,arab,30.0,29.0,1.0
+SY,race,white,19.0,45.0,1.0
+TH,race,asian,26.562,55.812,16.0
+TH,race,white,34.0,42.5,2.0
+TR,race,asian,21.125,66.25,8.0
+TR,race,other,23.5,46.0,2.0
+TR,race,white,25.235,55.412,17.0
+TT,race,asian,17.0,108.0,1.0
+TT,race,black,31.0,42.0,1.0
+TT,race,other,18.0,69.0,1.0
+TW,race,asian,27.333,56.0,3.0
+TW,race,other,30.0,27.5,2.0
+TW,race,white,32.0,93.0,1.0
+TZ,race,black,23.0,42.0,1.0
+UA,race,black,22.0,42.0,1.0
+UA,race,white,24.125,48.125,8.0
+US,race,arab,24.455,40.636,11.0
+US,race,asian,24.231,51.024,208.0
+US,race,black,27.385,49.187,91.0
+US,race,indigenous australian,44.0,57.0,1.0
+US,race,native american,30.125,65.083,24.0
+US,race,other,25.811,54.252,206.0
+US,race,white,32.289,50.701,1369.0
+UY,race,white,20.0,38.0,1.0
+UZ,race,asian,18.0,79.0,1.0
+VE,race,native american,17.0,10.0,1.0
+VE,race,other,22.333,64.333,3.0
+VN,race,arab,24.0,103.0,1.0
+VN,race,asian,22.467,57.467,15.0
+XK,race,white,19.0,63.0,1.0
+ZA,race,asian,20.0,88.0,1.0
+ZA,race,black,25.333,47.167,6.0
+ZA,race,other,23.75,55.75,4.0
+ZA,race,white,30.643,64.643,14.0
+ZW,race,black,37.0,23.0,1.0
+AE,gender,female,28.8,55.2,15.0
+AL,gender,female,23.167,60.667,6.0
+AL,gender,male,26.6,56.6,5.0
+AO,gender,female,26.0,51.0,1.0
+AO,gender,male,35.0,20.0,1.0
+AR,gender,female,28.125,59.0,8.0
+AR,gender,male,23.75,28.25,4.0
+AR,gender,other,17.0,60.0,1.0
+AT,gender,female,22.556,67.0,9.0
+AT,gender,male,22.5,34.0,2.0
+AT,gender,other,28.0,83.0,1.0
+AU,gender,female,32.214,48.089,112.0
+AU,gender,male,37.08,44.78,50.0
+AZ,gender,female,20.5,90.5,2.0
+BA,gender,female,30.333,51.667,3.0
+BA,gender,male,20.5,43.0,2.0
+BB,gender,male,37.0,101.0,1.0
+BD,gender,female,21.0,110.0,1.0
+BE,gender,female,30.5,52.25,8.0
+BE,gender,male,40.0,39.333,3.0
+BG,gender,female,28.0,57.75,4.0
+BG,gender,male,23.833,41.833,6.0
+BN,gender,female,23.085,65.979,47.0
+BN,gender,male,23.0,49.625,8.0
+BO,gender,male,19.0,33.0,1.0
+BR,gender,female,26.7,62.8,30.0
+BR,gender,male,23.195,55.976,41.0
+BS,gender,female,18.0,9.0,1.0
+BS,gender,male,28.0,51.0,2.0
+BW,gender,female,45.0,60.0,1.0
+BZ,gender,female,43.0,1.0,1.0
+BZ,gender,male,23.0,44.0,1.0
+CA,gender,female,28.477,54.92,174.0
+CA,gender,male,32.585,44.988,82.0
+CA,gender,other,27.2,67.4,5.0
+CH,gender,female,26.091,48.727,11.0
+CH,gender,male,30.667,26.5,6.0
+CL,gender,female,25.0,60.0,3.0
+CL,gender,male,31.0,45.25,4.0
+CN,gender,female,19.5,72.5,2.0
+CO,gender,female,31.5,36.5,2.0
+CO,gender,male,23.0,36.0,2.0
+CR,gender,female,19.5,75.0,2.0
+CR,gender,male,20.0,74.5,2.0
+CZ,gender,female,23.571,62.714,7.0
+CZ,gender,male,29.2,56.6,5.0
+DE,gender,female,26.118,55.549,51.0
+DE,gender,male,26.692,45.949,39.0
+DE,gender,other,20.0,66.25,4.0
+DK,gender,female,32.143,32.857,7.0
+DK,gender,male,37.8,19.2,5.0
+DO,gender,female,25.5,62.0,4.0
+DO,gender,male,26.0,94.0,1.0
+DZ,gender,female,21.0,60.0,1.0
+DZ,gender,male,19.0,71.0,1.0
+EC,gender,female,21.25,68.25,4.0
+EC,gender,male,20.0,44.0,1.0
+EE,gender,male,29.5,44.5,2.0
+EG,gender,female,22.926,67.852,27.0
+EG,gender,male,30.0,39.667,9.0
+ES,gender,female,25.667,42.667,18.0
+ES,gender,male,28.333,69.667,3.0
+ET,gender,female,22.5,46.0,2.0
+ET,gender,male,28.0,84.0,1.0
+FI,gender,female,27.308,44.462,13.0
+FI,gender,male,28.6,52.2,5.0
+FR,gender,female,25.275,61.95,40.0
+FR,gender,male,28.344,45.375,32.0
+FR,gender,other,19.5,75.0,2.0
+GB,gender,female,31.422,52.431,204.0
+GB,gender,male,32.214,49.243,70.0
+GB,gender,other,22.6,71.6,5.0
+GE,gender,female,18.0,75.0,1.0
+GE,gender,male,19.5,45.5,2.0
+GG,gender,female,20.0,73.0,1.0
+GH,gender,female,19.0,60.0,1.0
+GR,gender,female,30.583,50.5,12.0
+GR,gender,male,32.909,32.818,11.0
+GR,gender,other,17.0,66.0,1.0
+GT,gender,female,31.333,50.667,3.0
+GU,gender,female,46.0,34.0,1.0
+HK,gender,female,23.167,42.167,12.0
+HK,gender,male,26.5,76.667,6.0
+HN,gender,male,33.0,8.0,1.0
+HR,gender,female,30.167,46.0,12.0
+HR,gender,male,30.75,53.0,4.0
+HU,gender,female,24.0,46.667,6.0
+HU,gender,male,31.375,44.75,8.0
+ID,gender,female,21.852,57.095,304.0
+ID,gender,male,22.881,50.22,59.0
+ID,gender,other,20.0,97.0,1.0
+IE,gender,female,29.882,48.588,17.0
+IE,gender,male,31.571,50.214,14.0
+IL,gender,female,41.0,49.0,2.0
+IL,gender,male,26.5,59.5,4.0
+IN,gender,female,25.589,55.488,129.0
+IN,gender,male,28.191,46.798,89.0
+IN,gender,other,20.0,67.0,1.0
+IR,gender,male,41.333,43.0,3.0
+IS,gender,female,27.2,55.0,5.0
+IS,gender,male,33.25,25.75,4.0
+IT,gender,female,25.08,62.16,25.0
+IT,gender,male,27.412,51.294,17.0
+JM,gender,female,26.6,56.4,15.0
+JM,gender,male,22.0,45.333,6.0
+JM,gender,other,21.0,60.0,2.0
+JO,gender,female,25.714,47.429,7.0
+JO,gender,male,22.0,29.667,3.0
+JP,gender,female,23.227,41.136,22.0
+JP,gender,male,21.933,43.733,15.0
+KH,gender,female,23.0,60.0,1.0
+KR,gender,female,24.25,61.25,8.0
+KR,gender,male,23.0,51.5,2.0
+KR,gender,other,26.0,39.0,1.0
+KW,gender,female,26.333,81.333,3.0
+KZ,gender,female,23.0,78.0,1.0
+LB,gender,female,28.25,49.5,4.0
+LB,gender,other,21.0,90.0,1.0
+LK,gender,female,23.0,80.8,5.0
+LK,gender,male,61.0,3.0,1.0
+LT,gender,female,21.333,33.667,3.0
+LT,gender,male,25.25,47.75,4.0
+LV,gender,female,21.0,45.0,1.0
+LV,gender,male,24.5,11.5,2.0
+LV,gender,other,16.0,81.0,1.0
+MA,gender,female,21.667,66.667,9.0
+MA,gender,male,21.333,22.667,3.0
+MD,gender,female,30.0,41.0,1.0
+MK,gender,female,19.0,90.667,3.0
+MK,gender,male,18.0,55.0,1.0
+MN,gender,female,21.0,49.0,1.0
+MO,gender,female,16.0,62.0,1.0
+MU,gender,female,22.5,89.5,2.0
+MV,gender,female,20.0,60.0,2.0
+MV,gender,male,24.0,36.0,1.0
+MX,gender,female,24.684,56.263,19.0
+MX,gender,male,21.15,46.15,20.0
+MX,gender,other,36.333,38.0,3.0
+MY,gender,female,22.583,57.577,369.0
+MY,gender,male,23.059,48.224,85.0
+MZ,gender,male,30.0,28.0,1.0
+NG,gender,female,30.375,19.875,8.0
+NG,gender,male,34.0,24.5,2.0
+NL,gender,female,30.077,55.077,13.0
+NL,gender,male,26.176,42.941,17.0
+NO,gender,female,25.286,55.286,7.0
+NO,gender,male,26.0,38.5,6.0
+NP,gender,female,27.0,42.25,4.0
+NZ,gender,female,26.8,49.714,70.0
+NZ,gender,male,29.0,49.727,11.0
+NZ,gender,other,17.0,116.0,1.0
+OM,gender,male,40.667,50.667,3.0
+PA,gender,female,31.0,65.0,1.0
+PE,gender,female,21.0,52.75,4.0
+PE,gender,male,27.5,15.5,2.0
+PE,gender,other,19.0,42.0,1.0
+PH,gender,female,22.776,63.675,237.0
+PH,gender,male,22.917,56.625,48.0
+PH,gender,other,21.5,59.0,2.0
+PK,gender,female,25.115,64.154,26.0
+PK,gender,male,29.429,47.429,7.0
+PL,gender,female,25.654,63.385,26.0
+PL,gender,male,29.81,51.143,21.0
+PL,gender,other,19.0,78.5,2.0
+PR,gender,female,42.0,18.0,2.0
+PS,gender,female,23.0,76.0,1.0
+PS,gender,male,44.5,18.5,2.0
+PT,gender,female,29.154,52.231,13.0
+PT,gender,male,23.2,55.0,5.0
+PY,gender,male,31.0,7.0,1.0
+QA,gender,female,27.0,48.667,3.0
+RO,gender,female,26.759,55.586,29.0
+RO,gender,male,30.071,29.643,14.0
+RO,gender,other,24.333,67.0,3.0
+RS,gender,female,27.25,46.0,16.0
+RS,gender,male,31.4,25.6,5.0
+RU,gender,female,22.538,48.538,13.0
+RU,gender,male,21.111,56.111,9.0
+SA,gender,female,25.12,50.24,25.0
+SA,gender,male,28.375,62.875,8.0
+SD,gender,male,23.0,41.0,1.0
+SE,gender,female,31.364,62.364,11.0
+SE,gender,male,37.583,58.667,12.0
+SG,gender,female,26.698,50.063,63.0
+SG,gender,male,27.238,52.905,21.0
+SI,gender,female,27.0,61.0,2.0
+SI,gender,male,30.667,44.333,3.0
+SK,gender,female,20.5,56.0,2.0
+SK,gender,male,21.6,67.4,5.0
+SV,gender,female,18.5,64.0,2.0
+SY,gender,female,24.5,37.0,2.0
+TH,gender,female,26.818,54.727,11.0
+TH,gender,male,28.286,53.714,7.0
+TR,gender,female,20.867,59.933,15.0
+TR,gender,male,27.636,49.273,11.0
+TR,gender,other,28.0,123.0,1.0
+TT,gender,female,24.0,75.0,2.0
+TT,gender,male,18.0,69.0,1.0
+TW,gender,female,29.0,62.333,3.0
+TW,gender,male,29.0,43.0,3.0
+TZ,gender,female,23.0,42.0,1.0
+UA,gender,female,24.75,58.75,4.0
+UA,gender,male,23.5,34.0,4.0
+UA,gender,other,22.0,56.0,1.0
+US,gender,female,29.944,52.117,1296.0
+US,gender,male,31.66,48.119,565.0
+US,gender,other,28.429,61.429,49.0
+UY,gender,female,20.0,38.0,1.0
+UZ,gender,male,18.0,79.0,1.0
+VE,gender,female,24.0,43.0,2.0
+VE,gender,male,18.0,58.5,2.0
+VN,gender,female,21.333,64.333,6.0
+VN,gender,male,23.3,57.9,10.0
+XK,gender,female,19.0,63.0,1.0
+ZA,gender,female,26.056,53.333,18.0
+ZA,gender,male,28.167,68.833,6.0
+ZA,gender,other,58.0,126.0,1.0
+ZW,gender,female,37.0,23.0,1.0
+AE,religion,catholic,28.25,37.75,4.0
+AE,religion,hindu,20.667,91.667,3.0
+AE,religion,muslim,27.4,44.8,5.0
+AE,religion,other,34.0,13.0,1.0
+AE,religion,other christian,43.0,82.5,2.0
+AL,religion,agnostic,24.0,55.5,2.0
+AL,religion,atheist,28.5,67.0,2.0
+AL,religion,buddhist,29.0,92.0,1.0
+AL,religion,muslim,23.2,50.2,5.0
+AL,religion,other,22.0,59.0,1.0
+AO,religion,agnostic,35.0,20.0,1.0
+AO,religion,catholic,26.0,51.0,1.0
+AR,religion,agnostic,25.143,52.286,7.0
+AR,religion,atheist,26.0,4.0,1.0
+AR,religion,catholic,25.667,58.333,3.0
+AR,religion,other,39.0,42.0,1.0
+AR,religion,other christian,19.0,58.0,1.0
+AT,religion,agnostic,18.0,64.0,1.0
+AT,religion,atheist,24.8,49.0,5.0
+AT,religion,catholic,19.667,67.333,3.0
+AT,religion,muslim,19.0,91.0,1.0
+AT,religion,other,28.0,83.0,1.0
+AT,religion,protestant,28.0,69.0,1.0
+AU,religion,agnostic,30.667,45.867,30.0
+AU,religion,atheist,32.935,49.652,46.0
+AU,religion,buddhist,35.667,27.556,9.0
+AU,religion,catholic,34.0,38.75,16.0
+AU,religion,hindu,32.0,50.0,3.0
+AU,religion,jewish,34.5,86.0,2.0
+AU,religion,muslim,27.81,52.857,21.0
+AU,religion,other,37.556,50.333,9.0
+AU,religion,other christian,36.444,52.111,9.0
+AU,religion,protestant,43.941,43.706,17.0
+AZ,religion,atheist,20.5,90.5,2.0
+BA,religion,agnostic,45.0,77.0,1.0
+BA,religion,atheist,23.0,59.0,1.0
+BA,religion,muslim,21.5,39.0,2.0
+BA,religion,other christian,21.0,27.0,1.0
+BB,religion,agnostic,37.0,101.0,1.0
+BD,religion,muslim,21.0,110.0,1.0
+BE,religion,atheist,34.5,41.75,4.0
+BE,religion,catholic,34.0,54.4,5.0
+BE,religion,muslim,21.0,48.0,1.0
+BE,religion,other,35.0,49.0,1.0
+BG,religion,agnostic,22.0,18.0,1.0
+BG,religion,atheist,24.5,41.75,4.0
+BG,religion,other,21.5,72.5,2.0
+BG,religion,other christian,30.667,50.667,3.0
+BN,religion,atheist,38.0,8.0,1.0
+BN,religion,catholic,16.0,104.0,1.0
+BN,religion,muslim,22.923,64.558,52.0
+BN,religion,protestant,23.0,29.0,1.0
+BO,religion,atheist,19.0,33.0,1.0
+BR,religion,agnostic,26.24,59.52,25.0
+BR,religion,atheist,20.882,57.941,17.0
+BR,religion,catholic,29.636,45.636,11.0
+BR,religion,other,22.75,76.75,8.0
+BR,religion,other christian,25.0,63.0,4.0
+BR,religion,protestant,22.167,56.333,6.0
+BS,religion,agnostic,18.0,9.0,1.0
+BS,religion,other,39.0,64.0,1.0
+BS,religion,protestant,17.0,38.0,1.0
+BW,religion,protestant,45.0,60.0,1.0
+BZ,religion,other christian,33.0,22.5,2.0
+CA,religion,agnostic,28.93,48.86,57.0
+CA,religion,atheist,28.174,55.913,69.0
+CA,religion,buddhist,35.5,70.5,4.0
+CA,religion,catholic,31.914,54.029,35.0
+CA,religion,hindu,24.05,61.5,20.0
+CA,religion,jewish,38.0,9.5,2.0
+CA,religion,muslim,27.4,35.5,10.0
+CA,religion,other,32.519,57.889,27.0
+CA,religion,other christian,29.0,48.571,14.0
+CA,religion,protestant,36.1,37.65,20.0
+CA,religion,sikh,24.667,55.333,3.0
+CH,religion,agnostic,33.0,36.8,5.0
+CH,religion,atheist,24.833,44.667,6.0
+CH,religion,catholic,25.0,56.0,1.0
+CH,religion,hindu,30.0,58.0,1.0
+CH,religion,other,22.0,27.5,2.0
+CH,religion,other christian,30.0,67.0,1.0
+CH,religion,protestant,28.0,7.0,1.0
+CL,religion,agnostic,27.667,55.333,3.0
+CL,religion,atheist,30.0,49.5,2.0
+CL,religion,other,20.0,49.0,1.0
+CL,religion,other christian,36.0,47.0,1.0
+CN,religion,agnostic,18.0,105.0,1.0
+CN,religion,muslim,21.0,40.0,1.0
+CO,religion,agnostic,33.5,16.0,2.0
+CO,religion,atheist,24.0,51.0,1.0
+CO,religion,other,18.0,62.0,1.0
+CR,religion,agnostic,16.0,83.0,1.0
+CR,religion,atheist,20.0,74.5,2.0
+CR,religion,catholic,23.0,67.0,1.0
+CZ,religion,agnostic,23.0,55.5,4.0
+CZ,religion,atheist,23.75,75.5,4.0
+CZ,religion,other,35.0,43.333,3.0
+CZ,religion,protestant,19.0,68.0,1.0
+DE,religion,agnostic,26.818,54.773,22.0
+DE,religion,atheist,26.045,48.955,22.0
+DE,religion,buddhist,29.0,34.25,4.0
+DE,religion,catholic,27.214,57.5,14.0
+DE,religion,hindu,31.0,61.0,1.0
+DE,religion,jewish,38.0,87.0,1.0
+DE,religion,muslim,23.765,54.647,17.0
+DE,religion,other,22.714,49.429,7.0
+DE,religion,other christian,26.667,43.667,3.0
+DE,religion,protestant,27.0,37.333,3.0
+DK,religion,agnostic,39.5,23.5,4.0
+DK,religion,atheist,30.5,28.0,4.0
+DK,religion,buddhist,42.0,14.0,1.0
+DK,religion,muslim,19.0,48.0,1.0
+DK,religion,other,52.0,2.0,1.0
+DK,religion,other christian,21.0,56.0,1.0
+DO,religion,agnostic,26.0,59.667,3.0
+DO,religion,other,23.0,78.0,1.0
+DO,religion,other christian,27.0,85.0,1.0
+DZ,religion,muslim,20.0,65.5,2.0
+EC,religion,agnostic,20.0,44.0,1.0
+EC,religion,catholic,21.333,52.667,3.0
+EC,religion,other,21.0,115.0,1.0
+EE,religion,atheist,28.0,44.0,1.0
+EE,religion,other,31.0,45.0,1.0
+EG,religion,atheist,27.0,69.5,2.0
+EG,religion,muslim,24.031,59.531,32.0
+EG,religion,other,22.0,83.0,1.0
+EG,religion,other christian,44.0,62.0,1.0
+ES,religion,agnostic,19.333,68.333,3.0
+ES,religion,atheist,26.545,45.273,11.0
+ES,religion,catholic,32.0,70.5,2.0
+ES,religion,muslim,22.75,28.25,4.0
+ES,religion,protestant,42.0,20.0,1.0
+ET,religion,muslim,20.0,84.0,1.0
+ET,religion,other christian,26.5,46.0,2.0
+FI,religion,agnostic,31.0,66.0,1.0
+FI,religion,atheist,29.778,44.667,9.0
+FI,religion,muslim,24.0,23.0,1.0
+FI,religion,other,25.333,51.667,3.0
+FI,religion,other christian,26.5,40.5,2.0
+FI,religion,protestant,23.0,56.0,2.0
+FR,religion,agnostic,23.292,62.458,24.0
+FR,religion,atheist,29.233,51.6,30.0
+FR,religion,catholic,29.667,40.778,9.0
+FR,religion,muslim,22.25,72.25,4.0
+FR,religion,other,24.0,51.0,4.0
+FR,religion,other christian,30.0,92.0,1.0
+FR,religion,protestant,19.5,40.5,2.0
+GB,religion,agnostic,30.673,48.939,49.0
+GB,religion,atheist,31.382,51.843,102.0
+GB,religion,buddhist,51.0,28.333,3.0
+GB,religion,catholic,30.381,52.762,21.0
+GB,religion,hindu,22.0,102.0,1.0
+GB,religion,jewish,29.0,58.0,2.0
+GB,religion,muslim,26.368,51.842,38.0
+GB,religion,other,36.571,56.857,21.0
+GB,religion,other christian,30.067,49.4,15.0
+GB,religion,protestant,37.565,56.304,23.0
+GB,religion,sikh,29.5,51.0,4.0
+GE,religion,atheist,19.0,28.0,1.0
+GE,religion,catholic,18.0,75.0,1.0
+GE,religion,other,20.0,63.0,1.0
+GG,religion,agnostic,20.0,73.0,1.0
+GH,religion,protestant,19.0,60.0,1.0
+GR,religion,agnostic,21.0,57.667,3.0
+GR,religion,atheist,33.571,40.429,7.0
+GR,religion,catholic,50.0,24.0,1.0
+GR,religion,muslim,20.0,84.0,1.0
+GR,religion,other,25.0,54.5,2.0
+GR,religion,other christian,32.8,36.0,10.0
+GT,religion,atheist,34.0,34.0,1.0
+GT,religion,catholic,40.0,73.0,1.0
+GT,religion,other christian,20.0,45.0,1.0
+GU,religion,atheist,46.0,34.0,1.0
+HK,religion,agnostic,25.667,79.333,3.0
+HK,religion,atheist,21.4,54.8,5.0
+HK,religion,buddhist,25.0,40.0,2.0
+HK,religion,catholic,30.0,42.0,3.0
+HK,religion,muslim,34.0,46.0,1.0
+HK,religion,other,19.0,90.0,1.0
+HK,religion,protestant,20.0,37.333,3.0
+HN,religion,catholic,33.0,8.0,1.0
+HR,religion,agnostic,29.5,31.0,2.0
+HR,religion,atheist,28.4,60.0,5.0
+HR,religion,catholic,31.556,44.667,9.0
+HU,religion,agnostic,33.0,35.0,2.0
+HU,religion,atheist,27.0,59.25,4.0
+HU,religion,buddhist,20.0,40.0,2.0
+HU,religion,catholic,30.667,33.0,3.0
+HU,religion,muslim,25.0,96.0,1.0
+HU,religion,other,43.0,5.0,1.0
+HU,religion,protestant,21.0,51.0,1.0
+ID,religion,agnostic,20.625,77.812,16.0
+ID,religion,atheist,23.0,59.0,5.0
+ID,religion,buddhist,22.429,66.571,7.0
+ID,religion,catholic,22.87,54.348,23.0
+ID,religion,hindu,20.833,41.333,12.0
+ID,religion,muslim,22.012,54.756,254.0
+ID,religion,other,23.5,49.75,4.0
+ID,religion,other christian,29.0,121.0,1.0
+ID,religion,protestant,21.65,57.675,40.0
+ID,religion,sikh,27.5,65.0,2.0
+IE,religion,agnostic,26.6,38.4,5.0
+IE,religion,atheist,29.0,60.846,13.0
+IE,religion,buddhist,54.0,42.0,1.0
+IE,religion,catholic,33.333,40.889,9.0
+IE,religion,hindu,25.0,19.0,1.0
+IE,religion,other,19.0,90.0,1.0
+IE,religion,other christian,42.0,27.0,1.0
+IL,religion,atheist,41.0,49.0,2.0
+IL,religion,jewish,32.0,52.0,2.0
+IL,religion,muslim,22.0,67.0,1.0
+IL,religion,other,20.0,67.0,1.0
+IN,religion,agnostic,23.333,52.667,6.0
+IN,religion,atheist,23.778,51.0,18.0
+IN,religion,buddhist,25.5,46.0,2.0
+IN,religion,catholic,26.714,54.857,7.0
+IN,religion,hindu,27.146,50.927,151.0
+IN,religion,muslim,25.3,50.95,20.0
+IN,religion,other,20.0,57.0,1.0
+IN,religion,other christian,22.0,57.25,4.0
+IN,religion,protestant,37.5,36.5,4.0
+IN,religion,sikh,26.833,89.833,6.0
+IR,religion,atheist,32.0,53.0,1.0
+IR,religion,muslim,46.0,38.0,2.0
+IS,religion,agnostic,26.0,33.0,2.0
+IS,religion,atheist,29.75,53.75,4.0
+IS,religion,buddhist,46.0,27.0,1.0
+IS,religion,other,34.0,70.0,1.0
+IS,religion,other christian,18.0,0.0,1.0
+IT,religion,agnostic,33.0,69.625,8.0
+IT,religion,atheist,23.312,61.0,16.0
+IT,religion,catholic,25.1,53.3,10.0
+IT,religion,hindu,27.0,8.0,1.0
+IT,religion,muslim,26.0,59.0,3.0
+IT,religion,other,25.0,43.75,4.0
+JM,religion,agnostic,22.5,77.75,4.0
+JM,religion,other,21.0,88.0,1.0
+JM,religion,other christian,25.5,47.125,16.0
+JM,religion,protestant,27.0,42.5,2.0
+JO,religion,atheist,25.0,7.0,1.0
+JO,religion,muslim,21.429,48.857,7.0
+JO,religion,other christian,37.0,34.0,1.0
+JO,religion,protestant,34.0,38.0,1.0
+JP,religion,agnostic,26.0,62.667,3.0
+JP,religion,atheist,23.333,53.333,3.0
+JP,religion,catholic,28.0,34.0,1.0
+JP,religion,muslim,22.241,38.069,29.0
+JP,religion,protestant,19.0,75.0,1.0
+KH,religion,protestant,23.0,60.0,1.0
+KR,religion,agnostic,24.0,9.0,1.0
+KR,religion,atheist,22.0,94.0,1.0
+KR,religion,buddhist,24.0,33.0,1.0
+KR,religion,muslim,26.0,57.2,5.0
+KR,religion,other,22.5,58.5,2.0
+KR,religion,protestant,21.0,93.0,1.0
+KW,religion,catholic,25.0,85.0,1.0
+KW,religion,muslim,18.0,76.0,1.0
+KW,religion,other christian,36.0,83.0,1.0
+KZ,religion,muslim,23.0,78.0,1.0
+LB,religion,agnostic,21.0,90.0,1.0
+LB,religion,atheist,36.0,28.0,1.0
+LB,religion,other,24.0,46.0,1.0
+LB,religion,other christian,26.5,62.0,2.0
+LK,religion,buddhist,33.75,52.0,4.0
+LK,religion,catholic,23.0,104.0,1.0
+LK,religion,other,18.0,95.0,1.0
+LT,religion,atheist,25.25,47.75,4.0
+LT,religion,catholic,23.5,19.0,2.0
+LT,religion,other,17.0,63.0,1.0
+LV,religion,atheist,17.5,49.5,2.0
+LV,religion,other,21.0,45.0,1.0
+LV,religion,protestant,30.0,5.0,1.0
+MA,religion,agnostic,22.5,66.5,2.0
+MA,religion,atheist,23.0,7.0,1.0
+MA,religion,muslim,20.125,61.0,8.0
+MA,religion,protestant,30.0,40.0,1.0
+MD,religion,atheist,30.0,41.0,1.0
+MK,religion,atheist,18.0,55.0,1.0
+MK,religion,catholic,20.0,125.0,1.0
+MK,religion,mormon,16.0,122.0,1.0
+MK,religion,muslim,21.0,25.0,1.0
+MN,religion,buddhist,21.0,49.0,1.0
+MO,religion,agnostic,16.0,62.0,1.0
+MU,religion,muslim,22.5,89.5,2.0
+MV,religion,muslim,21.333,52.0,3.0
+MX,religion,agnostic,26.875,61.0,8.0
+MX,religion,atheist,23.2,54.7,10.0
+MX,religion,catholic,21.357,36.214,14.0
+MX,religion,other,25.5,56.4,10.0
+MY,religion,agnostic,27.0,59.5,2.0
+MY,religion,buddhist,19.0,38.0,1.0
+MY,religion,catholic,26.083,68.0,12.0
+MY,religion,hindu,24.5,50.0,4.0
+MY,religion,muslim,22.544,55.617,428.0
+MY,religion,other,27.0,67.5,2.0
+MY,religion,other christian,22.667,59.667,3.0
+MY,religion,protestant,19.0,27.0,2.0
+MZ,religion,agnostic,30.0,28.0,1.0
+NG,religion,catholic,26.5,61.0,2.0
+NG,religion,muslim,32.0,3.0,1.0
+NG,religion,other,36.0,14.0,1.0
+NG,religion,other christian,36.333,5.667,3.0
+NG,religion,protestant,27.0,17.333,3.0
+NL,religion,agnostic,25.667,40.833,6.0
+NL,religion,atheist,29.769,54.846,13.0
+NL,religion,catholic,20.0,71.5,2.0
+NL,religion,hindu,27.0,50.0,1.0
+NL,religion,muslim,23.0,91.0,1.0
+NL,religion,other,25.5,45.5,2.0
+NL,religion,other christian,30.0,22.0,1.0
+NL,religion,protestant,31.0,22.75,4.0
+NO,religion,agnostic,28.0,37.0,3.0
+NO,religion,atheist,23.0,62.333,6.0
+NO,religion,other,17.0,63.0,1.0
+NO,religion,other christian,18.0,40.0,1.0
+NO,religion,protestant,38.0,15.0,2.0
+NP,religion,hindu,29.667,24.0,3.0
+NP,religion,other,19.0,97.0,1.0
+NZ,religion,agnostic,27.9,40.6,10.0
+NZ,religion,atheist,38.077,38.692,13.0
+NZ,religion,buddhist,23.0,71.0,1.0
+NZ,religion,catholic,28.0,55.25,4.0
+NZ,religion,muslim,22.766,57.404,47.0
+NZ,religion,other,35.0,44.25,4.0
+NZ,religion,other christian,19.0,8.0,1.0
+NZ,religion,protestant,37.0,29.5,2.0
+OM,religion,catholic,27.0,71.0,1.0
+OM,religion,muslim,47.5,40.5,2.0
+PA,religion,other christian,31.0,65.0,1.0
+PE,religion,agnostic,20.5,56.0,2.0
+PE,religion,atheist,24.0,16.5,2.0
+PE,religion,catholic,25.0,19.0,1.0
+PE,religion,other christian,22.0,60.0,2.0
+PH,religion,agnostic,22.214,74.857,28.0
+PH,religion,atheist,21.071,61.357,14.0
+PH,religion,catholic,23.381,61.708,168.0
+PH,religion,mormon,20.5,51.5,2.0
+PH,religion,muslim,20.75,57.5,8.0
+PH,religion,other,20.636,66.545,11.0
+PH,religion,other christian,23.286,57.086,35.0
+PH,religion,protestant,21.286,62.476,21.0
+PK,religion,muslim,26.03,60.606,33.0
+PL,religion,agnostic,24.0,41.286,7.0
+PL,religion,atheist,24.714,67.476,21.0
+PL,religion,catholic,33.533,54.733,15.0
+PL,religion,hindu,25.0,5.0,1.0
+PL,religion,jewish,17.0,79.0,1.0
+PL,religion,other,24.75,67.0,4.0
+PR,religion,agnostic,30.0,36.0,1.0
+PR,religion,protestant,54.0,0.0,1.0
+PS,religion,catholic,23.0,76.0,1.0
+PS,religion,muslim,20.0,25.0,1.0
+PS,religion,protestant,69.0,12.0,1.0
+PT,religion,agnostic,24.5,46.875,8.0
+PT,religion,atheist,34.6,61.2,5.0
+PT,religion,catholic,25.0,58.0,3.0
+PT,religion,other christian,25.5,49.5,2.0
+PY,religion,other,31.0,7.0,1.0
+QA,religion,catholic,22.0,51.0,1.0
+QA,religion,muslim,29.5,47.5,2.0
+RO,religion,agnostic,21.375,55.5,8.0
+RO,religion,atheist,29.778,44.444,9.0
+RO,religion,catholic,20.0,42.0,1.0
+RO,religion,muslim,27.5,46.5,2.0
+RO,religion,other,28.333,57.333,6.0
+RO,religion,other christian,29.474,43.0,19.0
+RO,religion,protestant,26.0,88.0,1.0
+RS,religion,agnostic,22.75,56.25,4.0
+RS,religion,atheist,34.25,32.5,4.0
+RS,religion,other,24.0,50.667,3.0
+RS,religion,other christian,29.3,35.7,10.0
+RU,religion,agnostic,22.333,47.0,3.0
+RU,religion,atheist,19.875,47.125,8.0
+RU,religion,catholic,17.0,41.0,1.0
+RU,religion,muslim,23.4,55.8,5.0
+RU,religion,other,23.5,38.5,2.0
+RU,religion,other christian,25.333,73.667,3.0
+SA,religion,atheist,17.0,53.0,1.0
+SA,religion,catholic,24.667,52.333,3.0
+SA,religion,muslim,26.345,53.414,29.0
+SD,religion,muslim,23.0,41.0,1.0
+SE,religion,agnostic,30.25,46.25,4.0
+SE,religion,atheist,30.182,63.727,11.0
+SE,religion,buddhist,16.0,77.0,1.0
+SE,religion,other,38.0,20.0,1.0
+SE,religion,other christian,57.0,100.0,1.0
+SE,religion,protestant,46.4,61.4,5.0
+SG,religion,agnostic,26.667,43.333,6.0
+SG,religion,atheist,23.333,56.0,3.0
+SG,religion,buddhist,25.25,39.0,8.0
+SG,religion,catholic,26.222,56.556,9.0
+SG,religion,hindu,31.0,72.5,4.0
+SG,religion,mormon,28.0,18.0,1.0
+SG,religion,muslim,26.684,51.868,38.0
+SG,religion,other,23.857,48.429,7.0
+SG,religion,other christian,26.0,72.5,2.0
+SG,religion,protestant,33.5,42.167,6.0
+SI,religion,agnostic,32.5,54.5,2.0
+SI,religion,atheist,19.0,58.0,1.0
+SI,religion,catholic,36.0,65.0,1.0
+SI,religion,other,26.0,23.0,1.0
+SK,religion,agnostic,27.0,77.0,1.0
+SK,religion,atheist,20.667,75.667,3.0
+SK,religion,catholic,20.0,57.0,2.0
+SK,religion,other christian,20.0,31.0,1.0
+SV,religion,agnostic,18.5,64.0,2.0
+SY,religion,muslim,24.5,37.0,2.0
+TH,religion,agnostic,29.5,86.5,2.0
+TH,religion,atheist,31.0,37.0,4.0
+TH,religion,buddhist,24.6,42.8,5.0
+TH,religion,muslim,27.0,60.4,5.0
+TH,religion,other,26.0,33.0,1.0
+TH,religion,protestant,26.0,108.0,1.0
+TR,religion,agnostic,23.0,63.0,7.0
+TR,religion,atheist,24.0,72.25,4.0
+TR,religion,muslim,23.091,44.455,11.0
+TR,religion,other,26.8,69.0,5.0
+TT,religion,hindu,17.5,88.5,2.0
+TT,religion,other christian,31.0,42.0,1.0
+TW,religion,agnostic,32.0,27.0,1.0
+TW,religion,muslim,27.0,66.0,1.0
+TW,religion,other,31.5,48.0,2.0
+TW,religion,protestant,26.0,63.5,2.0
+TZ,religion,catholic,23.0,42.0,1.0
+UA,religion,agnostic,22.5,67.5,2.0
+UA,religion,atheist,24.667,47.0,3.0
+UA,religion,buddhist,22.0,42.0,1.0
+UA,religion,catholic,16.0,54.0,1.0
+UA,religion,other,25.0,27.0,1.0
+UA,religion,protestant,33.0,28.0,1.0
+US,religion,agnostic,29.37,53.329,413.0
+US,religion,atheist,27.524,50.985,330.0
+US,religion,buddhist,32.9,50.633,30.0
+US,religion,catholic,29.989,50.253,261.0
+US,religion,hindu,24.0,63.2,15.0
+US,religion,jewish,32.042,49.0,24.0
+US,religion,mormon,29.0,48.944,18.0
+US,religion,muslim,26.493,44.203,69.0
+US,religion,other,31.036,55.831,195.0
+US,religion,other christian,31.072,53.302,305.0
+US,religion,protestant,36.427,44.049,246.0
+US,religion,sikh,23.25,55.0,4.0
+UY,religion,agnostic,20.0,38.0,1.0
+UZ,religion,muslim,18.0,79.0,1.0
+VE,religion,agnostic,18.0,58.5,2.0
+VE,religion,catholic,24.0,43.0,2.0
+VN,religion,atheist,23.667,54.667,3.0
+VN,religion,buddhist,20.5,65.167,6.0
+VN,religion,muslim,23.0,8.0,1.0
+VN,religion,other,24.0,59.8,5.0
+VN,religion,other christian,24.0,103.0,1.0
+XK,religion,agnostic,19.0,63.0,1.0
+ZA,religion,agnostic,39.5,61.0,2.0
+ZA,religion,catholic,45.333,81.333,3.0
+ZA,religion,muslim,20.0,56.0,3.0
+ZA,religion,other,33.0,124.0,1.0
+ZA,religion,other christian,23.0,59.833,12.0
+ZA,religion,protestant,28.0,30.75,4.0
+ZW,religion,other,37.0,23.0,1.0
+AE,orientation,asexual,44.0,90.0,1.0
+AE,orientation,heterosexual,28.75,44.917,12.0
+AE,orientation,other,21.5,99.5,2.0
+AL,orientation,heterosexual,24.8,61.4,10.0
+AL,orientation,other,24.0,33.0,1.0
+AO,orientation,heterosexual,30.5,35.5,2.0
+AR,orientation,asexual,17.0,60.0,1.0
+AR,orientation,bisexual,20.0,54.0,2.0
+AR,orientation,heterosexual,26.0,37.833,6.0
+AR,orientation,homosexual,39.0,42.0,1.0
+AR,orientation,other,28.333,69.333,3.0
+AT,orientation,bisexual,20.6,75.2,5.0
+AT,orientation,heterosexual,24.714,54.0,7.0
+AU,orientation,asexual,34.0,55.8,5.0
+AU,orientation,bisexual,25.25,55.8,20.0
+AU,orientation,heterosexual,35.248,43.876,129.0
+AU,orientation,homosexual,31.0,59.833,6.0
+AU,orientation,other,27.0,105.5,2.0
+AZ,orientation,bisexual,25.0,79.0,1.0
+AZ,orientation,homosexual,16.0,102.0,1.0
+BA,orientation,heterosexual,26.4,48.2,5.0
+BB,orientation,homosexual,37.0,101.0,1.0
+BD,orientation,heterosexual,21.0,110.0,1.0
+BE,orientation,asexual,37.0,58.0,1.0
+BE,orientation,heterosexual,29.444,47.556,9.0
+BE,orientation,homosexual,62.0,50.0,1.0
+BG,orientation,asexual,20.0,79.0,1.0
+BG,orientation,bisexual,23.0,66.0,1.0
+BG,orientation,heterosexual,27.714,37.0,7.0
+BG,orientation,homosexual,18.0,78.0,1.0
+BN,orientation,asexual,20.0,108.0,2.0
+BN,orientation,bisexual,22.333,49.667,3.0
+BN,orientation,heterosexual,23.404,61.723,47.0
+BN,orientation,homosexual,21.0,56.0,1.0
+BN,orientation,other,20.5,88.0,2.0
+BO,orientation,heterosexual,19.0,33.0,1.0
+BR,orientation,asexual,20.0,70.0,1.0
+BR,orientation,bisexual,27.222,65.556,9.0
+BR,orientation,heterosexual,24.354,56.25,48.0
+BR,orientation,homosexual,23.5,63.625,8.0
+BR,orientation,other,26.0,62.0,5.0
+BS,orientation,heterosexual,24.667,37.0,3.0
+BW,orientation,heterosexual,45.0,60.0,1.0
+BZ,orientation,heterosexual,33.0,22.5,2.0
+CA,orientation,asexual,31.625,64.125,8.0
+CA,orientation,bisexual,27.0,67.743,35.0
+CA,orientation,heterosexual,30.487,48.118,195.0
+CA,orientation,homosexual,27.933,59.8,15.0
+CA,orientation,other,25.125,52.25,8.0
+CH,orientation,heterosexual,28.188,42.125,16.0
+CH,orientation,other,20.0,21.0,1.0
+CL,orientation,bisexual,22.0,43.0,1.0
+CL,orientation,heterosexual,29.5,53.0,6.0
+CN,orientation,heterosexual,21.0,40.0,1.0
+CN,orientation,homosexual,18.0,105.0,1.0
+CO,orientation,asexual,22.0,21.0,1.0
+CO,orientation,bisexual,18.0,62.0,1.0
+CO,orientation,heterosexual,34.5,31.0,2.0
+CR,orientation,heterosexual,21.0,72.0,3.0
+CR,orientation,other,16.0,83.0,1.0
+CZ,orientation,asexual,23.0,19.0,1.0
+CZ,orientation,bisexual,25.0,72.0,2.0
+CZ,orientation,heterosexual,22.143,58.286,7.0
+CZ,orientation,other,41.5,75.5,2.0
+DE,orientation,asexual,25.0,88.75,4.0
+DE,orientation,bisexual,24.333,59.81,21.0
+DE,orientation,heterosexual,26.691,46.036,55.0
+DE,orientation,homosexual,28.0,52.6,10.0
+DE,orientation,other,23.5,55.25,4.0
+DK,orientation,asexual,19.0,48.0,1.0
+DK,orientation,bisexual,42.0,14.0,1.0
+DK,orientation,heterosexual,35.556,28.0,9.0
+DK,orientation,homosexual,33.0,12.0,1.0
+DO,orientation,bisexual,23.0,78.0,1.0
+DO,orientation,heterosexual,25.667,69.667,3.0
+DO,orientation,homosexual,28.0,55.0,1.0
+DZ,orientation,heterosexual,19.0,71.0,1.0
+DZ,orientation,other,21.0,60.0,1.0
+EC,orientation,asexual,21.0,115.0,1.0
+EC,orientation,heterosexual,21.0,50.5,4.0
+EE,orientation,heterosexual,29.5,44.5,2.0
+EG,orientation,asexual,20.5,76.0,2.0
+EG,orientation,heterosexual,25.065,59.355,31.0
+EG,orientation,other,23.667,65.667,3.0
+ES,orientation,bisexual,26.2,65.4,5.0
+ES,orientation,heterosexual,26.267,39.067,15.0
+ES,orientation,homosexual,22.0,64.0,1.0
+ET,orientation,asexual,28.0,84.0,1.0
+ET,orientation,heterosexual,22.5,46.0,2.0
+FI,orientation,asexual,31.0,66.0,1.0
+FI,orientation,bisexual,29.0,32.0,2.0
+FI,orientation,heterosexual,27.571,45.929,14.0
+FI,orientation,homosexual,23.0,66.0,1.0
+FR,orientation,asexual,25.8,58.4,5.0
+FR,orientation,bisexual,22.062,64.625,16.0
+FR,orientation,heterosexual,28.283,49.913,46.0
+FR,orientation,homosexual,21.5,57.75,4.0
+FR,orientation,other,29.333,75.667,3.0
+GB,orientation,asexual,24.286,52.286,7.0
+GB,orientation,bisexual,25.385,56.436,39.0
+GB,orientation,heterosexual,33.159,50.193,207.0
+GB,orientation,homosexual,29.571,56.857,14.0
+GB,orientation,other,28.333,62.333,12.0
+GE,orientation,bisexual,20.0,63.0,1.0
+GE,orientation,heterosexual,18.5,51.5,2.0
+GG,orientation,heterosexual,20.0,73.0,1.0
+GH,orientation,heterosexual,19.0,60.0,1.0
+GR,orientation,asexual,24.0,53.0,1.0
+GR,orientation,bisexual,26.8,59.8,5.0
+GR,orientation,heterosexual,32.667,37.833,18.0
+GT,orientation,heterosexual,31.333,50.667,3.0
+GU,orientation,heterosexual,46.0,34.0,1.0
+HK,orientation,asexual,20.0,45.0,1.0
+HK,orientation,bisexual,24.667,69.667,3.0
+HK,orientation,heterosexual,23.833,41.583,12.0
+HK,orientation,homosexual,28.5,106.5,2.0
+HN,orientation,heterosexual,33.0,8.0,1.0
+HR,orientation,bisexual,28.5,68.75,4.0
+HR,orientation,heterosexual,30.917,40.75,12.0
+HU,orientation,bisexual,20.5,58.5,2.0
+HU,orientation,heterosexual,29.5,43.417,12.0
+ID,orientation,asexual,19.667,64.556,9.0
+ID,orientation,bisexual,21.394,65.848,33.0
+ID,orientation,heterosexual,22.214,54.144,299.0
+ID,orientation,homosexual,22.778,58.667,9.0
+ID,orientation,other,20.214,67.571,14.0
+IE,orientation,asexual,27.333,50.667,3.0
+IE,orientation,bisexual,27.0,46.5,4.0
+IE,orientation,heterosexual,31.667,49.625,24.0
+IL,orientation,bisexual,22.0,67.0,1.0
+IL,orientation,heterosexual,33.2,53.8,5.0
+IN,orientation,asexual,26.625,67.0,8.0
+IN,orientation,bisexual,29.0,45.476,21.0
+IN,orientation,heterosexual,26.369,51.335,176.0
+IN,orientation,homosexual,22.143,53.571,7.0
+IN,orientation,other,30.286,69.857,7.0
+IR,orientation,heterosexual,41.333,43.0,3.0
+IS,orientation,bisexual,26.0,72.0,2.0
+IS,orientation,heterosexual,31.0,33.429,7.0
+IT,orientation,asexual,19.0,91.0,1.0
+IT,orientation,bisexual,24.875,65.25,8.0
+IT,orientation,heterosexual,26.444,51.222,27.0
+IT,orientation,homosexual,28.5,79.75,4.0
+IT,orientation,other,23.5,55.5,2.0
+JM,orientation,asexual,20.0,61.0,2.0
+JM,orientation,bisexual,21.75,85.0,4.0
+JM,orientation,heterosexual,27.5,43.571,14.0
+JM,orientation,other,20.333,55.333,3.0
+JO,orientation,asexual,34.0,38.0,1.0
+JO,orientation,heterosexual,23.375,47.0,8.0
+JO,orientation,homosexual,25.0,7.0,1.0
+JP,orientation,asexual,25.0,51.75,4.0
+JP,orientation,bisexual,27.0,51.0,1.0
+JP,orientation,heterosexual,22.138,41.621,29.0
+JP,orientation,homosexual,23.5,35.5,2.0
+JP,orientation,other,24.0,25.0,1.0
+KH,orientation,homosexual,23.0,60.0,1.0
+KR,orientation,asexual,20.0,85.5,2.0
+KR,orientation,heterosexual,25.0,52.75,8.0
+KR,orientation,other,26.0,39.0,1.0
+KW,orientation,bisexual,36.0,83.0,1.0
+KW,orientation,heterosexual,21.5,80.5,2.0
+KZ,orientation,heterosexual,23.0,78.0,1.0
+LB,orientation,heterosexual,28.25,49.5,4.0
+LB,orientation,other,21.0,90.0,1.0
+LK,orientation,bisexual,20.5,99.5,2.0
+LK,orientation,heterosexual,33.75,52.0,4.0
+LT,orientation,bisexual,21.0,40.0,1.0
+LT,orientation,heterosexual,24.0,42.0,6.0
+LV,orientation,asexual,19.0,18.0,1.0
+LV,orientation,heterosexual,25.5,25.0,2.0
+LV,orientation,other,16.0,81.0,1.0
+MA,orientation,bisexual,20.0,94.5,2.0
+MA,orientation,heterosexual,21.9,47.9,10.0
+MD,orientation,heterosexual,30.0,41.0,1.0
+MK,orientation,heterosexual,18.75,81.75,4.0
+MN,orientation,heterosexual,21.0,49.0,1.0
+MO,orientation,heterosexual,16.0,62.0,1.0
+MU,orientation,heterosexual,22.5,89.5,2.0
+MV,orientation,bisexual,20.5,52.5,2.0
+MV,orientation,heterosexual,23.0,51.0,1.0
+MX,orientation,bisexual,23.0,65.182,11.0
+MX,orientation,heterosexual,22.741,45.111,27.0
+MX,orientation,homosexual,30.0,60.0,2.0
+MX,orientation,other,37.0,25.5,2.0
+MY,orientation,asexual,21.16,62.72,25.0
+MY,orientation,bisexual,23.0,72.442,52.0
+MY,orientation,heterosexual,22.443,52.292,305.0
+MY,orientation,homosexual,27.385,58.231,13.0
+MY,orientation,other,23.169,56.0,59.0
+MZ,orientation,bisexual,30.0,28.0,1.0
+NG,orientation,heterosexual,31.1,20.8,10.0
+NL,orientation,asexual,20.0,107.0,1.0
+NL,orientation,bisexual,20.25,53.75,4.0
+NL,orientation,heterosexual,29.13,43.174,23.0
+NL,orientation,homosexual,44.0,60.0,1.0
+NL,orientation,other,21.0,71.0,1.0
+NO,orientation,asexual,23.0,54.0,1.0
+NO,orientation,bisexual,23.0,72.333,3.0
+NO,orientation,heterosexual,26.778,38.556,9.0
+NP,orientation,heterosexual,29.667,24.0,3.0
+NP,orientation,homosexual,19.0,97.0,1.0
+NZ,orientation,asexual,20.0,80.0,2.0
+NZ,orientation,bisexual,25.429,47.429,14.0
+NZ,orientation,heterosexual,27.966,48.793,58.0
+NZ,orientation,homosexual,23.0,66.333,6.0
+NZ,orientation,other,28.0,45.5,2.0
+OM,orientation,heterosexual,40.667,50.667,3.0
+PA,orientation,heterosexual,31.0,65.0,1.0
+PE,orientation,bisexual,24.75,37.75,4.0
+PE,orientation,heterosexual,20.0,45.5,2.0
+PE,orientation,homosexual,19.0,42.0,1.0
+PH,orientation,asexual,21.75,85.333,12.0
+PH,orientation,bisexual,22.512,62.791,43.0
+PH,orientation,heterosexual,22.786,60.28,182.0
+PH,orientation,homosexual,22.656,70.312,32.0
+PH,orientation,other,24.444,54.556,18.0
+PK,orientation,asexual,22.0,90.0,1.0
+PK,orientation,bisexual,29.0,49.0,4.0
+PK,orientation,heterosexual,25.2,62.72,25.0
+PK,orientation,homosexual,20.0,27.0,1.0
+PK,orientation,other,35.5,59.5,2.0
+PL,orientation,bisexual,22.091,62.182,11.0
+PL,orientation,heterosexual,29.265,58.294,34.0
+PL,orientation,homosexual,22.0,69.5,2.0
+PL,orientation,other,24.5,37.0,2.0
+PR,orientation,bisexual,30.0,36.0,1.0
+PR,orientation,heterosexual,54.0,0.0,1.0
+PS,orientation,bisexual,20.0,25.0,1.0
+PS,orientation,heterosexual,23.0,76.0,1.0
+PS,orientation,homosexual,69.0,12.0,1.0
+PT,orientation,bisexual,21.0,88.5,2.0
+PT,orientation,heterosexual,28.312,48.562,16.0
+PY,orientation,other,31.0,7.0,1.0
+QA,orientation,heterosexual,27.0,48.667,3.0
+RO,orientation,asexual,19.0,50.0,1.0
+RO,orientation,bisexual,25.0,90.5,2.0
+RO,orientation,heterosexual,27.8,47.525,40.0
+RO,orientation,homosexual,33.0,38.0,2.0
+RO,orientation,other,23.0,20.0,1.0
+RS,orientation,bisexual,26.0,59.5,2.0
+RS,orientation,heterosexual,28.556,38.778,18.0
+RS,orientation,homosexual,27.0,47.0,1.0
+RU,orientation,bisexual,22.25,59.25,4.0
+RU,orientation,heterosexual,21.941,48.706,17.0
+RU,orientation,homosexual,21.0,71.0,1.0
+SA,orientation,asexual,20.333,75.667,3.0
+SA,orientation,bisexual,24.333,82.0,3.0
+SA,orientation,heterosexual,26.3,51.55,20.0
+SA,orientation,homosexual,28.833,24.667,6.0
+SA,orientation,other,22.0,107.0,1.0
+SD,orientation,heterosexual,23.0,41.0,1.0
+SE,orientation,bisexual,39.0,34.0,3.0
+SE,orientation,heterosexual,36.0,62.118,17.0
+SE,orientation,homosexual,24.0,78.0,2.0
+SE,orientation,other,19.0,76.0,1.0
+SG,orientation,asexual,26.5,43.0,2.0
+SG,orientation,bisexual,24.727,47.364,11.0
+SG,orientation,heterosexual,28.069,48.017,58.0
+SG,orientation,homosexual,23.0,57.0,5.0
+SG,orientation,other,23.25,73.5,8.0
+SI,orientation,heterosexual,29.2,51.0,5.0
+SK,orientation,asexual,27.0,77.0,1.0
+SK,orientation,heterosexual,20.2,58.2,5.0
+SK,orientation,homosexual,21.0,81.0,1.0
+SV,orientation,bisexual,18.0,74.0,1.0
+SV,orientation,heterosexual,19.0,54.0,1.0
+SY,orientation,heterosexual,24.5,37.0,2.0
+TH,orientation,bisexual,34.0,82.0,1.0
+TH,orientation,heterosexual,27.0,52.706,17.0
+TR,orientation,asexual,21.0,30.0,1.0
+TR,orientation,bisexual,20.667,66.333,3.0
+TR,orientation,heterosexual,24.85,53.1,20.0
+TR,orientation,other,21.667,91.0,3.0
+TT,orientation,heterosexual,22.0,73.0,3.0
+TW,orientation,bisexual,32.0,27.0,1.0
+TW,orientation,heterosexual,28.4,57.8,5.0
+TZ,orientation,bisexual,23.0,42.0,1.0
+UA,orientation,bisexual,25.0,76.5,2.0
+UA,orientation,heterosexual,23.833,36.333,6.0
+UA,orientation,other,22.0,56.0,1.0
+US,orientation,asexual,27.683,59.25,60.0
+US,orientation,bisexual,24.977,60.948,305.0
+US,orientation,heterosexual,31.988,47.69,1381.0
+US,orientation,homosexual,28.851,57.683,101.0
+US,orientation,other,27.302,62.063,63.0
+UY,orientation,bisexual,20.0,38.0,1.0
+UZ,orientation,bisexual,18.0,79.0,1.0
+VE,orientation,bisexual,25.0,56.0,1.0
+VE,orientation,heterosexual,20.0,20.0,2.0
+VE,orientation,homosexual,19.0,107.0,1.0
+VN,orientation,bisexual,21.0,82.667,3.0
+VN,orientation,heterosexual,23.3,60.1,10.0
+VN,orientation,homosexual,21.667,38.667,3.0
+XK,orientation,heterosexual,19.0,63.0,1.0
+ZA,orientation,asexual,58.0,126.0,1.0
+ZA,orientation,heterosexual,26.864,54.955,22.0
+ZA,orientation,homosexual,23.5,82.0,2.0
+ZW,orientation,heterosexual,37.0,23.0,1.0
+AE,married,currently,33.0,52.25,4.0
+AE,married,never,25.6,52.9,10.0
+AE,married,previously,44.0,90.0,1.0
+AL,married,never,24.727,58.818,11.0
+AO,married,currently,30.5,35.5,2.0
+AR,married,currently,30.0,45.0,1.0
+AR,married,never,25.583,50.0,12.0
+AT,married,currently,26.0,51.0,2.0
+AT,married,never,22.4,65.2,10.0
+AU,married,currently,44.091,34.523,44.0
+AU,married,never,26.56,51.5,100.0
+AU,married,previously,48.111,53.111,18.0
+AZ,married,never,20.5,90.5,2.0
+BA,married,currently,45.0,77.0,1.0
+BA,married,never,21.75,41.0,4.0
+BB,married,never,37.0,101.0,1.0
+BD,married,never,21.0,110.0,1.0
+BE,married,currently,44.5,44.0,2.0
+BE,married,never,30.0,49.875,8.0
+BE,married,previously,35.0,49.0,1.0
+BG,married,currently,42.0,58.0,1.0
+BG,married,never,23.5,45.625,8.0
+BG,married,previously,25.0,59.0,1.0
+BN,married,currently,32.5,76.5,4.0
+BN,married,never,22.163,63.102,49.0
+BN,married,previously,26.5,50.0,2.0
+BO,married,never,19.0,33.0,1.0
+BR,married,currently,38.0,48.0,7.0
+BR,married,never,23.032,59.508,63.0
+BR,married,previously,35.0,94.0,1.0
+BS,married,currently,39.0,64.0,1.0
+BS,married,never,17.5,23.5,2.0
+BW,married,currently,45.0,60.0,1.0
+BZ,married,currently,43.0,1.0,1.0
+BZ,married,never,23.0,44.0,1.0
+CA,married,currently,40.963,46.537,54.0
+CA,married,never,24.505,54.489,186.0
+CA,married,previously,47.286,44.476,21.0
+CH,married,currently,35.0,31.0,2.0
+CH,married,never,26.733,42.2,15.0
+CL,married,currently,38.5,31.0,2.0
+CL,married,never,24.4,59.8,5.0
+CN,married,never,19.5,72.5,2.0
+CO,married,never,21.333,44.667,3.0
+CO,married,previously,45.0,11.0,1.0
+CR,married,never,19.75,74.75,4.0
+CZ,married,never,25.917,60.167,12.0
+DE,married,currently,36.25,40.188,16.0
+DE,married,never,23.857,54.675,77.0
+DE,married,previously,36.0,37.0,1.0
+DK,married,currently,47.0,18.333,3.0
+DK,married,never,27.625,33.625,8.0
+DK,married,previously,52.0,2.0,1.0
+DO,married,never,25.6,68.4,5.0
+DZ,married,never,20.0,65.5,2.0
+EC,married,never,21.0,63.4,5.0
+EE,married,never,29.5,44.5,2.0
+EG,married,currently,49.667,48.667,3.0
+EG,married,never,22.424,61.909,33.0
+ES,married,currently,45.0,34.5,2.0
+ES,married,never,24.389,45.056,18.0
+ES,married,previously,18.0,97.0,1.0
+ET,married,never,24.333,58.667,3.0
+FI,married,currently,39.0,32.0,2.0
+FI,married,never,26.25,48.438,16.0
+FR,married,currently,46.667,36.0,9.0
+FR,married,never,23.587,57.317,63.0
+FR,married,previously,25.5,72.5,2.0
+GB,married,currently,40.02,50.18,50.0
+GB,married,never,26.353,52.299,201.0
+GB,married,previously,52.857,52.857,28.0
+GE,married,never,19.0,55.333,3.0
+GG,married,never,20.0,73.0,1.0
+GH,married,never,19.0,60.0,1.0
+GR,married,currently,48.75,24.0,4.0
+GR,married,never,26.0,45.556,18.0
+GR,married,previously,41.5,58.5,2.0
+GT,married,never,37.0,53.5,2.0
+GT,married,previously,20.0,45.0,1.0
+GU,married,currently,46.0,34.0,1.0
+HK,married,currently,36.0,57.0,1.0
+HK,married,never,22.938,53.938,16.0
+HK,married,previously,34.0,46.0,1.0
+HN,married,currently,33.0,8.0,1.0
+HR,married,currently,40.5,14.0,2.0
+HR,married,never,28.857,52.571,14.0
+HU,married,currently,43.0,5.0,1.0
+HU,married,never,26.0,48.417,12.0
+HU,married,previously,40.0,52.0,1.0
+ID,married,currently,29.0,52.524,21.0
+ID,married,never,21.579,56.178,337.0
+ID,married,previously,22.0,63.667,6.0
+IE,married,currently,42.75,42.0,4.0
+IE,married,never,28.852,50.407,27.0
+IL,married,currently,56.0,56.0,1.0
+IL,married,never,24.333,62.0,3.0
+IL,married,previously,29.5,47.0,2.0
+IN,married,currently,38.143,40.5,42.0
+IN,married,never,23.341,54.835,170.0
+IN,married,previously,37.143,52.429,7.0
+IR,married,currently,46.0,38.0,2.0
+IR,married,previously,32.0,53.0,1.0
+IS,married,currently,34.5,38.0,2.0
+IS,married,never,25.667,45.833,6.0
+IS,married,previously,46.0,27.0,1.0
+IT,married,currently,35.75,42.5,4.0
+IT,married,never,25.0,59.368,38.0
+JM,married,currently,29.667,67.0,3.0
+JM,married,never,24.2,51.85,20.0
+JO,married,never,24.6,42.1,10.0
+JP,married,currently,27.5,34.5,4.0
+JP,married,never,22.121,43.121,33.0
+KH,married,never,23.0,60.0,1.0
+KR,married,never,24.182,57.455,11.0
+KW,married,never,26.333,81.333,3.0
+KZ,married,never,23.0,78.0,1.0
+LB,married,currently,36.0,28.0,1.0
+LB,married,never,24.5,65.0,4.0
+LK,married,currently,61.0,3.0,1.0
+LK,married,never,23.0,80.8,5.0
+LT,married,never,23.571,41.714,7.0
+LV,married,never,21.5,37.25,4.0
+MA,married,currently,30.0,40.0,1.0
+MA,married,never,20.818,57.091,11.0
+MD,married,currently,30.0,41.0,1.0
+MK,married,never,18.75,81.75,4.0
+MN,married,never,21.0,49.0,1.0
+MO,married,never,16.0,62.0,1.0
+MU,married,never,22.5,89.5,2.0
+MV,married,never,21.333,52.0,3.0
+MX,married,never,22.769,52.436,39.0
+MX,married,previously,37.667,20.333,3.0
+MY,married,currently,30.706,45.902,51.0
+MY,married,never,21.667,56.907,399.0
+MY,married,previously,20.5,74.5,4.0
+MZ,married,never,30.0,28.0,1.0
+NG,married,currently,46.5,17.0,2.0
+NG,married,never,27.25,21.75,8.0
+NL,married,currently,42.75,54.0,4.0
+NL,married,never,24.96,48.68,25.0
+NL,married,previously,41.0,13.0,1.0
+NO,married,currently,35.0,20.667,3.0
+NO,married,never,22.8,55.6,10.0
+NP,married,currently,35.0,14.0,2.0
+NP,married,never,19.0,70.5,2.0
+NZ,married,currently,36.588,38.882,17.0
+NZ,married,never,23.306,55.339,62.0
+NZ,married,previously,48.333,17.0,3.0
+OM,married,currently,45.0,63.0,1.0
+OM,married,never,27.0,71.0,1.0
+OM,married,previously,50.0,18.0,1.0
+PA,married,never,31.0,65.0,1.0
+PE,married,never,22.571,40.571,7.0
+PH,married,currently,33.211,46.105,19.0
+PH,married,never,22.052,63.623,268.0
+PK,married,currently,36.2,41.2,5.0
+PK,married,never,22.5,65.375,24.0
+PK,married,previously,34.5,56.25,4.0
+PL,married,currently,39.167,47.0,6.0
+PL,married,never,25.381,60.619,42.0
+PL,married,previously,30.0,51.0,1.0
+PR,married,currently,30.0,36.0,1.0
+PR,married,never,54.0,0.0,1.0
+PS,married,currently,69.0,12.0,1.0
+PS,married,never,21.5,50.5,2.0
+PT,married,currently,42.25,52.25,4.0
+PT,married,never,21.615,51.692,13.0
+PT,married,previously,45.0,73.0,1.0
+PY,married,never,31.0,7.0,1.0
+QA,married,never,27.0,48.667,3.0
+RO,married,currently,45.2,29.0,5.0
+RO,married,never,25.325,51.2,40.0
+RO,married,previously,31.0,35.0,1.0
+RS,married,currently,42.667,34.0,3.0
+RS,married,never,25.833,42.333,18.0
+RU,married,currently,26.0,45.0,2.0
+RU,married,never,20.895,51.316,19.0
+RU,married,previously,34.0,71.0,1.0
+SA,married,currently,32.778,28.889,9.0
+SA,married,never,23.391,63.304,23.0
+SA,married,previously,22.0,43.0,1.0
+SD,married,never,23.0,41.0,1.0
+SE,married,currently,50.5,55.5,2.0
+SE,married,never,26.875,61.938,16.0
+SE,married,previously,53.0,57.6,5.0
+SG,married,currently,36.688,35.562,16.0
+SG,married,never,24.016,56.078,64.0
+SG,married,previously,32.5,26.75,4.0
+SI,married,currently,41.5,58.5,2.0
+SI,married,never,21.0,46.0,3.0
+SK,married,currently,20.0,31.0,1.0
+SK,married,never,21.5,69.667,6.0
+SV,married,never,18.5,64.0,2.0
+SY,married,never,24.5,37.0,2.0
+TH,married,currently,32.4,50.6,5.0
+TH,married,never,24.636,55.455,11.0
+TH,married,previously,30.0,57.5,2.0
+TR,married,currently,39.5,38.0,2.0
+TR,married,never,21.583,60.208,24.0
+TR,married,previously,48.0,43.0,1.0
+TT,married,never,22.0,73.0,3.0
+TW,married,currently,28.0,28.0,1.0
+TW,married,never,29.2,57.6,5.0
+TZ,married,never,23.0,42.0,1.0
+UA,married,currently,32.5,41.5,2.0
+UA,married,never,21.429,49.143,7.0
+US,married,currently,41.284,42.45,462.0
+US,married,never,24.076,54.936,1269.0
+US,married,previously,47.285,47.006,179.0
+UY,married,never,20.0,38.0,1.0
+UZ,married,never,18.0,79.0,1.0
+VE,married,never,21.0,50.75,4.0
+VN,married,currently,33.0,1.0,1.0
+VN,married,never,21.867,64.267,15.0
+XK,married,never,19.0,63.0,1.0
+ZA,married,currently,42.167,53.833,6.0
+ZA,married,never,23.316,61.895,19.0
+ZW,married,previously,37.0,23.0,1.0
+AE,major,business,24.333,71.0,3.0
+AE,major,computer science,26.5,48.0,2.0
+AE,major,economics,34.0,13.0,1.0
+AE,major,medicine,33.0,5.0,1.0
+AE,major,nursing,32.0,57.0,1.0
+AE,major,pharmacy,38.0,83.0,1.0
+AE,major,psychology,25.0,54.2,5.0
+AE,major,science,44.0,90.0,1.0
+AL,major,architecutre,24.0,63.667,3.0
+AL,major,computer science,23.667,57.0,3.0
+AL,major,engineering,26.0,30.0,1.0
+AL,major,finance,30.0,80.0,2.0
+AL,major,law,19.0,62.0,1.0
+AL,major,pharmacy,24.0,33.0,1.0
+AO,major,law,26.0,51.0,1.0
+AO,major,medicine,35.0,20.0,1.0
+AR,major,art,29.0,18.0,1.0
+AR,major,communication,38.0,74.0,1.0
+AR,major,computer science,25.25,51.0,4.0
+AR,major,engineering,18.0,36.0,2.0
+AR,major,english,21.0,50.0,1.0
+AR,major,medicine,17.0,60.0,1.0
+AR,major,music,36.0,63.5,2.0
+AR,major,sociology,23.0,40.0,1.0
+AT,major,art,18.0,64.0,1.0
+AT,major,biology,27.5,33.0,2.0
+AT,major,communication,28.0,69.0,1.0
+AT,major,english,23.0,46.5,2.0
+AT,major,medicine,19.0,91.0,1.0
+AT,major,physics,21.0,47.0,1.0
+AT,major,psychology,23.333,82.667,3.0
+AT,major,sociology,19.0,76.0,1.0
+AU,major,accounting,35.75,44.75,4.0
+AU,major,art,32.385,37.462,13.0
+AU,major,biology,40.5,15.5,2.0
+AU,major,business,34.7,34.1,10.0
+AU,major,communication,29.0,41.5,4.0
+AU,major,computer science,29.0,30.333,3.0
+AU,major,economics,39.333,65.333,3.0
+AU,major,education,34.455,66.727,11.0
+AU,major,engineering,34.667,47.333,12.0
+AU,major,english,35.143,47.571,7.0
+AU,major,finance,53.0,108.0,1.0
+AU,major,history,21.5,96.0,2.0
+AU,major,law,26.143,50.571,7.0
+AU,major,mathematics,21.667,60.0,3.0
+AU,major,medicine,29.667,49.889,9.0
+AU,major,music,33.5,38.75,4.0
+AU,major,none,29.5,62.0,2.0
+AU,major,nursing,34.0,45.429,7.0
+AU,major,pharmacy,40.0,33.0,1.0
+AU,major,political science,26.0,86.0,1.0
+AU,major,psychology,32.389,46.972,36.0
+AU,major,science,38.733,47.6,15.0
+AU,major,sociology,50.6,19.0,5.0
+AZ,major,chemistry,16.0,102.0,1.0
+AZ,major,psychology,25.0,79.0,1.0
+BA,major,architecutre,23.0,39.0,2.0
+BA,major,business,45.0,77.0,1.0
+BA,major,information technology,21.0,27.0,1.0
+BA,major,management,20.0,59.0,1.0
+BB,major,english,37.0,101.0,1.0
+BD,major,economics,21.0,110.0,1.0
+BE,major,chemistry,28.0,36.5,2.0
+BE,major,computer science,39.0,53.0,1.0
+BE,major,engineering,25.0,63.0,1.0
+BE,major,finance,21.0,48.0,1.0
+BE,major,law,48.5,49.5,2.0
+BE,major,mathematics,32.0,10.0,1.0
+BE,major,psychology,25.0,92.0,1.0
+BE,major,science,50.0,35.0,1.0
+BE,major,sociology,19.0,63.0,1.0
+BG,major,business,22.0,18.0,1.0
+BG,major,engineering,23.0,66.0,1.0
+BG,major,finance,25.0,59.0,1.0
+BG,major,law,26.667,29.667,3.0
+BG,major,psychology,26.25,62.5,4.0
+BN,major,accounting,30.0,20.5,2.0
+BN,major,art,20.0,103.0,1.0
+BN,major,biology,21.167,48.667,6.0
+BN,major,business,25.4,73.2,5.0
+BN,major,chemistry,29.0,98.0,1.0
+BN,major,computer science,24.8,72.2,5.0
+BN,major,economics,20.0,83.0,1.0
+BN,major,education,36.0,95.0,1.0
+BN,major,engineering,22.8,45.6,5.0
+BN,major,english,19.5,79.0,2.0
+BN,major,history,20.0,38.0,1.0
+BN,major,information technology,27.0,98.5,2.0
+BN,major,law,21.0,60.0,1.0
+BN,major,mathematics,25.0,55.333,3.0
+BN,major,medicine,18.75,66.5,4.0
+BN,major,nursing,22.2,64.8,5.0
+BN,major,pharmacy,24.0,2.0,1.0
+BN,major,psychology,19.714,75.286,7.0
+BN,major,science,27.5,46.5,2.0
+BO,major,music,19.0,33.0,1.0
+BR,major,architecutre,27.5,34.0,2.0
+BR,major,art,27.0,50.5,2.0
+BR,major,biology,31.333,75.833,6.0
+BR,major,business,32.5,83.5,2.0
+BR,major,chemistry,43.0,108.0,1.0
+BR,major,computer science,21.0,63.8,5.0
+BR,major,engineering,21.75,72.25,8.0
+BR,major,english,24.6,76.0,5.0
+BR,major,history,23.5,55.0,2.0
+BR,major,information technology,29.2,49.4,5.0
+BR,major,law,24.25,43.625,8.0
+BR,major,management,26.0,42.0,1.0
+BR,major,mathematics,26.0,61.0,3.0
+BR,major,medicine,21.222,56.333,9.0
+BR,major,music,24.5,16.0,2.0
+BR,major,pharmacy,32.0,9.0,1.0
+BR,major,physics,20.0,100.0,1.0
+BR,major,psychology,19.571,47.429,7.0
+BR,major,sociology,25.0,92.0,1.0
+BS,major,art,39.0,64.0,1.0
+BS,major,biology,17.0,38.0,1.0
+BS,major,psychology,18.0,9.0,1.0
+BW,major,psychology,45.0,60.0,1.0
+BZ,major,engineering,33.0,22.5,2.0
+CA,major,accounting,28.0,49.857,7.0
+CA,major,architecutre,27.333,62.333,3.0
+CA,major,art,33.571,55.643,14.0
+CA,major,biology,23.4,67.533,15.0
+CA,major,business,25.708,46.292,24.0
+CA,major,chemistry,36.75,38.25,4.0
+CA,major,communication,19.5,76.0,2.0
+CA,major,computer science,31.765,44.118,17.0
+CA,major,economics,31.25,43.25,4.0
+CA,major,education,31.5,39.0,2.0
+CA,major,engineering,35.25,52.65,20.0
+CA,major,english,27.5,56.545,22.0
+CA,major,finance,20.5,77.5,2.0
+CA,major,history,36.143,52.143,7.0
+CA,major,information technology,58.5,22.5,2.0
+CA,major,law,31.0,59.222,9.0
+CA,major,management,32.0,76.0,1.0
+CA,major,mathematics,27.75,77.5,4.0
+CA,major,medicine,35.667,49.667,9.0
+CA,major,music,34.333,56.0,3.0
+CA,major,none,36.5,65.5,2.0
+CA,major,nursing,32.889,55.778,9.0
+CA,major,physics,28.333,55.333,3.0
+CA,major,political science,28.222,38.0,9.0
+CA,major,psychology,27.481,50.833,54.0
+CA,major,science,24.0,34.4,5.0
+CA,major,sociology,31.75,47.875,8.0
+CH,major,architecutre,25.0,30.0,2.0
+CH,major,art,24.0,72.0,1.0
+CH,major,biology,30.0,40.0,2.0
+CH,major,business,33.333,24.667,3.0
+CH,major,computer science,22.0,81.0,1.0
+CH,major,finance,26.0,82.0,1.0
+CH,major,history,25.0,56.0,1.0
+CH,major,information technology,19.0,13.0,1.0
+CH,major,medicine,22.0,31.0,1.0
+CH,major,music,24.0,34.0,1.0
+CH,major,physics,41.0,38.0,1.0
+CH,major,psychology,29.0,37.0,2.0
+CL,major,architecutre,24.0,78.0,1.0
+CL,major,art,41.0,15.0,1.0
+CL,major,computer science,19.0,84.0,1.0
+CL,major,education,36.0,47.0,1.0
+CL,major,english,20.0,49.0,1.0
+CL,major,psychology,29.5,44.0,2.0
+CN,major,computer science,18.0,105.0,1.0
+CN,major,psychology,21.0,40.0,1.0
+CO,major,engineering,45.0,11.0,1.0
+CO,major,medicine,22.0,21.0,1.0
+CO,major,music,24.0,51.0,1.0
+CO,major,psychology,18.0,62.0,1.0
+CR,major,art,16.0,83.0,1.0
+CR,major,engineering,19.0,91.0,1.0
+CR,major,english,23.0,67.0,1.0
+CR,major,physics,21.0,58.0,1.0
+CZ,major,art,25.0,90.0,1.0
+CZ,major,computer science,21.0,31.0,1.0
+CZ,major,engineering,23.667,48.667,3.0
+CZ,major,information technology,22.2,60.8,5.0
+CZ,major,law,25.0,81.0,1.0
+CZ,major,mathematics,58.0,70.0,1.0
+DE,major,accounting,26.0,35.0,1.0
+DE,major,architecutre,28.667,61.667,3.0
+DE,major,art,27.5,62.333,6.0
+DE,major,biology,36.0,37.0,1.0
+DE,major,business,33.5,42.0,2.0
+DE,major,chemistry,29.5,80.25,4.0
+DE,major,computer science,22.0,54.3,10.0
+DE,major,economics,28.75,53.5,4.0
+DE,major,education,37.0,61.0,1.0
+DE,major,engineering,23.643,55.857,14.0
+DE,major,english,24.2,72.8,5.0
+DE,major,finance,31.0,60.0,1.0
+DE,major,history,32.0,72.0,1.0
+DE,major,law,26.333,38.667,6.0
+DE,major,management,36.0,32.0,1.0
+DE,major,mathematics,24.333,39.333,3.0
+DE,major,medicine,29.4,31.2,5.0
+DE,major,music,25.8,44.6,5.0
+DE,major,none,21.0,58.0,1.0
+DE,major,physics,25.667,51.0,3.0
+DE,major,political science,28.0,36.0,2.0
+DE,major,psychology,24.083,52.917,12.0
+DE,major,science,25.0,32.0,1.0
+DE,major,sociology,28.5,23.5,2.0
+DK,major,biology,39.0,13.0,1.0
+DK,major,business,35.0,61.0,1.0
+DK,major,engineering,23.5,48.5,2.0
+DK,major,english,19.0,48.0,1.0
+DK,major,history,48.0,5.0,1.0
+DK,major,medicine,27.0,22.5,2.0
+DK,major,music,51.0,36.0,1.0
+DK,major,psychology,40.333,7.0,3.0
+DO,major,architecutre,24.0,30.0,1.0
+DO,major,art,28.0,55.0,1.0
+DO,major,biology,26.0,94.0,1.0
+DO,major,business,27.0,85.0,1.0
+DO,major,medicine,23.0,78.0,1.0
+DZ,major,english,19.0,71.0,1.0
+DZ,major,psychology,21.0,60.0,1.0
+EC,major,education,20.0,44.0,1.0
+EC,major,english,22.0,82.0,1.0
+EC,major,law,21.0,115.0,1.0
+EC,major,medicine,23.0,21.0,1.0
+EC,major,psychology,19.0,55.0,1.0
+EE,major,art,31.0,45.0,1.0
+EE,major,engineering,28.0,44.0,1.0
+EG,major,business,21.667,62.0,3.0
+EG,major,economics,35.5,50.5,2.0
+EG,major,engineering,19.0,41.0,1.0
+EG,major,english,20.167,97.833,6.0
+EG,major,finance,38.0,54.0,1.0
+EG,major,medicine,25.19,52.333,21.0
+EG,major,psychology,24.0,41.0,1.0
+EG,major,sociology,22.0,80.0,1.0
+ES,major,architecutre,22.0,36.0,1.0
+ES,major,art,36.0,30.0,1.0
+ES,major,biology,26.0,25.0,1.0
+ES,major,business,22.0,38.0,1.0
+ES,major,computer science,19.8,61.2,5.0
+ES,major,economics,48.0,49.0,1.0
+ES,major,engineering,23.667,34.667,3.0
+ES,major,english,26.0,63.0,1.0
+ES,major,finance,33.0,69.0,1.0
+ES,major,law,42.0,20.0,1.0
+ES,major,mathematics,25.5,60.0,2.0
+ES,major,music,16.0,92.0,1.0
+ES,major,physics,35.0,16.0,1.0
+ES,major,sociology,20.0,9.0,1.0
+ET,major,architecutre,25.0,8.0,1.0
+ET,major,psychology,24.0,84.0,2.0
+FI,major,architecutre,24.0,23.0,1.0
+FI,major,biology,25.0,53.6,5.0
+FI,major,business,40.0,44.0,1.0
+FI,major,chemistry,29.0,53.0,1.0
+FI,major,communication,27.0,14.0,1.0
+FI,major,economics,35.0,69.0,1.0
+FI,major,education,30.0,39.0,2.0
+FI,major,engineering,30.0,19.0,1.0
+FI,major,english,29.0,27.0,1.0
+FI,major,mathematics,23.0,46.0,1.0
+FI,major,medicine,27.0,66.0,2.0
+FI,major,psychology,22.0,66.0,1.0
+FR,major,accounting,20.0,51.0,1.0
+FR,major,architecutre,30.0,84.0,1.0
+FR,major,art,25.667,60.5,6.0
+FR,major,biology,26.4,47.0,5.0
+FR,major,business,25.667,21.0,3.0
+FR,major,chemistry,25.0,43.0,1.0
+FR,major,computer science,30.667,39.667,6.0
+FR,major,economics,28.0,39.0,4.0
+FR,major,engineering,22.0,87.5,4.0
+FR,major,english,22.571,71.429,7.0
+FR,major,history,33.25,49.25,4.0
+FR,major,information technology,37.5,58.5,2.0
+FR,major,law,24.0,30.0,5.0
+FR,major,mathematics,22.75,63.5,4.0
+FR,major,medicine,31.0,60.0,4.0
+FR,major,music,20.0,82.0,1.0
+FR,major,none,43.0,16.0,1.0
+FR,major,physics,29.8,47.0,5.0
+FR,major,psychology,20.286,70.0,7.0
+FR,major,sociology,26.667,72.0,3.0
+GB,major,accounting,20.75,56.0,4.0
+GB,major,architecutre,21.667,72.333,3.0
+GB,major,art,36.9,54.9,10.0
+GB,major,biology,23.273,42.182,11.0
+GB,major,business,34.111,53.667,9.0
+GB,major,chemistry,32.857,59.286,7.0
+GB,major,computer science,23.5,33.5,8.0
+GB,major,economics,40.667,62.778,9.0
+GB,major,education,44.545,36.818,11.0
+GB,major,engineering,29.308,62.154,13.0
+GB,major,english,34.607,49.143,28.0
+GB,major,finance,34.5,52.5,2.0
+GB,major,history,39.643,59.786,14.0
+GB,major,information technology,31.333,86.667,3.0
+GB,major,law,26.333,39.333,9.0
+GB,major,management,30.0,114.0,1.0
+GB,major,mathematics,26.353,41.882,17.0
+GB,major,medicine,31.667,47.267,15.0
+GB,major,music,31.091,56.364,11.0
+GB,major,none,48.0,55.333,3.0
+GB,major,nursing,39.214,48.286,14.0
+GB,major,pharmacy,21.0,23.0,1.0
+GB,major,physics,22.167,72.0,6.0
+GB,major,psychology,26.786,51.75,56.0
+GB,major,science,36.5,77.5,2.0
+GB,major,sociology,33.667,55.5,12.0
+GE,major,english,18.0,75.0,1.0
+GE,major,mathematics,19.0,28.0,1.0
+GE,major,psychology,20.0,63.0,1.0
+GG,major,law,20.0,73.0,1.0
+GH,major,medicine,19.0,60.0,1.0
+GR,major,art,32.0,8.0,1.0
+GR,major,biology,40.0,40.0,1.0
+GR,major,business,23.0,30.0,1.0
+GR,major,chemistry,22.333,50.667,3.0
+GR,major,economics,24.0,44.0,2.0
+GR,major,engineering,37.5,24.5,4.0
+GR,major,english,20.0,84.0,1.0
+GR,major,law,46.0,18.0,1.0
+GR,major,mathematics,24.0,53.0,1.0
+GR,major,medicine,35.0,54.5,2.0
+GR,major,nursing,27.0,86.0,1.0
+GR,major,pharmacy,35.0,10.0,1.0
+GR,major,political science,50.0,24.0,1.0
+GR,major,psychology,30.333,54.333,3.0
+GR,major,sociology,23.0,70.0,1.0
+GT,major,art,34.0,34.0,1.0
+GT,major,education,40.0,73.0,1.0
+GT,major,mathematics,20.0,45.0,1.0
+GU,major,mathematics,46.0,34.0,1.0
+HK,major,accounting,24.333,55.0,3.0
+HK,major,biology,25.0,12.0,1.0
+HK,major,business,21.0,40.0,2.0
+HK,major,communication,20.0,45.0,1.0
+HK,major,computer science,20.0,60.0,1.0
+HK,major,engineering,23.0,65.0,2.0
+HK,major,english,29.5,40.5,2.0
+HK,major,information technology,18.0,86.0,1.0
+HK,major,mathematics,34.0,117.0,1.0
+HK,major,medicine,21.0,28.0,1.0
+HK,major,psychology,26.333,54.0,3.0
+HN,major,medicine,33.0,8.0,1.0
+HR,major,chemistry,32.0,75.333,3.0
+HR,major,computer science,42.0,39.0,1.0
+HR,major,engineering,31.0,47.0,1.0
+HR,major,english,40.0,78.0,1.0
+HR,major,law,21.333,53.667,3.0
+HR,major,medicine,40.0,3.0,1.0
+HR,major,physics,30.0,56.0,1.0
+HR,major,psychology,28.4,30.8,5.0
+HU,major,accounting,40.0,52.0,1.0
+HU,major,art,18.0,13.0,1.0
+HU,major,business,43.0,5.0,1.0
+HU,major,computer science,35.0,42.0,1.0
+HU,major,economics,31.5,69.5,2.0
+HU,major,engineering,25.0,30.0,1.0
+HU,major,english,20.5,80.5,2.0
+HU,major,history,35.5,40.5,2.0
+HU,major,mathematics,19.0,14.0,1.0
+HU,major,medicine,21.0,51.0,1.0
+HU,major,psychology,19.0,50.0,1.0
+ID,major,accounting,22.706,54.118,17.0
+ID,major,architecutre,22.75,73.0,8.0
+ID,major,art,20.5,66.0,6.0
+ID,major,biology,21.5,56.375,8.0
+ID,major,business,23.316,52.842,19.0
+ID,major,communication,21.2,58.35,20.0
+ID,major,computer science,21.8,50.5,10.0
+ID,major,economics,23.0,45.0,22.0
+ID,major,education,24.333,79.333,3.0
+ID,major,engineering,23.0,54.559,34.0
+ID,major,english,21.591,56.273,66.0
+ID,major,finance,20.5,42.5,2.0
+ID,major,history,26.0,61.5,2.0
+ID,major,information technology,24.5,81.0,4.0
+ID,major,law,21.24,53.84,25.0
+ID,major,management,20.846,55.462,13.0
+ID,major,mathematics,21.167,63.333,6.0
+ID,major,medicine,22.441,48.794,34.0
+ID,major,none,17.0,79.5,2.0
+ID,major,nursing,21.0,58.667,3.0
+ID,major,pharmacy,23.714,60.571,7.0
+ID,major,physics,25.0,89.0,1.0
+ID,major,political science,24.5,25.5,2.0
+ID,major,psychology,21.021,61.104,48.0
+ID,major,science,25.0,61.5,2.0
+IE,major,chemistry,31.0,19.0,1.0
+IE,major,computer science,24.8,34.2,5.0
+IE,major,economics,27.0,31.5,2.0
+IE,major,engineering,35.0,35.667,3.0
+IE,major,english,20.0,76.0,1.0
+IE,major,history,27.667,88.0,3.0
+IE,major,law,40.5,65.5,4.0
+IE,major,management,42.0,27.0,1.0
+IE,major,mathematics,21.5,46.0,2.0
+IE,major,medicine,23.5,63.5,2.0
+IE,major,nursing,47.0,62.0,1.0
+IE,major,physics,42.0,50.5,2.0
+IE,major,psychology,27.0,39.5,4.0
+IL,major,biology,31.0,52.0,1.0
+IL,major,engineering,56.0,56.0,1.0
+IL,major,law,33.0,52.0,1.0
+IL,major,medicine,22.0,67.0,1.0
+IL,major,music,26.0,42.0,1.0
+IL,major,psychology,20.0,67.0,1.0
+IN,major,accounting,27.333,44.0,3.0
+IN,major,architecutre,29.5,73.0,2.0
+IN,major,art,22.25,32.75,4.0
+IN,major,biology,22.5,29.5,2.0
+IN,major,business,27.174,46.783,23.0
+IN,major,chemistry,24.333,72.333,3.0
+IN,major,computer science,26.053,48.737,19.0
+IN,major,economics,29.857,52.143,7.0
+IN,major,education,35.5,45.0,2.0
+IN,major,engineering,25.6,53.64,50.0
+IN,major,english,25.0,58.217,23.0
+IN,major,finance,31.625,36.75,8.0
+IN,major,law,21.875,59.625,8.0
+IN,major,management,41.5,49.75,4.0
+IN,major,mathematics,26.75,34.5,4.0
+IN,major,medicine,25.214,49.0,14.0
+IN,major,none,30.0,20.0,1.0
+IN,major,pharmacy,38.0,38.0,1.0
+IN,major,physics,26.833,52.833,6.0
+IN,major,political science,30.0,78.4,5.0
+IN,major,psychology,26.0,57.0,26.0
+IN,major,science,29.5,46.0,4.0
+IR,major,computer science,52.0,24.0,1.0
+IR,major,engineering,40.0,52.0,1.0
+IR,major,medicine,32.0,53.0,1.0
+IS,major,art,25.0,30.0,1.0
+IS,major,economics,18.0,0.0,1.0
+IS,major,engineering,46.0,27.0,1.0
+IS,major,english,29.5,89.0,2.0
+IS,major,law,34.0,67.0,1.0
+IS,major,medicine,26.0,33.5,2.0
+IS,major,psychology,35.0,9.0,1.0
+IT,major,art,31.75,66.5,4.0
+IT,major,biology,21.5,67.0,2.0
+IT,major,communication,23.0,65.0,1.0
+IT,major,computer science,25.0,53.0,1.0
+IT,major,economics,22.0,16.0,1.0
+IT,major,engineering,24.5,49.0,2.0
+IT,major,english,24.5,58.0,2.0
+IT,major,finance,24.0,36.0,1.0
+IT,major,history,32.0,77.0,1.0
+IT,major,information technology,22.0,58.0,3.0
+IT,major,law,30.333,50.667,3.0
+IT,major,mathematics,29.5,26.5,2.0
+IT,major,medicine,26.0,35.5,2.0
+IT,major,nursing,19.0,121.0,1.0
+IT,major,pharmacy,26.0,90.0,1.0
+IT,major,physics,28.667,33.667,3.0
+IT,major,psychology,23.0,67.727,11.0
+IT,major,sociology,47.0,58.0,1.0
+JM,major,accounting,20.0,88.0,1.0
+JM,major,art,21.0,60.0,2.0
+JM,major,business,20.0,48.5,2.0
+JM,major,chemistry,21.5,72.5,2.0
+JM,major,communication,21.0,64.0,2.0
+JM,major,computer science,26.0,32.75,4.0
+JM,major,education,26.0,50.0,1.0
+JM,major,history,19.0,46.0,1.0
+JM,major,medicine,28.0,59.6,5.0
+JM,major,psychology,20.0,56.5,2.0
+JM,major,sociology,57.0,22.0,1.0
+JO,major,computer science,25.0,7.0,1.0
+JO,major,economics,21.0,17.0,1.0
+JO,major,finance,21.0,53.0,3.0
+JO,major,law,30.333,35.667,3.0
+JO,major,medicine,23.0,65.5,2.0
+JP,major,accounting,28.0,34.0,1.0
+JP,major,biology,27.0,51.0,1.0
+JP,major,chemistry,18.0,55.0,1.0
+JP,major,computer science,21.5,58.75,4.0
+JP,major,economics,22.0,48.0,1.0
+JP,major,education,21.0,61.0,1.0
+JP,major,engineering,22.12,35.44,25.0
+JP,major,physics,30.0,66.5,2.0
+JP,major,sociology,25.0,58.0,1.0
+KH,major,english,23.0,60.0,1.0
+KR,major,architecutre,21.0,93.0,1.0
+KR,major,business,32.0,87.0,1.0
+KR,major,communication,19.0,78.0,1.0
+KR,major,computer science,22.667,45.667,3.0
+KR,major,engineering,22.0,56.0,1.0
+KR,major,english,26.0,39.0,1.0
+KR,major,finance,22.0,94.0,1.0
+KR,major,psychology,32.0,39.0,1.0
+KR,major,science,24.0,9.0,1.0
+KW,major,english,21.5,80.5,2.0
+KW,major,psychology,36.0,83.0,1.0
+KZ,major,sociology,23.0,78.0,1.0
+LB,major,biology,23.0,36.0,1.0
+LB,major,business,24.0,46.0,1.0
+LB,major,law,30.0,88.0,1.0
+LB,major,psychology,28.5,59.0,2.0
+LK,major,engineering,18.0,95.0,1.0
+LK,major,english,24.667,68.333,3.0
+LK,major,physics,23.0,104.0,1.0
+LK,major,psychology,61.0,3.0,1.0
+LT,major,biology,19.0,51.5,2.0
+LT,major,computer science,25.5,61.5,2.0
+LT,major,economics,25.0,36.0,1.0
+LT,major,medicine,22.0,2.0,1.0
+LT,major,political science,29.0,28.0,1.0
+LV,major,business,16.0,81.0,1.0
+LV,major,medicine,30.0,5.0,1.0
+LV,major,psychology,20.0,31.5,2.0
+MA,major,architecutre,20.5,30.0,2.0
+MA,major,business,22.0,80.0,1.0
+MA,major,economics,21.5,56.0,2.0
+MA,major,engineering,22.0,85.0,1.0
+MA,major,english,21.0,66.0,1.0
+MA,major,law,18.0,89.0,1.0
+MA,major,management,23.0,7.0,1.0
+MA,major,medicine,26.5,36.5,2.0
+MA,major,psychology,16.0,96.0,1.0
+MD,major,engineering,30.0,41.0,1.0
+MK,major,art,16.0,122.0,1.0
+MK,major,physics,18.0,55.0,1.0
+MK,major,psychology,20.5,75.0,2.0
+MN,major,medicine,21.0,49.0,1.0
+MO,major,medicine,16.0,62.0,1.0
+MU,major,business,22.5,89.5,2.0
+MV,major,business,21.333,52.0,3.0
+MX,major,accounting,23.0,14.0,1.0
+MX,major,art,32.4,49.8,5.0
+MX,major,business,19.5,43.5,2.0
+MX,major,communication,22.0,63.0,2.0
+MX,major,computer science,23.667,39.0,3.0
+MX,major,education,36.0,54.0,1.0
+MX,major,engineering,21.5,34.5,6.0
+MX,major,english,27.0,64.5,2.0
+MX,major,history,34.5,40.0,2.0
+MX,major,law,19.667,57.0,3.0
+MX,major,management,21.0,66.0,1.0
+MX,major,medicine,20.667,33.667,3.0
+MX,major,music,25.0,74.0,1.0
+MX,major,physics,20.0,63.5,2.0
+MX,major,political science,22.0,86.0,1.0
+MX,major,psychology,20.714,59.714,7.0
+MY,major,accounting,21.8,60.543,35.0
+MY,major,architecutre,23.125,62.0,8.0
+MY,major,art,24.0,49.5,4.0
+MY,major,biology,21.0,48.75,8.0
+MY,major,business,21.705,57.591,44.0
+MY,major,chemistry,21.0,44.429,7.0
+MY,major,communication,23.9,45.6,10.0
+MY,major,computer science,23.455,57.727,33.0
+MY,major,economics,26.444,58.222,9.0
+MY,major,education,25.529,52.706,17.0
+MY,major,engineering,23.139,55.819,72.0
+MY,major,english,21.086,58.371,35.0
+MY,major,finance,20.667,47.25,12.0
+MY,major,history,23.667,54.0,3.0
+MY,major,information technology,26.889,59.556,9.0
+MY,major,law,22.55,60.85,20.0
+MY,major,management,22.636,53.182,11.0
+MY,major,mathematics,23.6,55.6,5.0
+MY,major,medicine,22.206,55.706,34.0
+MY,major,music,26.5,62.5,2.0
+MY,major,none,31.0,81.0,1.0
+MY,major,nursing,23.6,48.4,10.0
+MY,major,pharmacy,23.0,59.0,9.0
+MY,major,physics,24.0,63.333,3.0
+MY,major,psychology,22.121,54.0,33.0
+MY,major,science,20.429,46.429,14.0
+MY,major,sociology,23.5,62.0,6.0
+MZ,major,history,30.0,28.0,1.0
+NG,major,economics,22.0,2.0,1.0
+NG,major,engineering,16.0,88.0,1.0
+NG,major,information technology,32.0,3.0,1.0
+NG,major,law,35.0,13.5,2.0
+NG,major,medicine,36.333,15.333,3.0
+NG,major,psychology,31.0,21.0,2.0
+NL,major,accounting,27.0,50.0,1.0
+NL,major,art,22.5,52.0,2.0
+NL,major,biology,16.0,23.0,1.0
+NL,major,chemistry,31.0,72.5,2.0
+NL,major,computer science,20.0,107.0,1.0
+NL,major,engineering,21.0,61.0,3.0
+NL,major,english,24.5,52.5,2.0
+NL,major,history,37.0,30.0,1.0
+NL,major,law,21.0,71.0,3.0
+NL,major,management,25.0,38.0,1.0
+NL,major,mathematics,33.0,47.0,1.0
+NL,major,medicine,55.0,76.0,1.0
+NL,major,music,28.0,45.0,1.0
+NL,major,pharmacy,30.0,17.0,1.0
+NL,major,physics,26.0,11.5,2.0
+NL,major,psychology,30.2,38.8,5.0
+NL,major,science,41.0,13.0,1.0
+NL,major,sociology,39.0,33.0,1.0
+NO,major,art,26.0,55.0,1.0
+NO,major,business,30.0,19.0,1.0
+NO,major,economics,37.0,9.0,1.0
+NO,major,engineering,21.5,41.5,2.0
+NO,major,english,24.0,48.0,1.0
+NO,major,history,22.0,72.0,1.0
+NO,major,nursing,23.0,54.0,1.0
+NO,major,psychology,19.333,59.0,3.0
+NO,major,sociology,35.0,50.5,2.0
+NP,major,accounting,19.0,97.0,1.0
+NP,major,nursing,30.0,19.0,1.0
+NP,major,psychology,40.0,9.0,1.0
+NP,major,science,19.0,44.0,1.0
+NZ,major,accounting,20.25,47.0,8.0
+NZ,major,architecutre,20.0,51.0,1.0
+NZ,major,art,33.667,46.0,3.0
+NZ,major,biology,43.0,34.0,3.0
+NZ,major,business,21.333,57.667,9.0
+NZ,major,chemistry,25.0,38.0,1.0
+NZ,major,communication,27.0,48.5,2.0
+NZ,major,computer science,20.667,53.0,3.0
+NZ,major,education,27.0,12.0,1.0
+NZ,major,engineering,26.167,52.0,6.0
+NZ,major,english,24.8,54.4,5.0
+NZ,major,history,23.5,68.5,2.0
+NZ,major,information technology,50.0,3.0,1.0
+NZ,major,law,19.5,62.0,4.0
+NZ,major,management,35.0,36.333,3.0
+NZ,major,medicine,30.667,54.667,6.0
+NZ,major,music,19.667,83.667,3.0
+NZ,major,pharmacy,17.5,60.5,2.0
+NZ,major,physics,62.0,30.0,1.0
+NZ,major,psychology,31.455,39.0,11.0
+NZ,major,science,27.571,58.714,7.0
+OM,major,engineering,38.5,44.5,2.0
+OM,major,english,45.0,63.0,1.0
+PA,major,psychology,31.0,65.0,1.0
+PE,major,biology,21.0,88.0,1.0
+PE,major,computer science,19.0,42.0,1.0
+PE,major,engineering,22.0,70.0,1.0
+PE,major,law,24.0,25.5,2.0
+PE,major,psychology,24.0,16.5,2.0
+PH,major,accounting,21.364,75.182,11.0
+PH,major,architecutre,20.5,62.75,8.0
+PH,major,art,22.0,58.0,1.0
+PH,major,biology,22.857,76.214,14.0
+PH,major,business,21.647,74.529,17.0
+PH,major,chemistry,27.667,43.0,3.0
+PH,major,communication,23.667,73.111,9.0
+PH,major,computer science,21.833,71.667,18.0
+PH,major,economics,20.25,72.0,4.0
+PH,major,education,25.833,56.667,12.0
+PH,major,engineering,21.615,56.538,13.0
+PH,major,english,23.2,56.8,20.0
+PH,major,finance,20.0,66.75,4.0
+PH,major,history,24.0,99.0,1.0
+PH,major,information technology,22.923,57.615,13.0
+PH,major,management,23.125,78.5,8.0
+PH,major,mathematics,21.6,66.8,5.0
+PH,major,medicine,22.8,67.8,10.0
+PH,major,music,26.5,71.0,2.0
+PH,major,none,23.0,29.0,1.0
+PH,major,nursing,23.938,60.25,16.0
+PH,major,pharmacy,24.429,63.714,7.0
+PH,major,political science,22.5,73.5,2.0
+PH,major,psychology,22.663,54.024,83.0
+PH,major,science,28.5,57.0,2.0
+PH,major,sociology,23.667,69.667,3.0
+PK,major,biology,21.0,102.0,1.0
+PK,major,chemistry,28.5,62.0,2.0
+PK,major,communication,23.0,98.0,1.0
+PK,major,economics,19.0,73.0,1.0
+PK,major,education,21.0,37.0,1.0
+PK,major,engineering,30.0,84.0,1.0
+PK,major,english,30.5,63.667,6.0
+PK,major,law,35.0,83.0,1.0
+PK,major,management,38.0,21.0,1.0
+PK,major,mathematics,24.0,56.0,1.0
+PK,major,medicine,27.5,46.333,6.0
+PK,major,pharmacy,26.0,34.0,1.0
+PK,major,psychology,20.75,54.5,8.0
+PK,major,sociology,25.5,96.0,2.0
+PL,major,architecutre,20.0,54.0,1.0
+PL,major,biology,20.0,77.0,2.0
+PL,major,communication,28.0,107.0,1.0
+PL,major,computer science,31.25,38.25,4.0
+PL,major,economics,25.8,47.2,5.0
+PL,major,engineering,44.333,34.667,3.0
+PL,major,english,25.5,61.0,6.0
+PL,major,finance,21.0,56.0,1.0
+PL,major,information technology,27.4,85.8,5.0
+PL,major,law,27.0,67.0,1.0
+PL,major,management,26.333,61.667,3.0
+PL,major,mathematics,23.0,21.0,1.0
+PL,major,medicine,22.333,69.667,3.0
+PL,major,pharmacy,34.5,55.5,2.0
+PL,major,physics,42.0,58.0,1.0
+PL,major,psychology,20.714,63.571,7.0
+PL,major,sociology,31.0,41.333,3.0
+PR,major,art,30.0,36.0,1.0
+PR,major,education,54.0,0.0,1.0
+PS,major,computer science,20.0,25.0,1.0
+PS,major,english,23.0,76.0,1.0
+PS,major,sociology,69.0,12.0,1.0
+PT,major,accounting,19.0,87.0,1.0
+PT,major,architecutre,26.0,21.5,2.0
+PT,major,art,18.0,103.0,1.0
+PT,major,computer science,19.0,50.0,1.0
+PT,major,engineering,22.0,39.0,2.0
+PT,major,english,19.0,35.0,1.0
+PT,major,history,35.0,18.0,1.0
+PT,major,information technology,35.0,108.0,1.0
+PT,major,law,45.0,73.0,1.0
+PT,major,mathematics,51.0,44.0,2.0
+PT,major,psychology,21.4,54.2,5.0
+PY,major,computer science,31.0,7.0,1.0
+QA,major,economics,22.0,51.0,1.0
+QA,major,medicine,28.0,85.0,1.0
+QA,major,pharmacy,31.0,10.0,1.0
+RO,major,biology,19.0,86.0,1.0
+RO,major,business,35.333,40.0,6.0
+RO,major,computer science,28.25,44.25,4.0
+RO,major,economics,26.5,64.6,10.0
+RO,major,engineering,35.667,36.0,3.0
+RO,major,english,25.0,42.667,3.0
+RO,major,finance,26.0,6.0,1.0
+RO,major,information technology,22.0,31.0,1.0
+RO,major,law,25.0,72.0,3.0
+RO,major,mathematics,22.0,21.0,1.0
+RO,major,medicine,28.0,43.25,4.0
+RO,major,none,23.0,20.0,1.0
+RO,major,psychology,23.5,31.5,6.0
+RO,major,sociology,29.0,93.5,2.0
+RS,major,architecutre,39.5,27.5,2.0
+RS,major,computer science,39.0,26.0,1.0
+RS,major,economics,20.0,60.0,1.0
+RS,major,english,26.5,53.0,4.0
+RS,major,history,22.0,68.0,1.0
+RS,major,information technology,36.0,74.0,1.0
+RS,major,law,36.0,22.0,2.0
+RS,major,mathematics,19.5,39.5,2.0
+RS,major,pharmacy,24.5,30.5,2.0
+RS,major,physics,27.0,47.0,1.0
+RS,major,psychology,27.333,43.333,3.0
+RS,major,science,22.0,8.0,1.0
+RU,major,biology,22.0,48.0,1.0
+RU,major,business,24.0,90.0,1.0
+RU,major,computer science,20.0,40.25,4.0
+RU,major,engineering,18.5,74.5,2.0
+RU,major,english,18.0,89.0,1.0
+RU,major,mathematics,26.0,43.0,1.0
+RU,major,medicine,22.667,52.667,6.0
+RU,major,music,26.0,19.0,1.0
+RU,major,physics,17.0,59.0,1.0
+RU,major,psychology,24.25,40.5,4.0
+SA,major,architecutre,22.0,107.0,1.0
+SA,major,art,27.429,38.429,7.0
+SA,major,business,24.0,96.0,1.0
+SA,major,chemistry,25.0,62.0,1.0
+SA,major,computer science,27.5,30.0,2.0
+SA,major,economics,32.0,61.0,1.0
+SA,major,engineering,17.0,67.0,1.0
+SA,major,english,32.8,54.6,5.0
+SA,major,medicine,21.5,78.833,6.0
+SA,major,none,22.0,76.0,2.0
+SA,major,nursing,27.5,18.0,2.0
+SA,major,psychology,24.0,25.75,4.0
+SD,major,medicine,23.0,41.0,1.0
+SE,major,art,34.333,53.667,3.0
+SE,major,biology,59.0,46.0,1.0
+SE,major,computer science,57.0,100.0,1.0
+SE,major,economics,32.0,85.0,2.0
+SE,major,english,38.0,53.0,1.0
+SE,major,information technology,20.0,77.0,1.0
+SE,major,mathematics,53.0,46.0,1.0
+SE,major,medicine,22.5,51.0,2.0
+SE,major,music,19.0,60.0,1.0
+SE,major,none,16.0,113.0,1.0
+SE,major,political science,44.0,64.0,1.0
+SE,major,psychology,34.8,51.8,5.0
+SE,major,sociology,34.667,46.333,3.0
+SG,major,accounting,22.4,49.6,5.0
+SG,major,architecutre,20.5,30.0,2.0
+SG,major,art,21.875,54.5,8.0
+SG,major,biology,24.5,36.5,2.0
+SG,major,business,26.444,54.222,9.0
+SG,major,chemistry,25.0,20.0,2.0
+SG,major,computer science,23.0,30.333,3.0
+SG,major,economics,45.0,5.0,1.0
+SG,major,education,42.0,60.0,1.0
+SG,major,engineering,28.0,53.167,6.0
+SG,major,english,33.667,45.444,9.0
+SG,major,finance,23.0,68.0,2.0
+SG,major,history,25.0,86.0,2.0
+SG,major,information technology,30.0,71.0,2.0
+SG,major,law,33.5,39.75,4.0
+SG,major,management,28.0,18.0,1.0
+SG,major,mathematics,26.5,49.0,2.0
+SG,major,medicine,28.75,29.75,4.0
+SG,major,music,23.5,83.5,2.0
+SG,major,none,29.0,62.0,1.0
+SG,major,nursing,23.0,32.0,2.0
+SG,major,pharmacy,36.0,66.5,2.0
+SG,major,psychology,22.5,67.75,8.0
+SG,major,science,26.333,72.667,3.0
+SG,major,sociology,23.0,6.0,1.0
+SI,major,art,27.0,61.0,2.0
+SI,major,computer science,26.0,23.0,1.0
+SI,major,management,47.0,52.0,1.0
+SI,major,psychology,19.0,58.0,1.0
+SK,major,computer science,18.0,47.0,1.0
+SK,major,law,23.333,81.667,3.0
+SK,major,medicine,20.0,31.0,1.0
+SK,major,psychology,20.5,63.0,2.0
+SV,major,english,19.0,54.0,1.0
+SV,major,medicine,18.0,74.0,1.0
+SY,major,education,30.0,29.0,1.0
+SY,major,pharmacy,19.0,45.0,1.0
+TH,major,accounting,23.0,72.5,2.0
+TH,major,architecutre,25.0,30.0,1.0
+TH,major,art,34.0,3.0,1.0
+TH,major,business,28.0,7.0,1.0
+TH,major,economics,31.5,40.0,2.0
+TH,major,education,26.0,108.0,1.0
+TH,major,engineering,25.0,51.0,1.0
+TH,major,english,24.0,105.0,1.0
+TH,major,finance,30.0,18.0,1.0
+TH,major,law,27.667,54.667,3.0
+TH,major,medicine,19.0,62.0,1.0
+TH,major,physics,32.0,87.0,1.0
+TH,major,psychology,29.0,59.0,2.0
+TR,major,accounting,17.0,37.0,1.0
+TR,major,biology,26.5,67.0,2.0
+TR,major,business,32.333,38.333,3.0
+TR,major,computer science,24.667,62.333,3.0
+TR,major,economics,23.0,54.0,1.0
+TR,major,engineering,25.0,87.0,2.0
+TR,major,english,18.333,42.0,3.0
+TR,major,history,16.0,92.0,1.0
+TR,major,medicine,22.75,73.0,4.0
+TR,major,music,48.0,43.0,1.0
+TR,major,physics,19.0,66.0,1.0
+TR,major,psychology,20.4,48.8,5.0
+TT,major,business,17.0,108.0,1.0
+TT,major,engineering,18.0,69.0,1.0
+TT,major,psychology,31.0,42.0,1.0
+TW,major,art,20.0,34.0,1.0
+TW,major,biology,32.0,93.0,1.0
+TW,major,business,32.0,27.0,1.0
+TW,major,computer science,28.0,28.0,1.0
+TW,major,engineering,31.0,67.0,2.0
+TZ,major,medicine,23.0,42.0,1.0
+UA,major,art,22.0,56.0,1.0
+UA,major,economics,32.0,55.0,1.0
+UA,major,english,25.0,76.5,2.0
+UA,major,management,33.0,28.0,1.0
+UA,major,mathematics,20.0,30.0,1.0
+UA,major,medicine,16.0,54.0,1.0
+UA,major,psychology,21.0,25.5,2.0
+US,major,accounting,35.209,51.744,43.0
+US,major,architecutre,30.833,51.0,12.0
+US,major,art,30.174,60.349,86.0
+US,major,biology,26.405,48.452,126.0
+US,major,business,35.037,47.636,162.0
+US,major,chemistry,30.696,45.478,23.0
+US,major,communication,29.893,41.821,28.0
+US,major,computer science,26.364,49.707,99.0
+US,major,economics,26.87,45.609,23.0
+US,major,education,35.398,49.349,83.0
+US,major,engineering,27.525,45.95,101.0
+US,major,english,30.368,57.076,144.0
+US,major,finance,32.0,39.0,11.0
+US,major,history,38.065,50.696,46.0
+US,major,information technology,27.889,56.0,9.0
+US,major,law,33.879,49.758,33.0
+US,major,management,28.364,44.818,11.0
+US,major,mathematics,30.35,46.25,40.0
+US,major,medicine,29.311,52.644,45.0
+US,major,music,25.438,59.958,48.0
+US,major,none,34.923,44.192,26.0
+US,major,nursing,31.735,56.929,113.0
+US,major,pharmacy,28.333,60.889,9.0
+US,major,physics,26.04,63.56,25.0
+US,major,political science,35.789,49.053,38.0
+US,major,psychology,28.111,51.682,406.0
+US,major,science,32.524,49.333,21.0
+US,major,sociology,33.848,46.96,99.0
+UY,major,education,20.0,38.0,1.0
+UZ,major,art,18.0,79.0,1.0
+VE,major,business,23.0,30.0,1.0
+VE,major,music,17.0,10.0,1.0
+VE,major,psychology,22.0,81.5,2.0
+VN,major,architecutre,24.0,67.0,1.0
+VN,major,business,21.333,67.667,3.0
+VN,major,chemistry,23.0,8.0,1.0
+VN,major,computer science,19.0,46.0,1.0
+VN,major,economics,24.0,93.0,1.0
+VN,major,engineering,25.0,43.0,1.0
+VN,major,english,21.0,82.75,4.0
+VN,major,law,23.5,66.0,2.0
+VN,major,pharmacy,18.0,41.0,1.0
+VN,major,psychology,33.0,1.0,1.0
+XK,major,psychology,19.0,63.0,1.0
+ZA,major,accounting,26.0,47.0,2.0
+ZA,major,architecutre,21.0,66.0,1.0
+ZA,major,business,31.0,68.667,3.0
+ZA,major,computer science,35.0,55.0,1.0
+ZA,major,education,24.5,66.5,2.0
+ZA,major,engineering,20.0,80.0,1.0
+ZA,major,english,34.0,18.0,1.0
+ZA,major,information technology,24.5,46.5,2.0
+ZA,major,law,30.5,67.5,2.0
+ZA,major,management,24.0,62.0,1.0
+ZA,major,nursing,18.0,31.0,1.0
+ZA,major,pharmacy,21.0,10.0,1.0
+ZA,major,physics,23.0,78.0,1.0
+ZA,major,psychology,33.6,84.2,5.0
+ZA,major,science,28.0,17.0,1.0
+ZW,major,law,37.0,23.0,1.0
